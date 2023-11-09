@@ -3,7 +3,7 @@
 
 ## Description
 
-`RustVMStat` is a command-line utility inspired by the classic `vmstat` tool, reimagined in Rust for modern Unix-like operating systems. It reports real-time statistics about system processes, memory, paging, block IO, traps, and CPU activity, catering to both system administrators and developers. This Rust implementation emphasizes an enhanced user experience with real-time updates and visualizations, harnessing the power of the `tui-rs` crate to render a terminal-based graphical user interface. The goal of `RustVMStat` is to provide a more interactive and visually appealing way to monitor system performance, with easy-to-read charts and customizable views.
+`RustVMStat` is a command-line utility inspired by the classic `vmstat` tool, reimagined in Rust for modern Unix-like operating systems. It reports real-time statistics about system processes, memory, paging, block IO, traps, and CPU activity, catering to both system administrators and developers. This Rust implementation emphasizes an enhanced user experience with real-time updates and visualizations, harnessing the power of the `tui-rs` crate to render a terminal-based graphical user interface. The goal of `RustVMStat` is to provide a more interactive and visually appealing way to monitor system performance, with easy-to-read charts and customizable views. The idea for this project was developed with the aid of ChatGPT. Here is the link to the [conversation](https://chat.openai.com/share/2873ea3b-068b-49d5-849f-cba1257fcc4e).
 
 ## Installation
 
@@ -38,3 +38,5 @@ Remember to check the `--help` option for more detailed command usage:
 ```sh
 rustvmstat --help
 ```
+
+
