@@ -1,6 +1,20 @@
-use core::num;
 use std::io::{self, Write};
 use crate::args::Cli;
+use syntect::highlighting::{ThemeSet, Theme};
+use syntect::parsing::SyntaxSet;
+use syntect::easy::HighlightLines;
+
+fn highlight_line(syntax_set: &SyntaxSet, theme: &Theme, line: &str) -> String {
+    let mut h = HighlightLines::new(syntax_set.find_syntax_by_extension("rs").unwrap(), theme);
+    match h.highlight_line(line, syntax_set) {
+
+        Ok(ranges) => syntect::util::as_24_bit_terminal_escaped(&ranges[..], false),
+        Err(e) => {
+            eprintln!("Error: {}", e);
+            line.to_string()
+        }
+    }
+}
 
 fn display_nonprinting_chars(s: &str) -> String {
     let mut displayed = String::new();
@@ -31,6 +45,9 @@ pub fn parse_args(filenames: &[String], cli: &Cli) {
     let mut handle = stdout.lock();
     let mut file_line_number = 1;
     let mut number_of_consecutive_blank_lines = 0;
+    let syntax_set = SyntaxSet::load_defaults_newlines();
+    let theme_set = ThemeSet::load_defaults();
+    let theme = &theme_set.themes["base16-ocean.dark"];
     
     for filename in filenames {
         match super::io::read_lines(filename) {
@@ -50,7 +67,6 @@ pub fn parse_args(filenames: &[String], cli: &Cli) {
                     if cli.show_non_blank_line_numbers  && !line.is_empty() {
                         line = format!("{:>4} {}", file_line_number, line);
                         file_line_number += 1;
-                        
                     }
                     if cli.squeeze_blank && number_of_consecutive_blank_lines > 1 {
                         number_of_consecutive_blank_lines -= 1;
@@ -71,7 +87,9 @@ pub fn parse_args(filenames: &[String], cli: &Cli) {
                     if cli.show_tabs {
                         line = line.replace("\t", "^T");
                     }
-                    
+                    if cli.highlight_syntax {
+                        line = highlight_line(&syntax_set, theme, &line);
+                    }
                 
                     if let Err(e) = writeln!(handle, "{}", line) {
                         eprintln!("Error writing to stdout: {}", e);

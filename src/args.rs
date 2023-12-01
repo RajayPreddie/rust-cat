@@ -43,9 +43,8 @@ pub struct Cli {
     #[arg(short='A', long="show-all")]
     pub show_all: bool,
 
-
-    #[arg(short='V', long="version")]
-    pub version: bool,
+    #[arg(short='x', long="highlight-syntax")]
+    pub highlight_syntax: bool,
 
 }
 
