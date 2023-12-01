@@ -1,0 +1,26 @@
+/target
+**/*.rs.bk
+
+# Uncomment the line below for a library project
+# Cargo.lock
+
+# Ignore backup models created by certain text editors
+*.swp
+*.swo
+*.bak
+
+# Ignore specific environment files
+.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+
+test_file.txt
+test_file2.txt

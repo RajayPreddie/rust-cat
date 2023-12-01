@@ -6,7 +6,6 @@ pub fn read_lines(filename: &str) -> io::Result<Vec<String>> {
     let reader = BufReader::new(file);
     reader.lines().collect()
 }
-// TODO: Add a function that handles reading over multiple files in a directory
 
 
 #[cfg(test)]

@@ -4,36 +4,77 @@ use std::path::{Path, PathBuf};
 /// `rustcat` is a command-line utility for displaying file contents and more.
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
+#[clap(version = env!("CARGO_PKG_VERSION"))]
 pub struct Cli {
     /// Files to display
     #[arg(required = true)]
     pub files: Vec<String>,
-
-
     /// Search term
-    #[arg(short, long)]
+    #[arg(short ='f', long ="search")]
     pub search: Option<String>,
 
-    // TODO: Add a `--number` flag to display line numbers
-    #[arg(short, long)]
-    pub number: bool,
+    #[arg(short='n', long="number")]
+    pub show_line_numbers: bool,
 
-    /*
-    TODO:
-    Displaying File Contents: The basic function of cat is to read and display the contents of files. If no file is specified, it reads from standard input.
-Concatenating Files: cat can concatenate the contents of multiple files, displaying them in the order they were provided.
-Numbering Lines: The -n or --number option numbers all output lines, while -b or --number-nonblank numbers only non-empty lines, overriding -n​​.
-Showing Ends of Lines: The -E or --show-ends option displays a $ character at the end of each line, making it easier to visualize line breaks​​.
-Showing Tabs: With -T or --show-tabs, cat displays TAB characters as ^I, which can be useful for identifying tabs in files​​.
-Squeezing Blank Lines: The -s or --squeeze-blank option suppresses repeated adjacent empty lines​​.
-Displaying Non-Printing Characters: The -v or --show-nonprinting option shows non-printing characters (except line feeds and tabs) using ^ and M- notation​​.
-Showing All: The -A or --show-all option is equivalent to -vET, combining the effects of showing non-printing characters, ends of lines, and tabs​​.
-Output Version Information: Using --version displays the version information of the cat command​​.
-Help Information: The --help option displays usage information for the cat command​​.
-     */
+    #[arg(short='b', long="number-nonblank")]
+    pub show_non_blank_line_numbers: bool,
+
+
+    #[arg(short = 'E', long = "show-ends")]
+    pub show_ends: bool,
+    #[arg(short = 'v', long = "show-nonprinting")]
+    pub show_nonprinting: bool,
+
+    #[arg(short = 's', long = "squeeze-blank")]
+    pub squeeze_blank: bool,
+
+    #[arg(short = 'T', long = "show-tabs")]
+    pub show_tabs: bool,
+
+
+    #[arg(short='e', long="show-nonprinting-and-ends")]
+    pub show_nonprinting_and_ends: bool,
+
+
+    #[arg(short='t', long="show-nonprinting-and-tabs")]
+    pub show_nonprinting_and_tabs: bool,
+
+
+    #[arg(short='A', long="show-all")]
+    pub show_all: bool,
+
+
+    #[arg(short='V', long="version")]
+    pub version: bool,
+
 }
 
-pub fn parse_args() -> Cli {
+impl Cli {
+    pub fn new() -> Self {
+        let mut cli = Cli::parse();
+        cli.adjust_combined_flags();
+        cli.override_show_line_numbers();
+        cli
+    }
+     fn adjust_combined_flags(&mut self) {
+        if self.show_nonprinting_and_ends {
+            self.show_nonprinting = true;
+            self.show_ends = true;
+        }
+        if self.show_nonprinting_and_tabs {
+            self.show_nonprinting = true;
+            self.show_tabs = true;
+        }
+        if self.show_all {
+            self.show_nonprinting = true;
+            self.show_ends = true;
+            self.show_tabs = true;
+        }
+    }
 
-    Cli::parse()
+     fn override_show_line_numbers(&mut self) {
+        if self.show_non_blank_line_numbers {
+            self.show_line_numbers = false;
+        }
+    }
 }

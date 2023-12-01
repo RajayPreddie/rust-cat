@@ -1,0 +1,6 @@
+==> test_file.txt <==
+Hello World
+Hi There
+Hello There
+==> test_file2.txt <==
+Hello There
