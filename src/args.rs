@@ -53,6 +53,7 @@ impl Cli {
         let mut cli = Cli::parse();
         cli.adjust_combined_flags();
         cli.override_show_line_numbers();
+        
         cli
     }
      fn adjust_combined_flags(&mut self) {
