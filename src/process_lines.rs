@@ -10,9 +10,6 @@ pub struct LineProcessor<'a> {
   pub number_of_consecutive_blank_lines: usize,
   pub syntax_set: SyntaxSet,
   pub theme_set: ThemeSet,
- 
-
-
 }
 
 impl<'a> LineProcessor<'a> {
@@ -154,7 +151,7 @@ impl<'a> LineProcessor<'a> {
 }
 
 
-  pub fn is_skipping_blank_line(&mut self, line: &str) -> bool {
+  pub fn is_skipping_blank_line(&mut self) -> bool {
     if self.cli.squeeze_blank && self.number_of_consecutive_blank_lines > 1 {
       self.number_of_consecutive_blank_lines -= 1;
       true
@@ -180,7 +177,7 @@ impl<'a> LineProcessor<'a> {
    fn process_and_display_lines_search(&mut self, lines: &[String], handle: &mut io::StdoutLock<'_>, term: &str) {
     for line in lines {
     
-      if self.is_skipping_blank_line(&line) {
+      if self.is_skipping_blank_line() {
         continue;
       }
    
@@ -205,7 +202,7 @@ impl<'a> LineProcessor<'a> {
   fn process_and_display_lines_no_search(&mut self, lines: &[String], handle: &mut io::StdoutLock<'_>) {
     for line in lines {
     
-      if self.is_skipping_blank_line(&line) {
+      if self.is_skipping_blank_line() {
         continue;
       }
 

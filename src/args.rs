@@ -1,6 +1,4 @@
 use clap::Parser;
-use std::path::{Path, PathBuf};
-
 /// `rustcat` is a command-line utility for displaying file contents and more.
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
@@ -78,3 +76,31 @@ impl Cli {
         }
     }
 }
+
+/* 
+#[cfg(test)]
+mod tests {
+
+    use super::*;
+
+    #[test]
+    fn test_cli() {
+
+        let cli = Cli::new();
+    
+        assert_eq!(cli.search, None);
+        assert_eq!(cli.show_line_numbers, false);
+        assert_eq!(cli.show_non_blank_line_numbers, false);
+        assert_eq!(cli.show_ends, false);
+        assert_eq!(cli.show_nonprinting, false);
+        assert_eq!(cli.squeeze_blank, false);
+        assert_eq!(cli.show_tabs, false);
+        assert_eq!(cli.show_nonprinting_and_ends, false);
+        assert_eq!(cli.show_nonprinting_and_tabs, false);
+        assert_eq!(cli.show_all, false);
+        assert_eq!(cli.highlight_syntax, false);
+
+    }
+
+}
+*/
