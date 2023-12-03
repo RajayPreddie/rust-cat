@@ -27,7 +27,7 @@ impl<'a> LineProcessor<'a> {
 
   
   fn handle_blank_lines(&mut self, line: &str)  {
-    if line.is_empty() {
+    if line.trim().is_empty() {
       self.number_of_consecutive_blank_lines += 1;
     }
     else {
@@ -38,7 +38,7 @@ impl<'a> LineProcessor<'a> {
     self.file_line_number += 1;
   }
   fn add_line_numbers(&mut self, line: &str) -> String  {
-      let processed_line = format!("{:>4} {}", self.file_line_number, line).to_string();
+      let processed_line = format!("{:>6}\t{}", self.file_line_number, line).to_string();
       self.file_line_number += 1;
       processed_line
   }
@@ -53,7 +53,7 @@ impl<'a> LineProcessor<'a> {
   
   fn show_non_blank_line_numbers(&mut self, line: &str) -> String  {
     let mut processed_line = line.to_string();
-    if self.cli.show_non_blank_line_numbers  && !line.is_empty() {
+    if self.cli.show_non_blank_line_numbers  && !line.trim().is_empty() {
       processed_line = self.add_line_numbers(line);
     }
     processed_line
@@ -61,9 +61,10 @@ impl<'a> LineProcessor<'a> {
   
   fn show_ends(&self, line: &str) -> String {
     let mut processed_line = line.to_string();
-    if self.cli.show_ends {
-      processed_line = format!("{}$", line);
+    if self.cli.show_ends && line.ends_with("\n") {
+      processed_line = line.replace("\n", "$\n");
     }
+  
     processed_line
   }
   
@@ -102,7 +103,7 @@ impl<'a> LineProcessor<'a> {
   fn show_tabs(&self, line: &str) -> String  {
     let mut processed_line = line.to_string();
     if self.cli.show_tabs {
-      processed_line = line.replace("\t", "^T");
+      processed_line = line.replace("\t", "^I");
     }
     processed_line
   }
@@ -162,21 +163,23 @@ impl<'a> LineProcessor<'a> {
   }
   
    fn process_line(&mut self, line: &str) -> String {
-    self.handle_blank_lines(line);
+    
     let mut processed_line = line.to_string();
     
     processed_line = self.show_non_blank_line_numbers(&processed_line);
+
+    processed_line = self.show_nonprinting(&processed_line);
     processed_line = self.show_line_numbers(&processed_line);
     processed_line = self.show_ends(&processed_line);
-    processed_line = self.show_nonprinting(&processed_line);
     processed_line = self.show_tabs(&processed_line);
+
     processed_line = self.highlight_syntax(&processed_line);
     
     processed_line
   }
    fn process_and_display_lines_search(&mut self, lines: &[String], handle: &mut io::StdoutLock<'_>, term: &str) {
     for line in lines {
-    
+      self.handle_blank_lines(line);
       if self.is_skipping_blank_line() {
         continue;
       }
@@ -201,17 +204,23 @@ impl<'a> LineProcessor<'a> {
 
   fn process_and_display_lines_no_search(&mut self, lines: &[String], handle: &mut io::StdoutLock<'_>) {
     for line in lines {
-    
+      self.handle_blank_lines(line);
       if self.is_skipping_blank_line() {
         continue;
       }
+    
 
-      let processed_line = self.process_line(&line);
-      if let Err(e) = writeln!(handle, "{}", processed_line) {
+       let processed_line = self.process_line(&line);
+
+       
+     
+
+      if let Err(e) = write!(handle, "{}", processed_line) {
         eprintln!("Error writing to stdout: {}", e);
         break;
       }
-    } 
+    }
+    
   }
 
   pub fn process_and_display_lines(&mut self, lines: &[String], handle: &mut io::StdoutLock<'_>) {

@@ -1,5 +1,1 @@
 Hello World
-This line contains a tab	here.
-And this line has a newline
-This line ends with a carriage return^M
-Non-printing: ^A^B^C^D^E

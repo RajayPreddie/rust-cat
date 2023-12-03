@@ -9,7 +9,7 @@ pub fn display_output(filenames: &[String], cli: &Cli) {
     let mut handle = stdout.lock();
     let mut line_processor = LineProcessor::new(cli);
 
-    for filename in filenames {
+    for (index, filename) in filenames.iter().enumerate() {
         match super::io::read_lines(filename) {
             Ok(lines) => {
 
@@ -20,6 +20,9 @@ pub fn display_output(filenames: &[String], cli: &Cli) {
             process::exit(1);
         },
         }
+
+        
+         
     } 
 }
 // Path: src/io.rs
