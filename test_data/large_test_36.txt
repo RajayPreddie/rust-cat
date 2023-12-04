@@ -1,0 +1,225 @@
+	5
+
+^4	R
+J6
+	
+tuple 	MR`
+h	3
+	
+
+	break v		04d	
+trait bounds 3HvClippy x1XFFI 
+fn 
+trait object O
+>	1
+)!
+	
+mod 7_		4Tp6pattern matching 7:0	^9
+z
+b	d2
+97
+}!	
+3	
+-4expect 
+
+
+	3tokio ;8	4
+HoCopy 	u	w
+7y
+closure 
+0	
+1else 	attribute 9p3shadowing T
+87Vec 	Ze	
+6
+fn U
+Fuse wlifetime elision Future Pgenerics 	borrow checker EU2
+		
+
+
+X409unwrap i9
+
+
+9trait object F	e
+	z88C
+Sync 4String 1	
+I	
+lloop UK
+0match guard v	fn str 		r
+closure 	{	N`cargo 2panic! 
+			N0EZ	
+	JO[shadowing `ib	6		j2
+9
+	6
+	NJO
+l0	9w	6lifetime #y	u<J
+N
+
+s
+	OZmacro 	
+dyn 0
+Future ,extern 	
+m
+zLDt11h	eR	<	unsafe 0
+j	wF	7	m
+
+7closure 
+6
+	
+u{lB7
+1str M
+	
+Ifor 	5%panic! 
+!A	
+	A	
+5
+V	
+	N	y
+
+
+
+1776B-
+	
+	Rustup Hborrow checker toml 6slice 
+3	4	afor 66K
+self 
+12p	no_std pv	I
+	7Nunsafe pub Cyclosure 	S
+	panic! 7Vparallelism M
+	Rustup enum 
+unwrap w365y5&N2W
+H1	await up	9ypanic! bawait Mutex 8bVQ
+P0	i
+x	
+	S0G9
+K2	ownership 
+"Kloop >	? 
+o
+123		z
+6120string 
+J9? 
+e7	Send Clone 8Option 
+P	* l7
+>Rustacean X
+yserde 9no_std 	7*str macro_rules! C2mSk* 3
+Hy4_	-			lT
+Sync 
+	
+	@7type parameters 
+I7
++	3v$	
+macro jimpl eKD
+
+0
+	
+associated types 	5
+
+75
+	3
+\parallelism G
+
+56
+
+m4I5	
+9parallelism l
+	0vv(70	p
+concurrency Pcm
+3	3f9		2pattern matching 
+	x
+extern J4
+	Q9q	while String 
+0
+"u
+
+*6FFI 
+Box E
+extern X
+				dyn 65PESend $jtokio 2	Default 
+	loop n		a0oum
+
+K	
+8
+		X	K	
+	5	
+
+5
+8
+
+await 
+8
+o9q5	
+
+
+J2V)5	P
+9& 	mzRustup 
+
+
+Vd.c
+Nttokio wQk	OZ9
+1h		9	0		
+impl 	9+o4Crate.io 
+7I027	41
+5:slice L	V
+	Y	use CArc U9
+panic! Mutex 	QFFI 9Rustup 
+s7	Result o
+6
+u4d
+
+macro Pq|pattern matching 
+h5	8
+	1Arc 
+5w
+yHS
+V		04Vec ^
+3		0fs		g
+
+s5x
+0
+	7	F
+l
+	
+
+
+
+	
+9	7Stoml 	
+44slice 	YRustfmt struct 3
+48	3Clippy 
+77S
+	
+
+m? 
+
+2
+7ca#i	@$t
+Rm3	
+
+3
+
+	I{3
+
+g:W		toml t	MD0RO
+mcRIterator cargo 		Arc 1FFI 	h;Rc 5T	{	
+GQBox 
+w7
+	
+Option %
+
+Zexpect n
+
+{7generics 
+Copy 
+
+
+* 
+0	
+macro 6iCownership d		2.8closure 8
+	Oownership 5attribute 4
+H	6	
+a}Send 	
+D8Clippy a
+35
+~L;H
+8	no_std 
+
+	

@@ -1,0 +1,212 @@
+h5
+
+& 	7sstatic !Xself 
+5
+38
+
+Y
+		1
+7extern jj
+		X	
+DDeref trait async-std ]80			hClippy 		4cargo 	CA	<				dbgenerics N
+#[derive] tz
+			
+,	zSync \	
+M
+
+
+e3h9'ownership w
+
+	lifetime 
+
+8	1
+0tokio 	-
+	wslice 
+CBFRustdoc 
+for 
+pub 	<
+pub 6for 	Ls7
+k6LO
+1a	module system XT		#P
+}	
+	if expect 7
+5type alias 
+Mutex c	6match guard struct Q		ref 29
+DJ
+
+		Amod 
+	Rsuper n	f4
+	if 3	D
+5impl PD_0XW96await string 1
+1Q
+3;
+unsafe PAlifetime elision 	as 	T
+cb	1	g	parallelism J
+	WJ?,x	iconst 	
+'
+type parameters closure 8closure Clippy 2b
+q	4
+0
+0	KS5
+7	
+macro_rules! 	pattern matching S2
+slice 51cunsafe 
+generics S
+str T
+86
+2break 
+trait =D	ykfn loop 0	b	!
+
+Y#[derive] 	1
+dSync X	h
+3
+3
+54	9
+e		
+	liG? @	
+sDZ
+9	aU
+M
+pattern matching L		5		cargo y	
+Arc 
+R2while Sx&N	visibility 	Result 
+V	4	closure 6
++HCZDeref trait 
+shadowing BW
+A<!Dffn M3
+8q
+z		fn Nz3y]
+	7-	
+				G	as UCDebug trait U<=2
+xT.(8		4unwrap 		n1	
+=	z1Rustfmt %Clone DY\&mut crate 		cyd
+pattern matching lifetime 	3	u
+
+if 0Ar'cvLi
+	
+	I			loop 		9static 
+gparallelism 
+
+M	for Rustfmt 9
+7e[0
+rhas 
+enum Kl0panic! 		BJn
+98p	str 
+pub zcmmatch guard String 9Q0	Option 4lifetime elision 4h
+4module system md
+
+
+
+		
+	z
+C
+	RAII 57w
+	X* %S	11	}
+
+43ORAII trait 5L	h[r
+I&Arc pFuture o	
+
+F0
+1	i
+gEu
+	9
+
+	1
+
+	C7H7	9	
+
+-
+macro 
+B
+
+
+
+2		Send kapub 3	
+q67return B3Hl	4	zK6await u90
+{		match 	l
+	
+	,	
+42
+7g
+cip
+Option 	2
+7Crate.io 	I@3N1RAII !CY	3UH
+3vcrate 	L
+Drop 
+N%
+93	closure Deref trait 	type alias k
+
+9Pno_std serde 2N
+}FFI ystatic 
+	crate 
+	
+(
+module system 5	
+2
+else g
+9derive 
+4oN	
+
+21)Hmatch 	match pub f5r
+Cp
+F	
+13	
+
+0	trait bounds k	
+
+`closure 	
+	
+54Rustfmt 8sasync 
+3wbreak Mutex toml 
+
+J5?t	G
+
+4
+expect 
+VAClippy 
+0
+m	)LW7	f0	else 	+
+slice 
+0|	7
+1module system 15sf	#Sync 	00	Zf		P	91	
+
+6Copy 
+			3i6&	0
+Sync ]
+
+6G	
+ADH
+match guard EUp4	5w8
+7	3fn @
+	
+async 
+S	0)
+4
+self String trait bounds 
+8L
+
+	71associated types u3
+36p
+
+
+oString 
+P2		R	O		LArc else 
+902	
+ug
+
+Deref trait 5
+e		
+Y6str Copy zZx`46
+6
+
+Q			P9	E5		From and Into traits 
+	j	no_std %
+|
+
+holl	0	jMutex C	z5
+E&mut FFI o
+concurrency 	M6		Tm
+parallelism 
+	c
+
+

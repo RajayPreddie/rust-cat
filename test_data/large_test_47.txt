@@ -1,0 +1,176 @@
+86sBe	f6
+5struct p	
+pVXRustfmt 
+7		
+Self sN	
+Deref trait v	
+toml 5aFDefault 5&
+	X_
+b*X
+
+Default 0rj	p7
+74ownership 8if 9	U8z2	`Debug trait 		0zx		t0string 
+	8To8{0
+T;Drop K
+	Self 7	
+n"0generics 
+
+<8	_E3	impl B0
+	4Z	a
+	
+	macro_rules! 8ueu
+g9			c
+p1(	2>6\
+z	1visibility u
+J
+
+4	9|j	5
+3W	Result 4let Default 
+W9
+lglet I		'X0Pg5	9i2gshadowing 	parallelism 
+
+
+g	A
+
+2D	M1	static `	
++u	for 1r35Ntrait object 
+ve
+q
+8|wlet 	
+
+
+2
+5else fc
+slice Option .6Box 	e8	R4
+9	a21
+
+sA		a
+
+<
+
+
+Zcf#cargo <
+associated types String x93
+/	Imod TDtrait associated types 2p
+B	trait object B
+5N
+
+J
+`		7Cf
+	m;5}*qw6[v
+From and Into traits Kawait p%
+
+self match z	8Y	fh	zpub 	-v
+	string 5closure 7Y		I
+	
+	Arc 3continue 
+
+]
+
+8estruct 2y
+k	.
+yi	G	w	toml 	
+use l3k	'th
+	Mvisibility 7	
+Mutex 4
+i
+else 	F3while 	%R	|ovhIterator H	W0	73	#	
+
+
+? 
+3nW25
+
+c3		@	1Ph14
+122
+await Clone 	k	if 	
+associated types gpattern matching 
+ownership 2VZBc8extern Clippy 		
+b	9
+
+
+		
+
+
+E69L6
+const macro_rules! 	H7
+_E	Z	enum 9n7	a
+
+5EBox c
+94
+kY	unsafe 	5
+3	
+fv	4OFjnCL0cexpect 
+}I
+975t4}}
+Iterator vref ? ufb2VIterator 	1String FI* }	XX
+"await 
+?o
+6q
+		Xbreak 	pub attribute I0
+	expect 1
+0j7
+	JC	43b
+,7	
+Ax2A3lifetime elision UXqIRustacean 542wasm [3g
+b[3no_std generics 
+\0J32	
+4
+
+C	Y	m
+	
+ref 4]9
+n
+28
+i	9^7Vec hT	0V
+Z
+
+B0	X5M		Bv	u		RE2dyn sSync l4wasm 
+	X1
+	
+j		
+.mut 	hRAII 	46RvCrate.io uKv	0		z"	
+	lt	
+5qlet g	2no_std 7FL
+wc	Z0
+e
+PFFI i#[derive] m-	match Zk	t
+R
+type parameters 	lifetime generics 	SJ7T	d0Self 7g	expect loop 03j"str Option BW3
+4Clone trait w
+afwtoml 
+8n0
+PR	U	o7	P5let OFVec 5
+		
+J1d	break 5.5I;0Plifetime 	module system 
+	%	9	g9
+	78
+* 7
+
+acontinue Clippy match guard 3			B
+0H8Oattribute 6
+9
+	
+UFuture 3P4Future r	11\
+0s59	
+qr1
+y
+A8	R03uwhile o
+8Ta5X		U	borrow checker V5i0
+	2kY	v
+		
+break Y
+extern visibility wYQH
+x4
+		FFI 	'
+
+2
+E
+
+
+2	vQmacro tYuD	3ownership q	
+T0+1~
+Vec async-std "closure 3z
+150	0await JIU0Rustdoc b				77V54
+1urcRc _
+8Drop 2
+RAII 4z1	Mutex 

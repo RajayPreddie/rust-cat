@@ -1,0 +1,189 @@
+{	m80r
+Bstr ownership q
+	ED	Result 
+
+	macro_rules! 			
+
+2* 60* Uconcurrency 		
+self 
+await xQ&mut [lifetime 5		&fn attribute 2X
+	0340Clippy wasm -7$ref 
+associated types ref 	)		Crate.io trait 	4	Result y
+self 
+h	
+	8RFFI 		lifetime aim1Gtrait 
+0
+f	I3<P_8<
+b{4qYparallelism 	Rustdoc 6
+	
+E	9module system 8	Deref trait 
+	easync Q
+C? 
+d
+derive 
+
+		macro_rules! 
+	1
+
+module system 		'6
+gkq	(
+
+
+
+
+0R	6N1	yd	7hCB	vMbreak 
+T	fn * T1continue ZIterator xtrait return 80
+	[extern 0D0
+		d	pmacro 5710continue 
+3use 	s		attribute T>7e
+6s
+async 6Rustdoc 	9p	
+
+TDrop 		3vEKResult 
+no_std 	use 
+pub 
+	Self 	a16Rc Drop p& 9	(
+@o.	
+0x
+7
+	
+
+00
+H				^				
+	
+7oNa5RAII 	glifetime elision 6j
+
+self q?
+7
+7vi
+FFI 
+0Ypub k	panic! attribute Kpattern matching 1M
+Z	
+29Deref trait pub tZRc 
+	4	mod 	iString 
+J		
+
+mod 		Ounsafe 
+5let 0wno_std 4TzD
+	)5	5	1	shadowing Rustfmt 
+
+	for p
++7
+return fxY
+
+	QE
+	
+y9
+loop 
+& 		Rustdoc vRc 5
+I
+5	* async o3p* 			Box trait 
+Cmatch 7t	PG
+	71Rc 	2l82783R
+
+p	p	2	
+5htokio 2|	q
+K7Q\return 24type parameters GX
+	8y$Clippy r	
+L	Aslice VNfn 	static ? pDebug trait trait object 7	K	Xtuple type parameters P37shadowing Future return 
+
+90o
+
+
+K9	.6Q
+Xconst 	G
+GSend uOption 
+8
+
+PC1		"	associated types d
+f	n	Z:Y	}Future 	C		fn 
+
+A		Fjpub 
+
+			`8
+m
+sE9}e5Debug trait rfn impl 
+	mB\	]lString return H	1borrow checker U
+
+	Qawait 	async T2	2
+3
+
+cunwrap b	G	i"expect 8break 		
+96
+	1	
+
+WL>9? p	VA61	p
+	
+8
+break 	Option b
+614	W603
+Result eI
+
+
+Nelse f29j#	8crate match 
+			
+hx30visibility visibility 
+Send N
+shadowing 
+93Dtrait 
+1$
+7YG8	~use 2
+2
+m5serde 
+
+s	m	7
+5
+		]match Rustfmt Deref trait Pasync 7R
+Box 	Vb8	FFI dyn ? 
+00	toml 	7struct H	yiassociated types 	cargo x
+Deref trait Clippy y	string *
+module system .	7* str 8	A1dyn vVFFI E
+
+0
+for Qmod f
+
+
+S	
+mut 9kJstring 	Self =	8
+1		yclosure s3	6	8
+v	T
+bfor d	8Vw1s
+31DClifetime 	4Wpanic! 6
+5s=	
+6d
+
+if 
+4at
+parallelism 
+		S&mut r
+	yVec 4	4	S?
+	84
+	ownership 	
+		Copy *e3
+	
+
+
+async-std 
+8Gawait x
+_HD
+2O,	L	Crate.io fb29w
+Box 	b2		8y
+4	FFI /1Option Opub if self J$xshadowing 
+7jD
+841Option 2	G
+M
+f		i
+if 	closure 	use rr	
+wy
+d
+5	>unwrap enum 7`for 
+String s0zOHSend 2ge
+$4atrait while 	
+panic! slice T	
+Send 	D8	4match guard 			C	
+
+<wp	
+
+Sync 8
+	9	
+attribute nshadowing 

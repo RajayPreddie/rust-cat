@@ -1,0 +1,207 @@
+
+
+Ly_enum 
+	Ymatch 1	s6&
+
+
+module system as no_std [	X81	sP2ymut 		
+
+L6KM3unwrap 	From and Into traits 92	
+attribute 4Debug trait 	const {		u1R		Debug trait 9
+
+	9	
+
+eClippy Self 
+v8
+94
+
+lifetime elision crate 	Rustfmt z	serde 1Ctype alias 	
+	borrow checker 	
+	str 
+	
+9
+return v1
+f
+w	VN3Default str 
+`3k		v	n0U95	9
+2
+`	J	Up4		
+iUN7
+i1		It
+1!
+Default 	
+z5Q~0
+8		Drop 3m	9		if 
+9O	
+		97	3crate kr1	8
+9
+oArc Rustdoc 
+ef
+nFFI 454*SDrop * 	m	0
+
+impl 9unsafe 5
+* 
+Default 	0
+7dRuse 		F
+6M
+
+Pclosure 3{sBo
+5	5T		
+Clippy 2super 2	f
+pattern matching 1
+*
+Deref trait 3{E5
+
+wasm 1
+shadowing 
+		U
+o5? closure ~
+
+continue 		&mut 
+61
+hg	F
+
+
+<dewhile 4D	cunwrap ]panic! 	g|Drop 	Result no_std rconcurrency w)5			XpO	melse 	g	@oDefault o
+	
+fc4visibility let 3	
+F
+s_w7
+
+Send 	=trait bounds LF
+8	N	A	7nmatch =	str 
+loop s5
+Td7	+
+
+parallelism o
+
+
+break 0	await qEo	p	
+0	
+7
+	#[derive] RAII OiI	9K[
+crate vFFI 	g	q	& 
+0
+n
+	ij			edclosure 		
+BDebug trait 	
+eo	
+r	g
+tuple xcontinue 
+Deref trait fn 	oVec 
+serde }		T	
+
+
+r34u]1loop 		lSend \)Vec 		
+nv2
+XmIterator 	3	7wasm Box 	
+w2macro_rules! 	
+	5
+eddpc9Sfor 	use 6
+
+
+!
+
+
+(k
+await Rlifetime [
+
+W
+Y8
+	10	impl 
+wNClippy 
+tuple 
+	3R7o	
+TEN	5wDefault ;3~1S2
+
+
+4
+0P5static D02H
+
+lifetime elision 	break Rustfmt r
+
+FFI 	KSelf 6g4P	^	1q
+		
+	nl4	
+6	parallelism 3
+	1
+
+/7
+6as 8	I	L
+
+
+>G?Di401Pm
+	
+RAII LG	
+String k
+	as J		9
+S
+impl as 	%
+
+L	
+i8a
+9gborrow checker 	closure 	serde 
+B
+7	w0vJ
+	X9.Estruct 
+async-std 	7MO7		rtype parameters 62
+string 0
+Self h		A4Hunwrap 0
+xtrait bounds 	9macro_rules! e#[derive] 	
+3FFI Future }	r4/expect Y	vcontinue 
+Drop a		a3unsafe 0sT	
+		i$74
+4match guard 		struct tKj7eo	static 	
+
+
+				P	+
+break 	L
+34		slice 	
+
+6
+
+YF
+	
+borrow checker Hunwrap 
+*	9
+Z
+
+8/9	!j
+
+toml -parallelism Sync 
+&mut 
+3
+32T	3	Send 	5Deref trait lf
+	Send 
+	0
+		9,
+
+AS~	
+Rustdoc EHZSend l
+	T	)	pub 	
+9struct impl 
+W	I1			
+;1M		G@return x
+
+
+slice <	FJ1b'mod 
+3	C	p8super fVvc	
+Crate.io :D	05k	6cA	A5
+1
+Q
+&mut 8
+Arc Crate.io w	H8
+XDeref trait 9.	Sync O		5	g
+6const 9
+	8		W`
+01Send QE		9RAII 	o	l5Y
+
+	<241d
+u		9J	B
+		
+
+match 08
+
+Lextern Sync type alias 	
+
+

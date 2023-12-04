@@ -1,0 +1,222 @@
+	
+	PL0$[		
+	R-
+Y
+macro module system q		
+8
+Clippy H
+
+associated types 8J0Box 62	8m
+Ii
+
+)=	lifetime elision 	ob
+M
+	"V0		oZ2
+&6mut W
+
+
+Yparallelism b3M	yK}O
+Cawait 	Rustacean 04xoRustup 	2DRustacean 
+
+
+30	unsafe d	{Kw4	748if n
+v&use 2
+5impl 
+M		let 	8v
+
+9
+	
+	z
+
+Psuper 	
+
+
+0aOTe		941nFrom and Into traits concurrency 
+	
+kFFI vRustdoc 
+	&mut 			W=
+
+pattern matching pattern matching 
+tokio Iterator 		
+	
+0959	
+From and Into traits Z5bG1`m1
+
+
+
+6
+5
+Vec 		tokio 5match guard serde 2
+closure cargo !w
+dyn 
+Nsuper 3lifetime 7!1static 5
+	expect x	1FF	panic! 	
+
+0Debug trait 13
+`F		g
+
+expect 
+u98
+vSL
+	Mutex 
+		
+
+Y7N		l832
+	cargo p
+W	05				33?33	R	
+
+	op
+		
+	
+	ERn2k+	Q		e
+L	
+
+
+
+
+	vloop E			
+
+
+Clone jasync Default ;yIwtself 7
+0	(		G		
+dysX	9
+xQ83Rustup visibility 7P
+
+	Telse 
+Vb'
+!pattern matching 
+static 
+		BSync %@/1cargo T8Mutex 	q	~c
+	0lifetime elision 
+
+
+	h
+
+pub Hmodule system 
+Wv4
+Qg	Q3y
+concurrency 9		L51CRustdoc 5>	35yL0S	3
+	45		L		cOption `Ilet z8
+Drop 
+3F
+
+L	vDeref trait 		G
+
+
+5
+	
+as 
+52	
+crate $
+7h* 
+
+Rt
+				b%3
+macro_rules! 		u	2			
+
+	2[
+rp^		9<d
+le
+wtrait bounds A	BC		async-std vL7Nmut 5Kp* 		
+S	Deref trait I}qmatch guard 	associated types !	Ml
+c* *3voXmacro String H^
+q
+p
+Self 
+
+trait object *		
+	|
+	"\
+\continue match guard x	v6D
+Mutex Y~T5
+9
+6J	o`
+D1				
+Send 
+!	Vec 
+toml 
+		ytmatch 	'	Sy
+	Deref trait 
+o
+match guard 	l	enum for 
+	8
+	
+
+
+super trait 
+63
+ostr V	$Wimpl 8	J	1J
+borrow checker 
+delse 
+	
+	let 	Kreturn ref ref 6panic! 
+	5
+z68o
+37-	visibility 
+	use j
+	extern J
+async-std 
+
+
+	
+4cargo await 	6	19visibility Rustup 	9	MString i	wr
+attribute 8YKE6	N
+	struct 8Option Self 
+		9str j		
+	impl 
+0	
+
+0
+0
+umV
+
+
+
+trait const 	
+77mut 
+	8	borrow checker o	unwrap 	
+6mod 	5hr/
+Rustup 	
+p
+serde j3	FFI TxP9	1ownership Y
+		J7J	
+3
+
+08	Y	V5closure 
+
+84j	5const }1rconcurrency 	P	-g"89	
+8o	N60	:borrow checker 5tuple match guard 
+Sattribute Rustacean if B
+=v* 
+6mSend 		async SG
+C
+b	ERAII 
+
+JPx
+.m	
+
+	no_std 		p7C	f
+M	while xo
+7Y
+feb79L		0	cmodule system 
+self 	
+
+
+associated types 
+Tv	JRustup )6	0
+01
+
+Z
+u	VO	toml p0return V	47slice R	while 	Tqx	5jbKN%
+	
+unsafe 	
+	)bClone 
+
+		let m
+59suse 
+q0& 5:BF
+d]
+q
+
+	{		
+wasm b

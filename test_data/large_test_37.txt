@@ -1,0 +1,180 @@
+
+
+
+	u	Iv40	trait ,y
+Rlifetime 7b	j	Wv,6	|	
+5R4await #[derive] Drop 
+parallelism GIs0	Clone 
+K
+8}4(ho7
+n
+let 	3Vec Mmacro_rules! 
+? 80			+H	
+
+
+		macro_rules! E9P	2Future q	Tlifetime 16	
+gbreak 8	q		.p19		|4
+,Im	9
+ownership 
+* 	?3	Clippy Gfn A	tuple visibility else 
+
+	
+
+	no_std 
+		O	2
+Fmodule system 16	Rh	
+2hwhile 3concurrency aResult 1d
+h	tokio 	lifetime for Sh	j	Vtrait bounds panic! 
+	Self Vec 	B
+		@	J	5:
+8Future Kmacro_rules! 	
+8
+	1hoshadowing T
+91
+Llet &mut parallelism 	4V0			oserde 		e	3	2
+	[)trait 1	8
+T
+
+
+	ref * 
+Default h
+	L	8Iterator 2macro 
+N
+dtrait object 	
+
+	qasync-std H
+tuple 	373mod 					Q9h
+6	@c`
+for uh2U	? 		2	
+Rtype parameters Bpanic! 9		f.4a0Rustacean Rustup const 6unsafe xUZ? 	1m	6	atrait 7	
+
+2ywOption 	8
+m
+lIQ\8closure 1	150WK
+AN
+\5Rustup 
+vF3Clone Z
+		5LQ
+
+aK3Sync Rustdoc 15
+	
+	
+Sync sh32j
+			K
+h
+		F2	;36C
+	Jqz		s
+unsafe 	
+macro_rules! hbreak 
+
+*p
+LVJ8	z
+lifetime Rustfmt 
+8Result ownership 		8Q=Q/match guard 	d	7kwhile 
+	
+9\
+$
+borrow checker 
+	2y5	trait object 		struct 
+
+		
+F
+	0t		await crate Default async-std pU	
+
+derive 
+14const 	<else generics e5Jf
+
+			WGNconcurrency 7pattern matching d]3	lifetime 69Hv
+0x4
+enum 3			
+2d2gvNIterator loop 
+5U
+F0	ownership N	obreak 2Clone 		2g
+O	
+Option )G		37	
+	3eString 	
+	hz
+		
+5	
+	g26K
+	Lvisibility 1a
+
+ktokio 68
+Option S3		
+	
+=6Yf-	u3d2
+OV	06	G
+	5	
+
+5	A3e	81\e[
+const kn5LX
+B0a
+7
+Iterator 	8M8
+	
+as 	trait 	STFrom and Into traits F
+4	66D
+Rustup associated types 03attribute d5y
+	+3& 		A
+35p
+e5
+
+O
+
+x	static lifetime trait object 
+6lZfor Jtokio Q4mut ?	
+
+a
+no_std 	Bz
+1	3enum 	
+0	G8k	From and Into traits Aexpect 	
+	
+	
+	12nas 
+nself 	~6A		he=4'I		Rustfmt 
+ZDebug trait 	M
+
+trait object 3G
+	
+
+ERustacean K#	g7
+	mmodule system 
+
+~Q			FFI 15if 
+		v9t3RU	module system 4q5SZ5		ccrate w	return 8i		9
+match trait 
+
+	8G9O#	
+	serde z93
+
+98Self .
+
+5visibility 0	
+			z	3O	K500i
+From and Into traits 	3generics 7	8
+attribute 
+$2wtrait wasm 
+
+	q	8	i+b
+6+ref 	5e		d03D8
+Hc	3	6	A4CU		shadowing 
+?	mt	;no_std 9ownership 	9Iterator 	4y			0e
+struct 	.
+	7
+mod z
+
+9
+zapanic! 8IO2O
+2
+j"
+40toml \0F		
+	
+
+0Iterator v	RiString 	C	5	string #5bYOption :	N	MRustdoc cC
+79
+3l9struct Clippy M	15
+5X8
+0
+		95
+o
+_

@@ -1,0 +1,195 @@
+Rustfmt 
+parallelism 	e
+cargo 
+	macro_rules! F
+
+await 	
+75
+
+
+crate D4tS
+	? 9	0From and Into traits 7q			
+5t	9
+	7R
+	Debug trait exww	1	x
+Rustacean 	1	4await generics A/Zl	derive 4E
+	6w[2i	struct 	4fw	
+Clippy 	LClone 		S0aownership 170			7[String Clone 
+g		$Vnbg
+_K	4
+
+8f
+
+	Bunsafe djMN(	Iterator z4	C	unsafe Uwt
+2
+	? tuple 
+		T	8	ktn
+		c6
+umatch L
+7	macro_rules! Dlifetime 	<N	
+V7yfn async 5
+type alias 8
+as 	String 		lifetime elision 4
+R
+	JL4macro 	
+
+		1macro 		V	F	const WRAII 5B
+F
+U
+
+	5tokio ownership 1q		
+19Default lifetime gu
+P	cR
+u	
+*borrow checker Future LMO5	Vqjf>
+MRc 
+?
+SF		await q	async-std 	j
+089	
+associated types 
+	lifetime elision 9P
+tuple 
+
+i	
+g	type alias 	S	7BZ\c
+5aF3J	q8	4u8	return 5;R6Q8$
+95extern p	z	type parameters D	0closure b	5visibility 74break 6eVec 
+H
+parallelism 31		D
+i	#
+	7
+
+	
+N	
+	lifetime elision 
+
+P]	q6B1		Y
+	Result mod toml use i		
+s
+gOQIterator p
+	f:3S
+async-std while 
+
+	5
+impl 0Default extern wm7P
+9	_1	
+	
+	6H9
+r8		QRc 
+~	G	
+4,00
+		4$	<
+	0
+break :0cb0KUcRustacean E92	Istruct 
+const DGloop Copy 
+-Rustup 2
+	l
+	
+0
+pattern matching P
+Blifetime elision 	1type parameters for unwrap @
+	
+struct l	break 2
+		r6
+	AClippy w
+	p0
+I47R4Clone 
+continue L83		3
+
+
+	5	1	w3
+l
+	
+K
+4	$
+	
+cassociated types 1FFI 	Z6Kshadowing 3(8
+* 
+
+return 9mgenerics f
+
+Dstatic 8	static 	6
+	
+9$trait bounds !no_std 6J	u2q
+	Rustdoc shadowing macro 
+Uxf			Sk	4	6q	
+1
+i		F		
+
+3z	uh
+7d9
+(Jgenerics $#&mut 	if 
+macro_rules! return self 63O	
+8
+
+	
+9	4	wI7Rustfmt 075	
+Mutex 	B96
+4a6	D
+		self w'LAFFI b	5associated types G87
+
+j	{6	match guard ?WA#	
+
+Z		
+	s
+
+cargo 2Tawait ystruct 	tokio 7Fy4q
+tokio 	From and Into traits 84	T	:Z1parallelism 0	E6O7amacro ref EH
+Y
+
+qenum async-std &4	? self String U
+
+9#
+	
+
+
+(	dmatch guard Debug trait C9
+Wassociated types 	
+0A
+	3Sync c/r	
+a
+cpanic! ^str 
+4mQ	fn 9	U	Mutex Ras use 6for From and Into traits 	5lLw
+o	1h0	
+
+6	continue 
+		:1L
+S314sR
+c81C	
+	
+trait +	
+
+8
+type parameters concurrency 	8$type alias 	Rc 	rjT;str 	Z7no_std I
+	rslice Deref trait Mutex 		)		static 
+
+loop async VE
+trait object 	Y
+6)	8From and Into traits 
+B(225let U1!
+peW	
+D3		5
+OJ	
+Result 	
+Rustfmt 
+	Il
+
+2H	From and Into traits 2Arc 
+66,M
+await eMtCg3
+	ay
+
+
+
+static r5	
+	`
+
+c
+macro 
+Z
+c			3for 	3	oFtPN
+	57str E8
+
+_closure mut nn
+fVec 
+	w4if 	11mod Crate.io Rc 

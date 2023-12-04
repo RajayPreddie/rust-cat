@@ -1,0 +1,196 @@
+hg
+panic! q6* 4s
+k6qextern 2	5FFI 	Future "let j6	V	
+W5Vec T12Ql
+
+match guard concurrency 73	hY		q2f
+b
+
+		expect Debug trait 1
+n	09
+	4	cResult R)str 
+	break clJ
+7Arc #[derive] 
+serde lifetime 4lBS0r
+t
+qI`		`1& 4Clone J2[fn derive 
+
+	
+
+
+R
+621	
+
+trait bounds 67
+	6C59mF
+x499loop 7U	c	
+#[derive] string s
+B
+
+02Crate.io 9
+Q
+
+
+z'	0p	4	?"Fno_std type parameters 53
+
+ref await 	4Uw
+	6			x	8
+Kf	sn
+g7fw
+
+%
+	46?nL
+		6RAII 
+	3Iy
+(		
+9k/	W-Self pattern matching '3RAII 
+& j
+1	loop G	R'? 			w
+const 1slice 
+hxM	wasm crate 0serde 
+_
+8	Self 
+
+m
+x%	M	xDrop islice l	await tuple Rustacean Rustacean 
+
+Rustup 	Sync 7aconcurrency 
+x	i2J
+Clone 	Future 
+2X83trait bounds 
+:	ref 
+QArc Q
+7	macro_rules! C	lifetime elision Wo
+if 030derive 3Rustfmt 	
+Rc 1async-std 
+macro 7		
+7c	super w	P	macro 'Rq
+p3u
+9g6
+ownership 
+
+	P
+9	79	Copy Hv
+&mut 4	unsafe 		0c
+
+zxE	
+Sync 0
+
+gv		
+
+tconcurrency 7
+	D<m	
+cas 
+From and Into traits A
+7Arc type alias 
+g#[derive] for MYp	9let 		
+N	2	gA	yx0async-std 
+el43{8	loop 	87
+J	-await impl 
+	0
+	]6jfbref 
+	#[derive] v
+
+c		SzClone 
+
+	sR8
+4pMl	Box 8	
+0,extern 	8/macro I
+	
+* ownership self g* 
+		1
+async-std 0QnE6
+slice Deref trait G	2
+	
+extern 
+Clone 		
+Rustfmt G	use 1N5	
+
+loop UGQiResult 	L1gfor Future ti,6
+	
+
+lifetime elision 1tOption Daclosure J	441V
+		concurrency >		panic! dyn 		j0	
+wvisibility n28
+
+	
+6	
+	Default 2	`	4B8	kFFI 			
+pattern matching 6	5	
+
+	
+m0derive trait 7:	31csG
+6=a36S1u42
+PB8
+49#		\g	string Munwrap #0
+0
+
+E	Default e
+use 		/Wps	Debug trait h	
+]
+5
+derive Q	
+break \
+	JD
+A*_		7	zno_std 	ref 	\
+23
+	Apattern matching 
+MM5246Zh$B
+T5
+KArc 9
+780	H1	match guard extern 5async-std bmacro 
+57Clone 5	E	Rustdoc 	Vec 	#[derive] for Future 6
+O85
+Vec macro 	A16		,Xq9nR
+
+
+|m
+
+2	k
+
+ref 
+7
+& 
+
+From and Into traits static M		
+static 8	
+
+9dyn 
+On~|jlifetime 0
+9=	*as 2
+?8string 	2
+Rustdoc 
+7pgenerics d513
+r	use 4	P
+U5
+#4f
+Option 
+9oZreturn 		YM6			
+9I4mfn 	DTNU7	
+
+ab
+Option 7p
+Ibreak borrow checker enum Future m9X	<7
+	
+o	
+60
+str `B
+
+71Rustfmt 
++5N-l	r8V			Deref trait Option C		8
+	4	N
+	
+	R`
+
+\
+
+V		F		Future * shadowing 
+		
+q	7T3Vec attribute 
+$no_std t	w	4
+	7M	8q	]
+	7
+
+2	trait bounds 4LVec pattern matching 		i
+7	vbreak 
+Ftrait object 4derive X	6	#^)module system type parameters 	

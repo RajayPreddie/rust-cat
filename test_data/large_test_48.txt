@@ -1,0 +1,197 @@
+	N	parallelism visibility 
+9
+	Y7c2	K
+b1
+k8break r
+b	
+OIQ	Arc 	module system Clone Clippy 3tRustdoc 34	A
+7k	wasm use Drop no_std 
+Send Self ~trait object Send J6h68br
+
+s506	
+Drop RAII RAII 	6		4	
+
+1
+
+m
+mut 		
+rH}Q
+
+From and Into traits 0g_	
+J	9*while 	3	y	#[derive] String M
+		panic! toml 
+	Bawait attribute J|async-std 
+	
+	Self oFE
+E1	(Deref trait 2	i	|			trait bounds 
+		Ics6	8j
+9
+	ownership Pconst <1
+	lifetime elision 	dyn 	(
+n	se#Default H
+8FFI Jno_std 
+YfIslice while 
+6eserde PI	
+let ~
+6derive 	2p
+		3Copy O9Iterator 8	r
+JVclosure 
+N
+extern w	A	
+	|unwrap if Arc macro_rules! Dn07	V
+dunsafe 4Rustacean /6	7		$
+
+`3xDrop Deref trait struct while H
+pattern matching 2
+derive 	
+&aKP3loop 8mod 
+as cargo BP	96	7c		
+E39/	
+02mod w46await else 
+2associated types 
+p	
+z	
+	&mut 	
+48	? 5
+		
+N
+Z	
+	N
+1super self fn derive 
+	
+5z3let 3e	Mutex associated types String Future 
+5
+90	
+&mut 	X
+visibility 
+7W#[derive] 	? 		B
+48
+	
+	Gtype parameters 5		iself 	2J&mut 
+Iterator 
+u	|	98
+2	VLoownership 	
+	w
+
+	
+4
+	93	)p'
+(
+
+Box g86Copy 	_	type alias concurrency ~
+aou
+	Fsuper e4	z6	
+u8		3	FFI 
+57		dyn 
+a2
+\	RAII 
+Idunsafe 	self 	:use sDrop 82
+	Z	
+K	
+k		
+rUstatic 	Future %v		PSync 3	
+j08339D
+n
+
+	A	82I50cargo 		C
+]
+BA6xattribute f
+
+	2	Drop 3ownership a	w
+1l			!	* {	
+unwrap 	
+1d223q0Self FFI o+rM{tmut 
+
+Y
+8Z6		4
+4sae
+g
+9String 	
+
+#p
+,
+
+
+bstruct await 		continue 		c
+m}		
+async-std B	Arc 	54
+c	17FFI j
+bD		#
+
+
+-Mutex SMslice 	3super Arc 
+
+M
+6	tuple IIo		
+*l	
+Dk		ubX	
+q5* 
+	db
+string 	kownership H4	x	async-std `super vl
+M
+? g4		S6Future 	7self $unsafe 	F9eborrow checker 
+c('
+From and Into traits 	5
+1y4s
+str 
+Rustfmt DRustacean Self 
+slice 	LH
+await 
+	
+32b0.
+toml trait Q
+
+
+
+8P2
+	cargo >
+WResult =.	
+99	H
+?Iasync 
+3
+Deref trait 	cargo 
+
+
+trait bounds string 	match T	
+
+Ac4	
+epattern matching 
+	use Z
+3LD	
+
+
+r
+
+
+3l5+e				
+02x
+_toml string 
+9	vCrate.io 
+
+
+k5X2Ximpl 	2	lifetime 	#		slice p
+Y
+async k`
+await pattern matching 
+
+	0? 		
+	
+f5						e	as R
+-	a8
+9
+8
+		
+		<.X	G/	5attribute ]d7vY		Mutex 	5R
+R3derive tuple 	)7slice extern 	expect Qassociated types 	d
+!PRustacean hX	
+
+Rustfmt Zmod Cshadowing 
+		8
+	U4f55h7-pIterator 9|T
+parallelism ltuple xconcurrency m
+#
+
+FW9q5
+L2	L4
+8Default mod 	
+X328Deref trait Uself 	60vRustacean S9struct q	&mut 	

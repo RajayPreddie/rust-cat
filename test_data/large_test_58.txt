@@ -1,0 +1,205 @@
+ushadowing 6unsafe 
+B`z1	
+M		Rustdoc 	
+async-std B
+str i
+	y&mut else 20T
+LH~7	borrow checker `	tuple 
+0f^	fn m16str STasync 	t6974U8tokio jbreak NFrom and Into traits 			pub 1FFI V8		
+	0
+2
+ww	slice =	
+E@V	
+uPDefault Uf4
+	+7e6wwasm ref 	lc02
+
+
+1
+Sf	5j
+#
+wT9H86
+3
+i6tSend 	
+@impl Send cargo w	* 	d
+83lifetime 9	M56	#X
+	z
+
+
+fn V	O45module system 3	91
+	0WCopy 
+
+7069	Qa
+c	TVVec i89P2
+50no_std M
+B
+x5mod 	0type parameters 	Jself 6
+G0
+Y
+2	wDeref trait 6trait object for 		slice 2
+X
+	,CM
+g
+
+
+
+
+String lr	U	mut 2416d5p
+T
+o
+sj1	QOZL	f0	;	
+		9	i	
+9>*
+
+#	macro_rules! 
+		(9A
+7
+loop 9	9}>}lifetime elision 
+vCF	uC]7	crate 
+RY	G
+shadowing Hr4
+!6
+
+e
+borrow checker I0	1		
+{2
+
+		7
+parallelism loop 
+v$	
+m4B
+	x2	module system macro_rules! Option return break )6parallelism &mut QB
+	0A#[derive] D|3
+
+3>61
+!
+_Q7Deref trait 7Q
+
+		0	|TKMutex 	
+	8	7
+l31trait 
+		3E	return aj
+
+.1?	
+RAII Rustdoc fn 4tuple 
+
+w'1
+E
+726|	Sync 
+A
+
+@
+	FFI Rustfmt 	
+	
+	
+3f3
+9
+
+
+2
+
+O	
+N5str 1a	Future %9
++dyn 6
++else S	rf	visibility b8;XCfE	
+gVimpl e@Xtype parameters /		+U5W	2S7
+'R	Okfn if 
+mod Box 7
+	g7	4	5n	6obreak W	p	
+String string Esasync-std 
+expect 
+	Iterator 
+22
+	
+
+
+FFI qy
+J5fSend 
+2
+p
+7
+P	28struct 
+	G6
+
+	Nse	b	2match 0m	73f7*GjE	I	
+
+	crate match nC3
+Bdyn 3	str 	
+
+g
+
+Rustup L	
+
+	zstatic 9
+
+2C	Q	super 		m
+zunwrap 
+56	NArc 		
+w8	m	lifetime no_std 
+type alias 	Default 	
+	macro_rules! 
+Mj-	2
+
+86JdA	0Wh)_associated types 	oQ9woyT8
+		
+
+	
+async-std 7I
+Q$	Box dserde 	
+z	attribute 	280a	Rustdoc 
+=yaFFI 
+
+		O*P
+8Un
+
+	oJ
+
+	6F
+Send 'jW81	
+_	D
+9
+Gfor 1	
+6
+wtrait object 1ownership &mut 	RAII Q	await /
+.Box Jshadowing 		wmatch guard 	pattern matching macro 8From and Into traits L
+#xq	i
+93eS
+,5	H
+no_std 	(P7	
+4
+
+9
+	string c93k
+
+l	4~LWv
+1
+	78unwrap 	8	XRustup 
+		EMP	attribute }ai	6String continue 
+-	7async UZextern 397attribute f
+
+w{mod H		1	derive 
+S
+5type parameters 
+generics &>
+Result ]	match 	W	7
+
+6Negenerics X$if 2else :	01yKsuper u	6
+& 5	Arc 
+V
+borrow checker 	k|
+
+nqA
+closure match guard 
+u	
+	q
+	?7? 8
+kK	cargo 4crate 
+2		954
+	A
+"xFS	
+j7
+85Textern 	
+
+
+	1I
+O
+x

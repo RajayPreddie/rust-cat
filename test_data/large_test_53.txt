@@ -1,0 +1,199 @@
+super lifetime elision 	i]ylifetime elision 
+dyn 
+				%static 	G2Jwhile ACE
+
+	l	
+
+g3rx
+m	wE
+
+]k
+	2sCf
+	p
+
+4
+Rustacean S
+
+2,
+
+s13match 	Gntype alias 	async-std }	f&
+match u
+
+H	
+? Iterator x5X			9	
+b11unwrap module system 	o
+derive 3oRc irWJArc 
+dyn cargo 	
+
+4FFI 8	
+Rustacean 	A	f	
+	8? 
+9
+Xytrait object 
+k
+	7
+no_std E0y
+	Clone 	i
+pDrop M
+k/t
+Bvisibility E
+	r	B	5lstring 9	self 
+x@78Arc if 
+3	
+closure 2	
+Copy continue u0	A2Jtype parameters 	7
+
+d
+3a
+u6j06const T
+		
+	Ystr 6U
+	
+closure 
+await 2f	50t	E60	4ownership string 		4String 7		
+tokio Vec s
+8l
+]		
+	0[13m	
+n14m}7	no_std :	5tokio 	
+Clippy 4j
+EH
+h
+H7	3n			lifetime elision 	o	E	fyattribute X7ownership 	
+5R1
+	l
+i0
+8
+6		
+w
+E6J
+ref e
+
+
+48
+Y
+X
+	67
+6T4f*
+N		n	
+
+
+	associated types iid			Wg11	borrow checker lifetime j	ref 	7
+
+
+
+	
+a	D
+	b
+
+y?	W	
+Sync 
+}	`	dyn t1	7mod o+
+d
+
+
+w4	g3
+Wself 	80Default IQK
+0yN	3
+9p#[derive] 
+
+5%!	88	
+
+'#[derive] Rustdoc J
+CE0vgenerics 6ym	88		
+9
+3k
+
+
+
+`L6	* R	
+4O3			8	063	parallelism T	[Send type alias 	
+expect 		o01(
+2
+5aconst 
+T	48unwrap ? 
+	Eff
+M	concurrency 		type parameters #wy
+1	3	
+pattern matching 		
+0no_std CgB9985#[derive] 	qKnstring 
++
+4n[Drop closure 	Option 554	Ey
+651	
+Crate.io 	unsafe 	5
+7
+h	+18o	dy8B{1
+%A7
+K9	
+
+:	
+
+
+use 1p		break 		trait object 	d
+VDeref trait rref & 8hclosure xFRustdoc pub 
+passociated types 0
+92	8
+	7	Z	BYuse unwrap Mutex static 	
+
+
+
+
+?*Clone Box 		y4	
+%r5
+trait bounds 7H5
+		
+4tuple !impl aYWtrait object crate 59	
+	wcontinue ref W	ref 	aq3	xmatch X
+	e
+	8gserde 	
+	
+Copy 8{	pub 2	shadowing 38	lc	2enum j	associated types loop 	
+y9u	
+Option 		
+shadowing 
+Rc 
+
+Iterator 0CN?Wlet 	0	Self 	pub JoOcrate ;
+93Rustfmt U
+5(
+M
+lifetime 	#
+T	3:
+1	struct #
+e3struct 			b	Rustdoc 	0Ee]	9S
+		
+mwam	
+4V			PPloop 015J
+/no_std `u	
+
+	const 28	
+	serde trait g	
+
+	U7
+OW	
+
+
+w
+	lifetime elision 	08#]	659parallelism o`zH08
+Rustdoc 
+Z		
+7E3
+8		Arc 
+	1hUJ		
+359vtrait bounds 1
+
+1
+\5
+Q	kYa55M	
+3Y	MZDrop 	@$		3match 	X<J	let F5	
+		Copy 		trait 	j	? ? x	5
+9enum 
+4
+4
+
+s
+shadowing nkb	
+v3no_std 		n	9
+	<4	9r		mod w	3U0	Z26if (hT	X
+W			
+qRAII const 

@@ -1,0 +1,213 @@
+j-
+
+	!
+
+
+W32Q
+u
+0
+Rustfmt Mm
+'	7x@6		1ownership 	
+
+
+module system J7
+	closure wasm 67m
+kHstring 	
+	expect 1borrow checker #[derive] c	wasm k0Drop 
+Je
+	return A
+A	di
+5loop 4
+		ZK
+serde wasm 
+	extern 
+Bslice 	&mut 
+U	sO6P	
+trait bounds 	ISend Self 
+
+	GF		
+Qx
+8C
+
+	0	Cv{LSmod 	3a
+x	E	K7rk#D
+	Z
+6D;		& 	self a|1mB5concurrency 
+
+UM
+
+	41tokio Crate.io Crate.io 
+		self 
+!
+Deref trait 	u	wmacro nref -d48
+
+
+	
+
+
++	Send .dyn 
+3	.9(0	type parameters type parameters o
+M
+0
+	m)Y5K	
+
+745
+1toml 
+4K3Vtype alias 
+	str serde async-std 	#vM	
+,	5
+Copy 
+E&Clippy fU
+	parallelism lifetime elision 04
+Rustacean type alias ri	Vec 
+Deref trait L_super E	5		q
+
+Ge	7Y0W,			J
+5
+
+
+
+? 	
+~	
+
+	~K	Ppg
+0
+w6match 	4Y9Clippy k
+Clone 
+4
+	
+	
+b6match 	#[derive] 	g
+'0	7Fcrate Za32String _type parameters qsuper 	L>parallelism 
+22	id0|cIterator 	
+	$
+2	Debug trait N2G
+
+ZK	Clifetime elision 7
+	U
+p	
+1
+|match guard 5	&2yKV
+1
+
+
+
+4	'H/type parameters p	8trait bounds kX	%P
+attribute 	8
+G9j		4	async-std else mut 
+3
+
+Slet 
+return 
+	?
+	q	5	V*
+loop Sync trait bounds 1dyn 	Sbmacro_rules! Y	Rustacean 	mod 
+super 6kGRustup Xenum 8
+5Drop Yt? 9pattern matching 		XB	6
+6	V4n	
+8	
+	mut pub unwrap O9shadowing 765tk
+	w1	1	4
+	
+
+4	4E
+	3Q
+
+9Oserde 
+]mut 5-P		1	
+\1B	
+
+
+	P8;j"	"32
+M
+DqVSelf hattribute 7Debug trait 	I2
+
+	H,N5else z
+
+	fn 
+e	use 2Clone 
+
+const 1m0
+4V5struct Mutex 7	m
+	loop 8
+0	async M	
+str S	dyn 3
+Yunwrap 
+	Zq9
+2l
+U	mn	83return 	*	1T
+G5HfO
+trait 	
+5ebagmatch 
+Z	S14Uq
+
+	& X	Q4	
+^	~5String Result *y
+*8u<
+Q15	zparallelism 
+
+L	cargo 	
+
+3
+
+	4
+
++
+6	o26txmut m
+47
+String 2_,1
+			
+	<
+Arc 	
+
+	yg90Crate.io module system wisuper as 23	5
+
+J
+		Option w0	Rc zif v		Iterator 
+4P	T$Option 	
+Self S	Ty7xSelf dyn Deref trait 
+
+5		S	
+67
+>	Q	Z
+xDfV
+	shadowing struct 	
+&mut 		07	
+
+		L	*			
+5\spattern matching J	await h
+Vattribute 82T
+9KI	
+
+z~k`
+=43	k	Option nm^	A
+
+	9	Nlifetime elision 
+3no_std 	
+hunwrap 	
+str 6<	lifetime B		0Q
+clet Fp	2C
+#[derive] 	
+	5
+%
+borrow checker Is4Z3#+W6	8Oclosure g5macro_rules! 
+		#[derive] U		34X
+0*6	0G2Rustacean Future 
+
+
+	
+3Ww2	v
+
+	loop 
+	H? Future 
+9
+Nt	y
+1oArc 
+w
+
+as /
+	2trait bounds 9Fmod 	
+bU	
+
+wenum 			Uunwrap 
+6olifetime c

@@ -1,0 +1,225 @@
+1	Na	
+5From and Into traits Send Vshadowing trait u		break 4AMU	
+|
+dMutex m8fOption 
+	lifetime 	floop 6i	5KFF	
+F	
+2	NDself j
+`	toml 1G
+	5		;f
+
+Z
+expect o	t
+l6
+	1
+8
+const ntype alias :type alias 
+4visibility 
+}11Clone 7Jj
+
+2o
+
+C
+	A13p
+Default 9lifetime 3	vW
+	S8@
+serde 
+X}w	7
+P9visibility Send {
+
+	Debug trait 	i
+w	8s	
+		
+	2J	A	Rustfmt 	
+R	p8
+YNWcontinue 	*
+
+L
+>
+
+9$y	associated types Et3pattern matching 	qparallelism 	fClone 
+Iterator 			261	cownership !
+J
+05	trait bounds tshadowing B21Rustup 
+lifetime elision 
+AC9Debug trait 		struct 553Clippy 
+continue await 
+macro b
+	
+ma9	4	mod mod 	h
+concurrency 
+52	
+8
+
+G5	5Mtokio 		Wf
+	9*use 	48N@	Q
+
+break hownership s	eCDebug trait 5	RAII 	9serde I
+
+8yR	* 
+
+lifetime 
+Z	9
+	
+dyn JSync K8	
+	
+Q6
+
+	
+	HsRc ;	8ifn 97
+	Iterator BFrom and Into traits 276wV
+FFI OXVec 	R0		
+
+t
+6
+aeunwrap 	1
+
+M	
+9PzUasync-std 
+Iunsafe MSelf 
+
+0A	mparallelism 
+pub 			borrow checker slice type alias 	[no_std K	
+5cBox 
+XG	macro )	hN		owhile 	
+		hQ
+4
+		FLi	A4trait object tokio 	14zA	Sborrow checker p	smut trait bounds O4
+k9
+&mut s	;
+d9	Q	9	1T
+
+YClone 4	Z
+	
+	
+9
+
+M
+i
+9w		
+
+3	3,["	5		
+4l2w
+1r		
+serde _2
+7	String 7derive 	6
+
+	RS
+attribute Rustdoc V	
+
+^9	C			super 5o	
+y0as 6& \
+	loop 	Rustdoc 63
+
+
+macro 
+		^7
+Send 7vQownership 7
+string 	
+
+M	y702Clippy p6
+2
+x
+J
+	!	bUAr
+	#[derive] 
+~xhDebug trait Option 48
+	
+extern N.	6visibility JU4		
+Crate.io 	
+Bgenerics 9
+AcG"47J
+\Arc 8Ny
+
+pI	lifetime 
+
+8attribute A&mut 4	^8visibility while 	4
+h	_	
+	
+
+	
+	
+	ienum 	7dystring 
+h9
+7From and Into traits 4
+J	* X
+t	? Y
+
+		32O
+*_2
+
+2	
+
+	A	4slice 	
+&
+6
+yIterator P%
+v	trait bounds 	
+cargo T
+FFI 
+		
+
+55*L			f
+
+for 
+type parameters 	struct !kwasm no_std a
+	y
+
+associated types 	
+
+
+
+	
+	Rustfmt C
+8		
+n		
+
+a=
+
+
+attribute 
+Copy 	p	6oCmatch 	K
+k	05	W*Send & 7		e
+z]K"	Copy 
+
+
+u		Vec 7G	
+l_#
+extern 
+for k	44	9
+9IBox 
+9
+8string 089)
+	lifetime 		
+tuple #[derive] ;
+kn
+	
+39	4
+	PO"		await 8
+unwrap %ZC	if |v5
+nownership H9
+	* 
+derive 66
+	Arc 	v
+Debug trait h?	9`9iP}X	
+;
+65$4	;	S0	18S-	ownership H7	93
+	338
+			
+	
+5Mutex 		expect 64
+t
+	=	48894FResult )!impl X6Y7	
+
+3	
+
+
+61	crate T
+as Vec as e	3
+
+module system Q
+gP05
+impl 5
+	Send (
+2v		5static 	
+7u_2Default 

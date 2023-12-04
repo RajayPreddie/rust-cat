@@ -1,0 +1,207 @@
+Ktype parameters Box 
+1	as 2Clippy 
+7xA-p2/8
+	2pub 	EqWNi
+2k
+y	-	7
+	CbmLW7&Drop 
+4
+,hfmut type alias ]7
+Self 4Ym
+cvo
+6loop 	module system 	7		-ih	'6r
+
+match guard mIterator 3	
+8p
+^Rustdoc 1
+2
+
+OF
+
+
+5
+tuple async su	tokio 
+J5nM%sSelf 1	50match ;	let 	r	
+borrow checker 		
+expect 	
+
+8
+9D
+	generics 	m8Qtrait 
+
+for continue Z
+	&mut 
+6
+async >	E
+]
+borrow checker dDefault 	m.	2o7{H7serde 	
+k
+	shadowing 
+a
+zOfn wasm 
+53Self 
+M4		o2
+W
+m		cpanic! 
+	06Xj&mut 0e	eryb
+as 0
+9	1	6KO
+
+
+
+	|f%Copy 
+	
+	gRc 
+g1R,	
+for 
+		xQRstring cargo ]	K	#	9
+
+0V
+40	visibility 3Sb	Result ,	0
+a9type alias 
+K		5X
+str 9O	6	YPRc 
+
+Clippy trait bounds 	4+		32	u3wasm 	7y9
+
+3
+xl	3b2)q
+
+Debug trait 	B7
+		}
+	70		Rustdoc y'9Default 
+s3Q	5g3v
+	
+0			str 8	
+	dyn WSend 	module system 	0Clone expect 	2
+otHr9bb7	
+2		h	7S
+	O4@1
+	
+* 
+	oUassociated types unwrap derive DEf	k	`
+trait object 
+
+JQ8q
+3
+*String static ~9
+*static 24B
+k
+
+OrE8parallelism ;Kjx	
+rfn YNr_4
+82A
+FArc impl G
+8
+=
+Rustacean 
+L
+!dyn match 5	`yh
+ZGborrow checker Sync async-std 	Sync *	
+vserde eHJ30O
+
+0	trait bounds 0	7
+r	
+4
+attribute V		93Rustacean 	8
+0if 
+R]p@if 	Deref trait Q
+	wM
+?
+			k
+7	PO		ref 
+	match guard u
+	panic! pub 	lifetime elision B1Debug trait q7z%	
+c.10UDefault 2ctuple 		
+)6		vt
+	
+
+	t	6Tstring 
+Deref trait tokio as 	expect (92	g4	8	
+6M
+
+
+
+#[derive] Copy hassociated types expect J		wasm q
+
+4~1attribute Ru7String 	
+& Ic	7fpj	Rustacean cJ
+0#Clippy 		SK
+X
+m
+a0
+	6sR	*O	visibility mod 	MRustacean 
+1
+
+2
+
+AY	7F6dw
+0	!	
+8
+	
+XH
+ev		Hmod 
+:
+H
+	{
+continue =d	
+
+
+2islice 6trait bounds string 	
+s5v		K
+
+9
+`8A
+extern 
+		243	iVu00Nt
+while E6|1
+
+
+4
+6	824R
+fw	MEJ
+Efor Sync 
+QRustup 	Ocargo 	9	serde 0k_8* 2
+9K
+match guard cargo 	
+
+
+CeRs
+
+P
+	]9	X
+N
+2
+	Deref trait continue 
+	
+4	14K
+Rc QG	5
+
+	
+l
+macro_rules! borrow checker 3	j6U0trait object J
+E		D7
+FFI 
+panic! 
+
+
+	static 
+&mut 2)	aQ#
+self 
+68	Sync g
+Deref trait 2	
+
+I83
+		u
+	
+self Future 	
+q	e	Result 5OTc		6Gl5match guard 
+s1	[3J	Rustdoc 	loop {&mut X?nd	
+7break 
+	h}Xgenerics qN	
+
+3	Xj5b	p
+jqzg3	P	0	return 3trait 18			tuple 0z		OA9while Fstruct Drop 8XM	5	Option 86
+	
+	55	* Qoownership slice Box 0
+

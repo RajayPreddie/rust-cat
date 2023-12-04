@@ -1,0 +1,186 @@
+G0
+
+[3G
+	
+9aJ
+		generics 	Arc ,v		1Rustdoc 	aIQ
+O
+A
+
+
+	L
+mod super Z	V	c	Q/8
+5macro_rules! 0
+
+Send n5	generics 5
+Nreturn 	macro 	2	Future tqI
+
+omut Self 2
+
+cargo 26trait bounds Vec 0	Box v0
+0H36	serde qshadowing 
+c4	v
+i)
+Crate.io 
+	self 	9	BFuture async-std return 
+4unsafe 7Default 	loop 5[2i5	Arc k2
+
+	
+
+
+str * 1super 
+ownership 	3
+YUV7
+P4
+
+71n
+!@	~C~	HqR	7&? Y2l6
+=	xt	?273
+closure Clippy 
+
+	return 
+ienum r
+	APRAII type parameters Self (
+bclosure 8	g	S	1Rustacean y9r
+Sync t6
+7	ref l? 0J)5
+
+str 9	visibility zSelf 7M
+
+OD
+	
+	r9
+1
+	
+super 		:>	
+Default 
+3	p_	extern L"	2-
+7a		K01	unsafe parallelism vz		unwrap 6Sync Self 0
+
+
+1	
+lifetime elision 
+	9M
+.
+			D7tokio extern 	
+
+	for 
+Copy C	while s0A		macro 	;R
+loop W5*6				
+Debug trait 
+AqResult else 9z
+)slice G	k	74ef	~7dyn 1
+6if 8
+3pb	.	1		
+;Lpanic! 7return match Rustup 3M	
+	7
+
+closure 		String =M7		"		
+`
+Userde g7
+
+
+	Arc 	8r1					
+
+type parameters 	m
+
+Rustacean ,5closure visibility 0[	z	
+w		i	
+Rustdoc 		V
+5	bC	Zb
+0
+H6ud	while Rustfmt 
+2
+	shadowing 6t^I	visibility lifetime elision 		t42
+f
+lq	Future K?borrow checker V
+L		8
+Nlifetime elision return else `	7
+	G	enum await Rustfmt serde 
+p/fn 			Deref trait 0D5struct Rustacean 3
+
+
+	associated types 
+3n	@	%5A8
+Rustup aigHVVec j	Zw3		eloop 14
+
+	%	&mut 	Atoml 
+
+	From and Into traits .	cIterator 205w
+	
+continue 		match guard attribute 
+!
+SBmdyn 
+IFN
+Z1T2	C
+f		8type alias 
+string h	
+
+	zJassociated types 
+04		VZv
+
+extern v
+trait object *	tokio TBox 2	mod 
+		
+<Sync extern veRAII From and Into traits p
+jtokio *	
+j	
+	
+Arc wasm await attribute vbI
+FFI zk
+5tFXvFuture str <
+v(gk	
+
+
+
+u		
+&n
+	uL4Z	self visibility 	visibility async-std 
+3	z14RAII panic! 	
+	
+85	
+=shadowing 8	&wasm 
+
+R	
+
+I6
+u
+
+
+>Kloop FFI 	51L	1else Lw	
+for 		PH@sSend 3F0	
+4		s
+
+crate 3U30Future i9SP
+41wY5l
+
+e4Sync /&mut 	`30parallelism 		elifetime elision 	
+	Default K,fWlifetime d	7mut no_std 3F59524Default aClone concurrency 	50Q2!GW|l8		2loop c1macro_rules! 
+tuple 		9Default z9J751Ymacro A0type alias mserde Option -clifetime elision 
+7	7
+		6Arc qpattern matching 
+rpub 	17	return 99	7
+x		continue 
+1	
+FFaMF
+29
+macro_rules! 
+p
+w`6macro_rules! 	7,qo4match V2
+
+RCopy else s	0
+
+6o	
+generics 	C	5Iterator }5return 		8
+Drop LBM
+2
+7E
+r
+	QlKcargo 	macro p4wasm 4+R
+&\	z49
+9	
+_
+		m	MkTString 	8	trait bounds 46g
+2
+p{]T5
+47lifetime 	c

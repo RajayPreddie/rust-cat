@@ -1,0 +1,189 @@
+no_std 
+
+6s		KT8		2use 		
+mod 8	l	0	
+vl	=3Box 
+Q
+
+p
+	Cw0BM	1485			cargo Drop Ov48match 
+1d3
+
+Send ref nu	
+58s
+shadowing QO0I	
+2
+b1		1lifetime 8Copy mod 37String j	9d	}Rustup 	
+D	wmacro string 4Rustacean M10cOption 
+kV4use |Ul3j9
+5	impl 
+Eparallelism 7	module system 38
+	4if 	Qtoml 1	f49gself 8loop 1Py6	8iuse 	
+)9associated types 0		3	7			DxM7	
+Ua6	J
+J8	
+		GJ
+	Y	2	v&9m	34wasm 
+
+6E8fn 	
+	1type parameters &
+for 2Y	Th6	
+45rn	8	
+	enum 0UUt!type alias B3'Xe>DR
+Rustfmt 	loop 645	1	From and Into traits Clippy 7str String 8J0
+
+
+9s2	7um
+
+9	Rustfmt 	expect 
+	v]u[
+45Rustacean Q4
+,>async B
+5associated types 		4
+8attribute 	
+unsafe RAII type parameters vFN
+I9PuOv
+	95~
+	1*+otoml 	
+d29
+4
+6JF
+!Rustacean UDMutex 	AE!	
+a
+)trait object 	
+
+R	19b
+	V	kz4Debug trait 		
+h2	
+4	continue 	
+722|Lv
+	
+	hVec $8	Iterator concurrency 
+match unsafe 2D
+fshadowing /9
+rJ9&	
+5'
+lp	`g
+xstatic 		
+
+
+;	
+	9	X
+
+F	Send 
+
+	W		parallelism 61
+
+Vec 8
+
+8I	+
+		92=8trait object 3	UzU
+
+5
+unsafe M	71a	Rmodule system 		9	B4	slice 
+1	6pFFI unwrap 
+
+K	fn Self 	
+3	1e4From and Into traits KDpattern matching 	
+w	
+loop R0)match guard \
+
+
+
+5Y	
+U0]
+3
+borrow checker 
+*pN24Clippy Result 
+eas s1closure 
+	
+X7cJas tMutex F
+@
+>
+
+Send 	k	q
+
+etuple 3;ZaC3		r
+return extern 	
+attribute 21
+
+impl 0dimpl 8
+7ob	7associated types const O7
+	
+5h	
+
+Box 5
+
+	4\
+m75NW
+9Ktlifetime 	N>
+? j
+`
+W3		9i
+!	5
+u
+	
+
+macro 7	trait object kFuture lifetime elision 8&
+U	Arc F1async-std derive as return o
+
+G
+str await qtrait bounds loop Drop f
+XDav8vO3	D365		3
+7attribute 	zclosure 			V
+/g	x2
+
+self 
+
+self 
+
+
+3	w	macro_rules! borrow checker 	x9
+4yOmodule system 8	Ewhile async >mod X		
+&c5	borrow checker 
+"y	
+type parameters [i		7aYHq	
+
+mFuture s6Result $7R)crate 7c	Tj
+v	#VMasync-std H	F	WB6visibility Bbreak Copy k	associated types u	^
+gdSXtype parameters static FY
+use 
+y
+
+		3
+a
+wasm 1Mparallelism 7
+7739Amatch 	5c	9|8i
+T	5		qv8Rustdoc 	8
+jx7Rustacean 5
+
+
+3	vI9
+
+2super 4Simpl 	
+	
+Send 	nr00String ref 
+y	
+2
+"F	7	unsafe <
+let macro_rules! 
+
+3r97async-std Y
+	x
+	T
+		}struct 7continue I
+38Future 9Y
+
+vmx2
+y
+macro #[derive] 		2
+E7		
+LW
+0:
+	jl8Clone 0
+Br
+		3y	Rustup 1iattribute 		:
+
+9
+pRustdoc self FFI tc	usuper 		ji			424
+9w	

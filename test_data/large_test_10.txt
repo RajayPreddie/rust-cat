@@ -1,0 +1,199 @@
+t2IA	
+	ZC,O6uSelf 
+	1
+
+	'	s	|concurrency G<R
+6
+n	6use w
+KS
+
+Clts
+		#[derive] static 
+
+-nL
+pDefault 	ffR
+tuple lifetime elision F6"	
+C
+Vap		>	E
+
+	2*1
+a
+mu9	w
+8			
+9
+s
+
+6vH		r1s4cS
+3O4& 	Z
+W	associated types 	1K	use u	87
+				Future string a
+	
+8
+7	
+	
+zm
+lmacro 
+P30
+o66	
+a38%!L	
+	AtRustacean xy4	
+	380=Vec 132zSend 	
+	9Uuse Clippy 	84
+	7u
+
+/4
+	c4
+	m
+
+	0g	
+`Y
+
+x36
+
+VlFXClone 9k
+	S7730		
+s>+		,
+6type parameters 
+	NRustdoc 	7associated types Clippy vsFuture 
+async-std n?as ownership 4type alias 	dtype alias j5y
+EEE	:fn 	Deref trait 
+
+mtrait bounds 6&34	w
+(	4
+g	
+Drop &mut 	
+fn 	T4borrow checker struct 	P	7Self 	static R	FFI 2else C95i30	27)9			Nenum I
+type alias 7ex
+type parameters s52o
+Rc g	
+6	
+	Mutex 	7	tcS	
+6=c
+8Drop 
+f	v0* _w
+
+8
+	E	
+2x
+ref 
+		
+	jownership pub 71Xm
+	V19		36		zq		
+j9		utrait 
+4		Deref trait I		crate 		pne
+d
+6Option unsafe 	6	7	trait O9Z5i
+&mut D#Ptrait object 	d	4F4async-std 	Fc	2e{else 5y
+
+	8p
+e	
+<
+lifetime elision 
+	lRmut jtk
+	
+l]5pub h8U
+Rc 4Zpanic! 		
+	
+z
+50
+	
+
+0Bwasm Js
+
+@await lifetime Future 98L
+
+X
+I
+
+HRownership 6
+l2
+Y9		unsafe 
+11G	^
+
+Lr	8nResult crate 						Z1z4
+		From and Into traits H92	45	0X
+aSync 
+mut 
+
+	7qg? 	1	P	6	&j
+{		
+
+15	attribute 6	|
+slice 5		Iterator mut 3myV6*0s	70;8
+xZ		9	YString continue 		5
+	3match 63Nstr 	visibility 
+#[derive] 
+continue A
+P05)K
+V? 2
+P8cargo 
+Pasync 0enum GLp/S	6g
+FOption 7<Drop k	87continue f5
+iRAII xBox 
+
+JZmacro_rules! Rustacean {	5efor 	NR'	impl 5module system 
+r	pk`{
+Rsuper Mutex 		Rustacean 	5
+d	(
+
+
+O		8associated types 	
+>
+Rustfmt g7$lNextern 
+3Atrait bounds 
+Juv6g`unwrap D39	9
+Wa}WDrop `
+7
+9	TB
+5
+dyn 3
+	z		
+
+	
+l3
+8a
+g
+3Deref trait macro_rules! ,e3dyn 	
+	:
+
+G0
+	T6	?		79G
+	
+unwrap 	N1Drop 
+vcz
+d	
+K	
+23	
+b6	8	3R* Sync 	
+j7generics * M		macro 
+v8	
+D-IHX]6	E3<D	y	4	
+5A4x		6	w	unwrap 
+	FFI & 
+2	73
+4|P
+continue 2		
+	?	X	bFo	Box 	
+			
+c
+generics Kunwrap N	
+	serde 5c	
+
+	z
+
+2v
+
+1	
+b
+uUHcrate 
+
+44z9
+	
+yFserde qj	8y72
+match guard 5ref 	
+3
+	Drop 	From and Into traits 0
+	derive 
+
+	slice $derive a0
+cS0

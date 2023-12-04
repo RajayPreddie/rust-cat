@@ -1,0 +1,200 @@
+G
+		Utuple 	ref V
+return 		Eenum 	qZpattern matching 	d	#7
+D
+w	IClone 			tDefault 		hN8xQY
+M~async-std IR	UrSend 5Result match P9async macro_rules! 			6
+	2	
+
+aT
+2associated types 	panic! 
+DHY	Yk5
+	V8Self 	7ki3
+
+N8
+	
+HDefault &q			8a	60Rustacean 9vA,		From and Into traits V	|
+Gzj
+
+Arc 3Y'o	
+8		0rawait KVglifetime elision Box 1From and Into traits 
+Box 
+CDefault V		
+for Pf
+XDeref trait 
+{	bcontinue GKa58	6[	UDeref trait 1expect 
+8
+Self 
+felse 0
+
+lZVec type parameters R.3iasync-std 	super 
+4
+enum 
+				rtokio 
+	!	51for N~8nX	11xk$Arc Debug trait ,4n
+	7
+Deref trait type alias 
+WBparallelism as 		
+Clone 	Clippy %0EC65
+
+	2
+	
+	if 
+	
+1i
+b'
+Rustacean 	&Default O3		Vec 	
+Y
+97	
+d2	.VFno_std 
+3		struct n047
+J		f	
+3E	^string 	H		Y	tokio 
+
+
+
+u
+w5N	j
+	h	8
+if [string 
+9
+N		Hsuper jVec kw	0RAII *Deref trait R		+	2Xk4continue 0
+
+4|	34
+@		2S
+J			
+loop b2"	x	
+no_std Crate.io 
+g
+yFFI 
+	
+
+	
+
+xj	visibility 
+			!E8
+x4y	
+Default derive Amatch guard generics 4T'loop q	3cargo 
+	Hwhile 	H		s3attribute 
+	q=
+
+	Ogg3k
+9Y6		Ek	_
+cargo h8
+mBox 0
+G	ZFFI 5p
+5
+Pe9I8	3	kb7	as C
+crate 
+1shadowing 	7break 
+	O	5N
+2		8	6%	>
+macro 9Lj2derive jlet 7string tokio Result R
+	3
+
+
+	continue 
+
+1	wasm (		
+A
+
+Oo08	F
+3
+D
+mod 		no_std extern 	str 	^2V	6L	18
+		8	,Emacro_rules! 	2
+	
+Clippy BY[%w	Iterator 	24	Deref trait 	w
+8
+5IMutex dyn 
+O	
+Rustup 0for G
+fn b
+2& 	
+7
+6
+	FFI 8fn Result o	
+	4qrD|async-std c	Rr			3
+
+f	i
+	t
+4	Er	5trait bounds 
+
+
+Future 7XRAII e"
+
+37tk1O1	c
+o
+
+G7		
+
+6RAII ? 5
+Y
+	trait object trait object dRc 
+UO
+		
+if Z3w	
+static 
+V9Result borrow checker 	n	EI	type parameters WG			NE	6Option 3`Cb
+pattern matching 	tYF		
+6		M	U
+	jimod extern S4<
+Vec F	
+
+zDeref trait 
+1fn 	4match guard 		/8
+n9Rustdoc 
+q	
+PB7ref type parameters 
+Future OVk
+Dcargo 		
+zpub z
+3X
+Rustdoc 	6e		Drop gpub 		O6	loop e2			0vClippy 
+|		
+	macro 
+Z
+concurrency 7Copy 		7Qi1
+6sjyqparallelism +I77	a
+	expect D:T	JH
+	23S2Z6x	pub associated types [ZD	Zextern 
+	S#Q7
+mod F
+7		I5& 
+		s		0trait bounds 
+
+5>
+
+p
+QE
+Jtuple expect 	
+
+
+
+
+p
+closure 5			W
+
+Crate.io borrow checker 	else C
+	
+1e/
+return 1Rustfmt ownership elZ5U7	
+N
+break if 4
+2
+|Rustdoc 
+i
+
+
+
+
+c'cserde 8F	
+Crate.io 'ZClippy 	Xcontinue 			2su	V5	
+6
+8
+T	
+		l:9
+lifetime ss
+nmacro_rules! 5
+? 	12
+	L

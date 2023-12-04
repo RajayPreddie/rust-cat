@@ -1,0 +1,206 @@
+Clone d
+J		9async-std 
+9
+
+1closure Send C
+str E10borrow checker 
+a4
+
+2	
+unwrap type alias 	1match ~4
+=else 6JVec Z3H~	U	@00Result 9
+a	struct ref iF	0panic! associated types 	Rc else 
+2D41kT
+	tokio pattern matching 
+Z2	tuple 	)n2m	
+
+XVV
+4#[derive] 
+
+Y? 
+	9	
+0
+		A? 
+	r
+5	
+5uRustdoc x	30	4O1	2Crate.io T6
+7
+toml 
+	4jklifetime elision 	3L
+Kq
+	
+		2
+
+
+
+	
+	2
+serde borrow checker type parameters 	bassociated types 	5c4	6	5
+	From and Into traits ? 09pub 
+HMutex B	
+Lstatic dyn mod 08w	
+	type parameters !2Rc 		BZ
+	%@5Result RAII 	mC9derive 
+_
+50		
+associated types 5#		(3
+ZLxloop 	
+5v	s
+&u
+u`VDlifetime elision 2Eak	lifetime 0borrow checker l
+6
+6Rc K		Q
+1Rc qVDrop 
+H	u5FFI 
+XU9
+		
+	macro_rules! 7	
+dap
+mod jlSDeref trait mlet 8
+w4s
+
+Bcontinue CoSync 	Clippy 4	BIterator Drop while 
+^8w(Rustfmt 9	
+Rustfmt Ah/
+35
+1	
+Result 	
+]
+	FX	GW
+
+5
+YIsuper 58	
+0	Y
+
+Lassociated types bG		
+		@3S	crate 9
+	50expect Y2&	
+VD
+,G		1oOption rx40]super 
+
+Result 	
+
+:
+s0l
+4o		as await B	w07B
+;
+7self 	Nparallelism 			3	const XV>o		
+string 1
+	trait object Z7
+swasm 	
+		9
+.8Rc 9
+56qVKh		U{k
+mgSstruct 
+1pf
+HRustup 4|wasm 
++	
+	j
+W
+else Bc	shadowing string panic! 
+Vec 1
+lifetime elision 	
+6		
+
+
+
+Box extern ox	zgenerics `981
+36parallelism 
+	
+77
+x
+fn 		0			Wn	
+	7
+6	g1s5
+6
+
+q	Future 	else 
+
+Arc 0	Vec 5break 	g
+7
+18zIterator K
+
+Ge		M	X9Hfn 
+		66<z3associated types 	n	Arc 
+	
+SL		-enum JkN8		'	
+
+n_Deref trait 	
+;		
+uE	macro s3
+5await S
+serde 		generics N	s22parallelism 9
+Option 	@YwAfor pt0r	tuple W	2	B
+54
+	ustring ownership 
+K
+& type alias tokio 
+i-		6
+h		cW
+cargo 	&use 4W		
+UR	
+E8aVX
+dyn Z	
+	
+continue I
+G		1Vi
+	D
+
+8		C9	
+super 4
+type alias fn X
+	while 
+	b		=1[
+W	
+msa
+\
+}Rustup for 	
+	
+o	&mut 
+
+	6Grc
+\6		3c96
+kclosure CRustdoc q	
+
+	
+	pkFdyn E		
+
+struct W
+
+	await const 1sFFI slice /
+
+
+	static 
+	
+
+string 1				trait 		5a
+
+
+	
+		Z	7VCM+Df
+
+	,e
+u3	
+	0	Lsawait 5S	3aIcrate 
+lPtrait bounds 		
+	2Eustatic 3E	'gqOption Rustfmt 5qsuper 	Rustup lifetime 40	77	60]0crate panic! PRh&
+Sshadowing wasm 1k5eB	:M	
+	
+4	super 8LF<
+
+<
+	match guard 
+	825n0match )|wpanic! 
+		
+33	
+ownership 			
+9<C			let 	macro if 
+rWparallelism 	$xownership 3
+M3
+
+)
+			A	
+8O	module system type alias 	7
+
+
+

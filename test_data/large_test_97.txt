@@ -1,0 +1,205 @@
+5
+
+X2
+'8
+	
+8
+G	generics G			5
+	
+
+1	derive 8		#Arc 3W
+4X=8x
+2U		
+:	
+Drop 5Mutex 6
+		
+3Send toml p
+Option g
+	
+* w
+	
+	
+continue 
+		
+`d
+
+66Sync 
+if y`)	
+cdyn Copy Rc 	
+	macro_rules! 	toml 2a		ref 4
+	0
+
+c
+W
+	
+From and Into traits 4S
+
+
+hE	NResult hborrow checker 08
+x7amatch 45>	
+5trait /as k
+
+
+W		borrow checker 90
+56attribute a3v
+?
+F72J	
+wl	type alias h
+&mod 
+Copy 
+generics associated types 7		4y
+2QlrKU%
+U	Tq7fn 
+u	.while 
+W
+4
+? c]2
+	o5trait bounds Astruct 
+		uI
+cS&
+
+
+
+
+
+	
+
+FFI 
+	Q	v
+? 
+fn I7n6
+self 	
+
+604Box 1OClippy 
+d2G
+trait 3jY	x6
+M9f
+I
+ntcargo 4match guard 	4Debug trait 
+V9
+V?	p
+
+=X
+		\		78const P	{Amtype parameters 
+73closure 
+16Rustdoc Self 0~2	{W0
+
+	extern 			
+D8H1
+~Default From and Into traits 	enum 				6
+r8@Self H81	RAII ClRAII 	
+8
+1	
+
+	8V		qDK	mut 2
+6
+!Option 	*q
+
+y	J	ui
+
+XU&05parallelism 	tokio 1		unwrap 	
+
+
+	j
+7	d
+loop 
+KEattribute 0qI
+
+Iterator while 		47
+
+
+3LA? Default Rc Result 
+8mx
+`	81struct z%0-O4	while 1
+
+mkas 	
+	y
+t7
+77str z<BlF	break 	
+5	86cargo tokio 	Send 	
+
+7N
+[y
+7<
+	
+G!19	borrow checker 639n'parallelism =)		r0		n	
+XgU
+49h1$YFuture c
+	trait object s037	`jkV9
+	4parallelism $	tokio Crate.io 
+	McEtokio Bv	v
+
+	
+rV6		enum 4e
+
+
+Y			n&mut 9DI2
+
+
+		Y0Kelse 
+Rustacean <
+z5
+RAII 6uimpl async extern 	R2Drop #P1	4
+@	static 3
+for 	192Send 4	b
+a	{
+1GOption * 8P3	G
+	~
+use 5@Z	Pmod 
+>	gDeref trait 		Jmatch guard 		67M
+
+
+
+9lifetime elision vF		4	meUif QI	d		0trait 4@1u69hF2gRustacean unsafe ;unwrap ps)
+
+
+2	
+mod attribute 	trait bounds 
+Crate.io 
+	Gborrow checker Ty4M	
+Rustdoc Q
+l
+
+"	C
+1	j? n
+aAdsgmut 
+
+		RX	super 
+LRDClippy 
+6I8	
+78r`1
+
+R
+
+Rustdoc 	if panic! Wzvisibility 
+cself macro 	2Deref trait 8	8ownership String mut 23146	
+	e@swk		? 2? type parameters 5	m	Tmut else 
+	9	
+25Q
+
+I6	Yconst type parameters 92WO
+i2J9
+7module system trait return trait object 		lifetime lifetime Default 9Default ?	enum Self xn	parallelism 		
+J]PRustfmt 
+a7Kfor 8Clippy let async u	attribute s	8Jiawait 	YA>S
+type alias const hCrate.io 
+parallelism AEString 	6unsafe 
+wL0	
+Rustup if 			g
+A8* 
+	c7A.6
+UZQE3macro_rules! 		
+
+	wasm 7& struct yb
+
+	
+#31
+5		derive 
+kasync-std 58lK			EG	Vasync !
+9enum 	unsafe 
+mod t51async-std C
+
+$<
+n	6	
+
+	Box 

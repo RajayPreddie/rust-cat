@@ -1,0 +1,228 @@
+t9derive panic! 0		
+* l
+
+
+
+#[derive] 
+cargo 	MK1
+	:6	b48tmacro 47
+3	str Ki	W1l[	derive bC
+6hf
+	1
+		WSOption 	
+		
+Future J	loop 2H#[derive] 	KXcW
+impl 			5Arc 1	
+visibility 
+l	|k	J=match guard 3	7await 5	O4v
+
+nT
+	
+m17
+*S	
+2
+~5loop D	else 	Default 				P1no_std 2if 
+	
+From and Into traits Q1cargo 	
+
+a]Clone Arc f	
+
+6]S
+
+)	
+lkRustfmt trait bounds 
+		Z
+
+	8Xlifetime 	2$
+Da
+qmacro_rules! Xj1	87
+90			
+visibility x
+		9struct 		F	E|h1d8dM	String Mutex 7	
+5
+
+4w
+
+await 	1
+/
+Ngenerics Arc 8	
+
+293|2=Clone tuple 
+I
+2return C
+		I
+BEborrow checker 
+	Clippy 4h|1b
+
+
+8match guard 
+J7B8Sync 	6ViC1
+
+L1as pcargo 
+~
+
+2
+	]6	1derive 3p
+
+
+
+
+z	4	8
+
+XKYJwasm 
+bC
+		continue pattern matching D83
+	return 9
+	.	80
+	6		V	5
+RAII \	2	kno_std 		5		
+
+8430g4	@	6Debug trait 
+jvdasync 
+
+=	NO0X
+9	
+Rustup 2
+4ytuple YSend d
+Rtuple '445X
+C
+xbreak 	
+
+Option 	4	*Default S	Arc 
+
+	str 
+9
+
+Default o81
+o:Rustfmt 
+8
+-o		
+1
+
+
+	r	serde 	02'n8
+-	2
+4	enum fp			associated types q
+	trait bounds Gx	9#y]q9	shadowing 8? b05
+
+yncargo O	vkb8		String shadowing 4X7l	
+F
+x	
+W64g#[derive] 
+r
+
+3Debug trait 	
+	
+	01\				8
+
+{Q			Rc Drop 	
+cargo 7
+9iClone associated types =
+
+x
+	MI	s	3?	1QFuture E#[derive] 
+2	9u0	
+From and Into traits FFI 
+	w		
+	8	
+
+1	v
+
+From and Into traits 
+lifetime 
+
+	J10	{2eHU5	&Debug trait sURustup 2expect 	
+	f
+
+If
+return 	5Dcargo pcontinue 
+Gpub lKmlet o	6^l	
+	)slice %BD
+attribute 75^
+		self zwasm 
+3closure gH
+w7
+else X
+7GT	88ch
+type alias y	a
+7
+7q
+	M
+qu7
+expect 7
+no_std 
+
+Clone 	const generics module system str 0
+
+	
+		F09	5string 1c60match 
+3	ref AK	s	k
+K
+_4	trait object h	String pub 	
+UCpanic! 	
+j1borrow checker 70for 76
+jB57concurrency 3		5wY	A0VRustdoc vawait Imatch guard 
+$	nt
+	6trait 0cCclmacro_rules! O272Mg	wasm 0(	
+[9G
+
+
+as v
+N	E
+m			q	
+	M
+56async no_std v7	
+
+6
+A3	closure 	8shadowing 9949
+
+2pub 	79
+
+S	4Self 	33a& 9	use Yrif 	6		bm4q		9F%e`
+
+q
+3
+		
+=
+4
+18
+W51	
+Crate.io 
+
+5	x9
+4G	.
+	X
+crate g	0
+(	8		H
+?
+
+z1struct 53
+
+
+`Z	I		Y
+
+#
+61	
+	i	
+
+
+2j5	Arc cargo let Default 59
+b
+
+2Z		U
+	a9
+Drop 	Dh66Arc 
+
+	
+	
+a	4	I	2str while parallelism .
+
+
+Pn
+	
+
+
+
+Mm	
+8
+{

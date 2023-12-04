@@ -1,0 +1,173 @@
+n	Wp
+e			
+expect Gs
+1
+type parameters _7
+4	associated types cargo 2
+Y
+Vi	3t	I		qfor 5match 
+pmod sv
+
+	J	String loop Q
+		&as 		
+		W
+const 
+
+			pV1
+wpattern matching 	2icontinue 14^	
+
+
+
+O	4
+		4async f
+
+Su1
+3loop 
+	enum visibility C6module system 
+fn C^Hconst 7async-std 	t\w
+3tuple 
+serde 
+7Sync while 41
+r}
+async <9
+super Send 5	concurrency Send q73N	:7mod 
+o97	z7	y
+	Y6	
+d7X7continue z	pattern matching 
+8
+<1
+jlifetime elision [UA	
+#Mutex f
+1	Qi
+pub 	k/	a!IUC
+11	3Debug trait 
+String panic! Send Self FBox 
+,macro_rules! 27for 	hDdyn unsafe k	7	h#visibility 	str 5E	3mod V	jE598+ft8
+generics 
+gd
+
+Send xbreak Ho
+E
+
+7?	else mmut 5
+as 	2P8:T3X
+
+
+0379e
+9F9E	,
+gN	
+z8	5ownership 
+Vec 
+		lifetime elision oMutex loop 96q60	G9parallelism o
+attribute z+m			
+
+loop 	8:	QoFFI 7ntype alias 		no_std I7		
+6await 
+31Option while 6str 2	
+slice 3Kas 
+b5
+
+BEI
+pattern matching 
+toml D	Clone string 
+macro 5Debug trait !r	E
+6g	6C?	trait object 
+		Ok
+		7?0
+	6	
+RAII 
+
+6
+	q
+0y
+async 
+	j4
+	1M	
+	5
+6PIterator 		enum l7
+Y
+
+& 8
+		hami02type parameters D		
+
+
+7wasm From and Into traits 
+4& 			8?			9XRAII 	
+53istr _
+N
+const 
+	mod h-v$6	Debug trait 26
+
+
+3	HP
+3x21d
+8L	
+	borrow checker 	fHrZ6		C
+
+NbaUws
+
+xu8149lifetime elision 	extern Fconst e			F`0parallelism 
+	:#[derive] n	[e+	
+macro o	Q7D	wa8
+j
+
+W
+pub closure 
+2crate W	
+1os/8
+50	o	
+xmatch $
+
+toml `pattern matching 
+y		4<t	RAII &mut 	=
+	const closure trait bounds generics .5DZRQconst zAUjRAII UG
+"if ? 
+	O	#[derive] t	4crate |B1	match guard 1~B		4Vec 	S
+I/
+	g
+L
+l	Wcargo 
+8	8
+
+ownership 74qSelf o			0`Iterator 	S8& 
+Result mut l5Dshjelse 
+		n			Cno_std 		560
+5shadowing W}S
+	S1
+8	g
+
+return 8Rustfmt m
+d	
+5* .2Self 	R4A8q
+aZUcwhile 129G72Crate.io k1#[derive] #0
+	6
+vmV
+{
+8super 
+	aacAtype alias L
+bstring m8match guard 	Arc 	36Vec 	use a3pSBWJA{Future 9closure mpattern matching TCqVec 24Ibreak Xif 4
++Future 		
+
+Px
+parallelism 	const 2
+
+p	
+	closure 
+	7		uself sDeref trait zUhM8Crate.io 	2Rc 	3
+!	0tokio 
+z7		8shadowing 	T& 8
+7
+99
+81	(6
+
+concurrency b
+2Default h		shadowing 	X1Bk	macro_rules! 		3lSync use V	no_std qBox 3crate _
+
+L8	y
+'ydyn type parameters 	
+	M
+	lifetime 9use C0Copy 2M	mut 
+lifetime elision 0impl UN8concurrency const lifetime 	+
+x\mod R	6	R0	!await 4	ystr `(A
+y#[derive] Apattern matching w	3
+0		q	parallelism ONpk

@@ -1,0 +1,204 @@
+pattern matching W5
+4mod 	
+
+Kj	
+	2enum 	4Vec 	
+		3R		5
+zResult match guard }	3	X:
+	Crate.io &
+hZ
+	self 		
+7U	
+l	r
+?
+t
+Rh	I
+	KRustup IP3	
+x4	r	hlifetime 
+	Q	$	0
+G
+0	PJ
+super (trait bounds =shadowing l3async-std 	
+	8match V8ii	P	CSend 	
+6		va7-PUunwrap YS	Copy 2
+8
+EfT
+8	continue P		^H
+
+generics 35	fn 
+8
+
+	Self super 5	2Arc Z4
+N			C				Pp/		async U]			
+3u	qR	7j
+Cb4Nrstring 		
+b	extern $3	77	
+
+for 	0	7Ql9trait object 	3
+{z
+	
+5pN
+l1	sawait w3I8GJextern 
+use 	$	L
+Crate.io 
+	Vd	l
+K
+jFrom and Into traits 0		R9Rustfmt Clippy 8
+for i|async 		
+Ulet 	&mut RAII macro 84
+M7ref KResult 
+7	
+9		L
+as loop 
+ptuple 
+d4panic! 4
+}
+	6
+		w
+
+& !	* 
+
+cargo Llet 9
+Fj	n33
+*
+6struct 
+/y	X	2cno_std 
+Hn0
+concurrency d
+1From and Into traits KXc
+CJG9;v	G		Drop concurrency 		Vawait trait 
+905F	4M	
+	3Clone 
+Debug trait 
+
+8Default 5
+
+async 3	W	uY7	1	09G
+
+	+03
+T	
+9match Qzastatic Ehshadowing 	8	6
+
+no_std 
+Gs
+lt	u
+
+2	SGtoml AT4
+WP&G	5B	let 
+
+VV#[derive] 2c	
+;	0Mutex 6	7
+	z
+Kimpl 6	A
+
+
++6awasm closure 	while 2
+	
+return 	7KSend 2N
+Tgy227vB5	Deref trait Box tattribute macro 	
+
+
+
+9	189Z
+bs	E		t		R
+Hv	1	await 5	k
+d4Z
+79	xAshadowing 	Copy 	h|Send 		
+	9
+[		3Crate.io 
+Sn
+w
+
+A5expect 			8	
+1	G
+* BB	
+1serde 	4nEKunsafe r
+D&
+3while visibility 
+
+		
+(y? W4rj2pub 0	as 	
+9pub 
+Option 
+FF
+QF	
+
+
+D	2c	7Nenum +z	a	
+	associated types Tstuple atoml 	xz			type alias match guard 
+0J		LZ
+z5JArc nArc 
+Rustacean expect break 
+	5XRiHSelf for 	
+s
+m
+Hmjh	H
+C6{	Iterator 5match guard o	
+
+0S	C
+
+
+71+struct 
+
+/
+
+Self .5O93v0
+
+wasm 	type parameters 
+	9sBox return mwhile extern 7
+FFI ref trait 
+Npattern matching +cargo 	AcZ	
+	N#[derive] 0
+for 
+unsafe oD	
+	
+r	
+	y	y
+Oxxv
+lpanic! rIMause break 
+6
+
+4	28f	53C
+gDrop no_std 9	L
+
+
+d	
+
+loop 2
+		)0slice 0Rustacean Q	u
+string ejw	e	8o
+b3	if 	6t95expect str 	ld	2iv
+Wref 
+D
+ms
+	
+Ej	7* b	}uVref 		Self Ouse 	d7u	
+6unsafe bn0	2C02ISend expect 4	let j84else 
+1shadowing 	jr	5b!parallelism LClone 	&mut 
+
+2=9
+continue 
+wCopy Vmacro 
+enum 	a9	
+borrow checker 
+Option 
+[loop b5Y	y
+
+9?
+
+	
+
+	5xze[	5		3let 319dyn match guard 
+9C
+generics 
+	expect e7
+
+continue q
+y	
+FFI extern DVec J2match Q
+2	m
+
+	
+{22
+St
+	

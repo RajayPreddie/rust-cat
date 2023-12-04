@@ -1,0 +1,191 @@
+$		7uK	5Rustfmt j	%k	70toml associated types 	*
+str let 	4async <E1
+i	Debug trait 9w5FFI rmatch 6			7
+	3	
+Rustfmt 
+o001&mut 5L7
+	7Rc j	V/4Rustdoc 7static 	
+
+gOSe	
+2		8
+concurrency g	as 	Kr
+Rustacean 4
+8
+
+	Z6
+associated types concurrency lifetime elision const 	n
+if ;6await super 	3Oexpect 	Optype alias 
+
+s7IM80
+
+K	0G9Jstr 
+	
+664Future 	;			
+0;
+if 		String 	0
+	
+
+
+oparallelism 
+
+Jo9
+i	
+7B
+G	G
+46
+		derive 
+GS06RAII 	
+s	HC	@v	616Ov	fn :8>Deref trait G			Option T7t>
+Rustfmt 
+\		6FPqPg	J
+12	4	P
+h	
+	
+4
+mVdPwhile use 
+	k
+9	loop "	Crate.io 97	
+e
+
+v	q4	J6
+2Box P
+	2
+	
+}borrow checker 	4		1trait 
+	8
+
+	5lattribute s
+FFI 01	
+	Q=
+	vc2
+Q^R8
+shadowing 66
+(
+extern if 	5
+	)4!
+76<
+7r
+2	super 
+		
+0vz
+	s
+3
+O
+7static SN|
+Y
+type parameters 
+
+unsafe 	U
+C
+
+r;	B0match 	
+
+
+XZX5
+6P	
+sq5		ref H41	L38
+7type alias self 6xstatic 
+1U6	24	0Cywdyn unwrap YY	for 
+mod Default 	await f	
+5? 	crate 
+4WRx8	
+
+		1type alias 0	1	
+ZV	
+R
+36>
+trait bounds 9
+
+i9
+o	rmatch guard 	h	
+
+
+String d	6closure 
+
+Up		str 0
+4[	Deref trait tuple M
+wasm 	7visibility ?	Rgenerics 		
+trait dSync Rs@visibility 
+
+65
+38Delse Y
+Z
+7
+
+8
+	C
+Box 		DMt	r1
+pattern matching 	5visibility Copy vP7a	y	4r
+	
+	f
+
+sL	0while e5parallelism a'U
+
+N81	4Kl	8use 	
+T7j
+uTxBH	G
+VJ	4closure Z
+
+cstrait 
+async-std 	5
+	vtype alias Deref trait 		9	Future pmacro 	44crate r
+167I
+cQ		
+9		H	let _		trait object $2for let 6	4	Option |6
+1visibility L(U
+	
+
+q		
+44vM	Q55	R0
+E5g	n
+Y
+	.p	pattern matching A4|Clippy x	H@4+	4
+0struct 0continue ^Q	5Box 	break 8OD7type parameters 
+Send >unwrap while 3Wif 		Isuper ~	type parameters 
+From and Into traits ,	T4y88/R9astring 	6
+	
+	g582
+
+
+58
+z
+shadowing 2B
+	xIcrate Drop I		trait object 35J
+S			4Send self 5extern u7	0W71tX=NBox &mut Mutex 		4slice 
+W`R46]R1super 
+	H
+
+
+5w7sLcelse 3
+u1expect mfor 
+i	macro u
+K3	U	v-
+		4
+	DlResult 
+async N
+Wmatch guard 	9	7? 	
+2	h		Y
+		6|Z49bref no_std 	CLstr 		
+i	
+associated types 	attribute i
+4
+	4Copy O	String Oreturn 	
+l6	=y	Drop 26	extern macro Drop 04
+
+
+V
+65impl 2	6trait bounds X	88
+attribute 
+
+
+	5	B6
+3umatch '3	i7Deref trait Wtype parameters pP{nd
+
+toml 	^XC
+break 
+
+	Wnmodule system generics mod 7lifetime elision 
+Y
+Sa
+
+Arc 

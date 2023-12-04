@@ -1,0 +1,205 @@
+
+8E7M	Kj1rYoFrom and Into traits Self module system 
+M
+RAII 	NqP
+no_std z6visibility 5HP* macro_rules! M	tWn	^Self 
+	b	String 1eI
+
+6o8
+!
+Debug trait borrow checker Ksuper Box 97
+String 	6g0rh		cargo 
+crate parallelism 
+
+		else 		b	4	N856
+
+bR	
+
+
+a4Q	2e	
+		
+
+
+
+a			8$
+	e0trait object match tokio v5ze
+oIterator 	78H^kexpect 2
+FjN
+7let 
+Debug trait 2H	await enum ownership _
+}8
+macro_rules! 	7	Yx	+&			Arc Qborrow checker 
+G222tuple 	
+lifetime 
+	fn rD8m8
+3Clone 	AVec 	BX6
+6
+t9	9	6Clone no_std 	3Deref trait 6unsafe #
+
+cEJ	no_std g??Z55	
+	nloop 	S	Vborrow checker 	Rc Deref trait if 
+	c9FFI 0
+slice j		Debug trait w
+lj23	HEuN
+a
+
+W#[derive] 
+@	expect Crate.io 
+		
+Rustfmt jitoml 
+%Self b3
+String Z\0
+
+	R
+)03
+
+P
+
+	struct |n		E0		5B	.	Ofn F	
+
+
+dyn 	0aqi	
+&nld<		mtrait object 	Rustacean 
+Iterator 5cargo 
+6
+2PClone 	y	
+	Future s	return v
+
+tokio 	
+	
+X
+0expect 
+6
+	V
+Vo	
+0		6
+9
+Rustfmt 4V18HDeref trait 		
+
+	
+
+0as 
+		f		Send 
+9	type alias 	mAel\Kstring 
+A5Iterator 2tM11self 
+		Result D	
+trait object 
+
+	
+Send Rustdoc 
+
+A	D	
+9	p
+|Ptrait i	
+mlifetime elision 
+2&mut 	unwrap TbH
+V
+
+	str 3derive 0QD
+
+25	
+	
+w	zX	C
+4attribute <tuple 
+C
+n33O}use 
+V	3	4t	
+28
+
+0
+65
+9			J21
+	
+a	b	w	struct 
+p	
+Rc 
+,		}
+3
+XOption serde 
+b
+;	3		5	Tes
+f
+*return break 
+				
+)	j
+		Rustfmt U* 
+9	9?extern wawait 5From and Into traits 
+s,	
+while unsafe derive 
+generics 4	jQw8
+kjlet 44}Y
+1		Q7D	
+1a06l5	"sPwJ	T6	8
+Deref trait j	
+	
+		
+macro_rules! E2generics \{y7	nT	Clone 		String Q	a
+86mut 8
+a1
+Rc 10
+3
+		6	sDrop 4	
+
+	Copy otrait object 
+
+
+0Arc 	for module system G		X
+
+visibility `7;Debug trait pub trait bounds 	Yo	
+6CRustfmt 5J
+*3S	
+
+dmod 	Vec 97	Debug trait 
+		l2	Gh		Wasync 	4	Ku
+Z	RAII 
+
+r	8I58
+!
+Box use n
+0
+E7
+#	ctokio 
+	
+2T2	FFI 	m
+\crate 3Bclosure P7super 
+& 24async-std closure l=enum continue 
+
+qwhile 	shadowing ?es	(3Vec CBpfn 	l	^
+
+	7
+|9static 	*
+impl D6slice 
+			generics GVArc 
+593
+4Copy await Drop 		x
+SA
+Wpanic! lmut TP0x		USync 5
+
+O
+	pJ		
+4
+From and Into traits 
+	$	&B2!attribute closure 
+4
+impl e
+f
+c0	7	
+			
+	trait iz1
+	8fMutex Deref trait macro 	tuple +dg
+5return 3
+G)
+8mut continue 		`pub 4T	
+GSelf U5a
+
+5	
+MT	Rc J2	
+t		dFBox 	async-std #[derive] 
+
+8	n
+WL
+		
+9wHd	unsafe Z
+#struct closure o/Sbdyn JH	t
+QO	2Rustdoc 
+	

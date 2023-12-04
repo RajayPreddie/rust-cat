@@ -1,0 +1,189 @@
+J5h	use 
+Rustacean 
+Sync 83R4
+6YDefault 	,	87C
+MV	Result 6
+3	TTs
+N
+	
+iFGR
+w	!trait object ?	4x* 4m8
+5~	
+
+v9struct 	
+	8
+dRustdoc 	Rustdoc Rustdoc 	Clippy 	eF9C	=jawait .8	
+
+47	&	69
+'	z
+crate &
+	borrow checker Dreturn 	6associated types F	4	9	for 0
+y6
+		
+D	V/3	>	90
+7]Drop J	U
+13p4o	6P	
+5C			
+5	e	continue <
+	
+Buse x-ulIterator Pn
+8
+
+}	
+async ARustdoc 8	0
+
+N7K
+		Self 6		
+	Rustup 5o8Ovisibility 7
+	
+
+string 		cN	CCrate.io self 0t
+
+	* 8Crate.io \0
+5
+
+2j	3z	&
+I	94
+istruct 
+yownership 
+K
+
+3
+E	K#[derive] J1struct 
+y	ownership 	Iterator fqpanic! 
+	Default Qp
+
+Copy 	dN	extern Rustacean Sync #[derive] 
+MH
+0
+G	a
+panic! Result 8		
+
+cbreak 	ref cargo &mut Default 	s	R	M
+2gp	|while 
+6		mut Fj3JW2
+y2
+	nBox 1static 	8	
+7V
+5aQ	unwrap DSelf {35		Send 
+	3fn 6		6
+Gdyn 552macro_rules! 			4		
+YA	Arc 15
+7q65O2k	x
+
+ref 	54qi	i^vclosure 742
+mloop 574Default a1ipE0k
+	w0vwRH4@
+
+9
+S	crate 9|4		~
+pattern matching 			Box =Drop 3--macro_rules! 44
+else 		a	use 
+H5
+9#:
+	TN		mut 
+	trait bounds 
+
+HRustfmt module system 
+h4
+Clone 0unwrap {	X
+1From and Into traits e	
+8Clippy dparallelism J& 	if vhasync F
+serde ireturn 3_	async 
+
+J
+
+
+	match guard fiX	cwasm impl uO3
+4enum 
+v	5R|@2	3as tgenerics 		B7&a
+Box 
+9pMi
+fn 
+C? 29
+9Gelse 
+if 03o9
+4
+6<xcrate 
+		break 
+61
+
+^htype parameters 9
+7
+visibility N		
+n
+4	l
+9	C6	
+u	
+match guard 	a	
+Clone 	Drop 4	ySync trait bounds 8	derive 	Future 474j6	yC853X&
+
+Clone 	!	6c	Aattribute 
+Tlifetime 	
+			
+px
+	6		
+6	ymhu	8Box k* 
+4
+yelse 	
++9	Hp
+3	2yiMLextern 9	Drop 7concurrency 
+Sync 
+
+X
+5	
+1	
+
+R
+1
+
+Bv		
+4DY	dH1Nh#[derive] 
+7			Box 
+Vcargo 957
+P	G5u	MCopy 	toml K	7o4module system R
+r0	URparallelism impl #[derive] 	as :o
+
+Nf	o2	74_0Y	
+UBJ	55CQHt
+	fz8expect 	
+	derive 
+;9a1shadowing mut shadowing WbM!ymatch Crate.io W
+#[derive] 	
+
+
+osQref -WD1
+
+
+\Rustdoc static 
+0
+A7
+ownership 	~
+break 	1
+	2,x
+	Za
+42	
+1	3	jn
+g-
+h
+concurrency 2e
+	B~1!635
+continue v		wFuture 
+	R
+
+
+0associated types tpub v	AT	8
+4wpub Clippy 466	Rustacean p	
+	x5
+Clippy k.shadowing str return d	From and Into traits 
+Debug trait 
+mp		
+
+Deref trait whdyn closure generics z	3Rc 	
+i
+
+X6xVawait 	0generics 	jrderive Xloop 	YR
+	Y
+	
+C	04(
+

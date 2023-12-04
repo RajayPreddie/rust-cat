@@ -1,0 +1,17 @@
+96
+h8	E	Rustdoc 
+
+.self l	Vec 
+v6		Z
+closure 47J
+Z
+
+trait bounds 
+
+FiRustup 
+8	Lunsafe 
+@
+
+str 
+
+	d	;	d2

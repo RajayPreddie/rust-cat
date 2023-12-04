@@ -1,0 +1,213 @@
+P	7
+	a6
+
+enum panic! extern 
+'
+		g6s
+attribute w87		
+		:Z	s	93
+trait bounds 8fQ
+tBconst uFuture 	L	
+			E
+iK58Ns	9crate Y	
+
+	S6	pub 	4l/
+VO6/self 1
+O	fn 
+JH	
+	m	3L
+9e
+	s27
+G	U5	q	8
+Fuse Box From and Into traits 
+	F
+
+macro_rules! 
+4	TN		e
+			alifetime elision 8sq<5G	;
+Rustdoc 
+F4
+9b9slice unwrap `:
+
+tT	else 3WHdyn "wHeZb	Copy attribute 		e
+9r7
+
+37\4
+m1
+	H		self 
+rVec @
+DRK6	
+6@m
+W7
+I3A
+serde %Wpattern matching RAII jCopy 3
+22P2
+5K5Rustdoc Qi
+	)$7%		0let attribute @Rustfmt y4Crate.io P8
+lifetime N23wr5
+attribute 
+a
+	8e	6trait 	u			
+S
+I
+b
+Bl9	G	
+r216Self 	
+93o
+
+
+
+e	
+impl 	@E2	tuple 4
+3	97'5s2
+
+K
+
+	a	f1	n
+
+Ph
+532		x
+& 	Zv
+Clone attribute 
+SU
+	rz%
+	
+	
+	C4			2* 	&9yz	9			rd2c6R1c_6ktlet 
+A
+nPt38p
+
+Option 		6	
+	Abuse GEu	
+	~no_std return 	
+a	{	
+64O9Rc 6
+estruct 
+closure pub 8
+l6>ref 	aO	uC35
+
+mut 		pattern matching 9
+o
+tokio 
+3	{	Deref trait Q9	1cargo Lk
+Future 4From and Into traits & Default #[derive] 0
+	
+
+		92FRC	
+	
+
+	Uconcurrency i
+
+kUtoml ZR27
+u40k0~Pxstatic 	
+derive y}}R
+H
+generics generics 		Be	H1bs\U	*(M1pk	t4q		g	
+FFI string 7juwasm 0Smatch guard Z
+	
+	K
+>
+	
+await 	m		
+
+3toml 
+?
+
+9			2	,
+	trait bounds 
+		dyn 8async-std 2crate x-
+Jmatch 	3U
+enum ownership 
+? U	22ZDrop 2&1trait associated types const 	0	
+j	lifetime Clippy Mutex c	6
+	2trait bounds 
+Arc super 		2/attribute U	
+
+
+'	e	r4
+	
+O
+2
+N1
+		
+mut 		1	
+4H	oDebug trait 7tuple 
+I			o377e}
+
+
+mod 3YC
+h5enum 1Z4		continue 
+	1
+
+h1	
+]
+dh0b#<Drop 
+5fsK0
+
+89
+
+concurrency k
+
+Omod 9
+
+	
+
+XS
+Rc k
+
+ownership 	
+5%@	k
+	Vmatch 		shadowing 		
+`Clippy 
+(	G	S	
+1
+		8#[derive] 	Clippy 	nDrop j1		9if 	n	Q	{
+
+RYN
+W	aawait panic! 1	O
+	5	8string 
+317	z[V>
+lifetime 
+
+Rustacean 1
+7Q
+9r		<		
+			unwrap 
+C	91sy3pattern matching 
+	
+R	mFrom and Into traits 9		
+
+	9
+6
+F
+	*Drop R	
+
+		Debug trait Z-
+0static 
+	LClifetime elision 	Copy 6111
+
+	M	6F
+	borrow checker 
+730wVcrate Rustup 5309	-
+C0
+		
+
+
+	6MKqQ2async Q	
+=	g5
+
+mMutex J9el1
+9
+parallelism fn 	0
+
+6\x500R$8	
+
+X	panic! cRasync-std 
+
+62
+8	
+
+closure 	
+'01jt
+ysuper 9	6
+85Clone mod +await 

@@ -1,0 +1,188 @@
+loop hOC1
+	borrow checker 2
+	[SSync 	
+T
+qderive 	1
+Future impl fn Estr 	
+aRustfmt nmacro_rules! 8!associated types ,Rustdoc v		ufpB
+8
+module system 7
+1
+e
+	U!toml 	9	M	
++else parallelism 
+aRAII 	From and Into traits ,3
+Hsuper use bEIterator u7N0mLcontinue 	dextern u
+X		Z	Rustdoc 7ownership 4tuple 8	
+
+Self dN7xC
+/	aelse break 
+V6	
+
+return (z	Copy 8* N	macro_rules! "6
+visibility 1sC0:
+match guard PRustfmt X	8d
+Xgtype parameters 1e7	ownership 	u		7	if expect 
+Debug trait m
+G5	rAa3cargo 	9K$	q
+l6cZN5z9r	Q9	
+&mut c	/type parameters 	x		unsafe 	5
+l
+const 	
+		ref h%	O5j	p1	
+
+	
+e	fbreak C	T	94	d;^
+9
+v
+Box 	
+	str i
+	
+77
+
+Hserde 
+
+unwrap R	U	xEd
+G
+j
+	1363
+l	shadowing 4X
+Kt	
+:trait 	Rustup 	
+	04parallelism 	macro_rules! Option 
+`async-std 	1	A	66associated types 
+84
+	Ktype alias 25387Ffor 
+`	$34*&mut 
+	H"
+y7
+5		2	? 83
+)	kh-	9c
+	if 
+Oif 6	
+9			U	
+
+	6
+33	+T5shadowing 
+	"	2trait static let tokio 	while 	0qself 
+t
+	
+	Iterator 
+match guard 	L
+8D#
+	c
+
+Iterator 
+165.	~4
+
+Hrcrate A
+		type alias *	
+
+faJsbreak 
+9
+
+9
+Rustfmt Y
+wconst 	(
+
+ref 	
+	ZM	2borrow checker 		generics 5
+	
+cargo 12q	Ax	}\
+
+		zL
+	*	
+1	Box oIterator let {if loop b? 	tb[z5x	return 
+	1		R6U5Result 
+type parameters type parameters 
+	ac{s? 7	* A03	qe
+
+>4String x
+hw	v	
+
+type parameters B
+
+h1dyn borrow checker H	QJ8B
+unwrap 
+eResult 6macro_rules! \		mod Nl
+H	bB9U9
+7Rustfmt while IY
+k	UT%.RAII Dtrait bounds F	k4type alias bvreturn 			Ly
+X	X	
+	15
+D984
+macro_rules! 				
+NM	
+
+9	
+Qkloop )J4
+7dpub 	
+#[derive] 
+Apanic! f	
+#Was N	d5crate VWMutex m	Lasync-std 	
+B	v3
+B
+	
+
+
+
+Vconst 
+
+R98no_std 
+Tpattern matching 7? 5
+	Send 
+derive {2Cref H
+1g
+8D
+	!continue 	dyn trait bounds Aa062	9gextern vr	pj		
+\
+7Ymatch Q0ownership 7
+#
+m408U
+8
+unsafe 
+aZClifetime 
+3*0		Future visibility P7super 3	j3
+Kx
+async-std W06(06Future A	k6trait bounds 3FP6trait 4	pq52
+Box I"Rconcurrency e
+R4&
+	+
+		& 	51Tmut 	Rustfmt 		return uSeT	dw5lMreturn c
+
+as 
+	59		Tcmacro 
+	~
+trait 
+	Debug trait 
+l
+7W	
+	B
+
+B
+unwrap 4	? 0as no_std 5break T
+	5Was tokio 2
+Future 
+	O3b
+
+	
+2-if Drop 
+=bK
+	6async 	"
+
+6	4		concurrency Oasync Lmacro 
+Ftrait bounds 
+o{i	1W4w4l-	
+continue Vdyn 86
+(	4	
+vmatch guard lunwrap 		
+5
+as 
+
+
+super 1	9	eCopy BL	7K		Send 		String 
+
+M2wvstr rA	iDE
+BDunwrap 
+	
+		V2!tuple serde 

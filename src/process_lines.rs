@@ -24,10 +24,15 @@ impl<'a> LineProcessor<'a> {
       theme_set,
     }
   }
-
+  fn is_nonprinting_char(&self,c: char) -> bool {
+    c.is_control() && c != '\n' && c != '\t'
+  }
+  fn contains_nonprinting_chars(&self,s: &str) -> bool {
+    s.chars().any(|c| self.is_nonprinting_char(c))
+  }
   
   fn handle_blank_lines(&mut self, line: &str)  {
-    if line.trim().is_empty() {
+    if !self.contains_nonprinting_chars(line) && !line.contains("\t") && line.trim().is_empty() {
       self.number_of_consecutive_blank_lines += 1;
     }
     else {
@@ -53,7 +58,7 @@ impl<'a> LineProcessor<'a> {
   
   fn show_non_blank_line_numbers(&mut self, line: &str) -> String  {
     let mut processed_line = line.to_string();
-    if self.cli.show_non_blank_line_numbers  && !line.trim().is_empty() {
+    if self.cli.show_non_blank_line_numbers  && (!line.trim().is_empty() || self.contains_nonprinting_chars(line) || line.contains("\t"))  {
       processed_line = self.add_line_numbers(line);
     }
     processed_line
@@ -67,7 +72,7 @@ impl<'a> LineProcessor<'a> {
   
     processed_line
   }
-  
+
   fn display_nonprinting_chars(&self, s: &str) -> String {
     let mut displayed = String::new();
 
@@ -209,12 +214,7 @@ impl<'a> LineProcessor<'a> {
         continue;
       }
     
-
        let processed_line = self.process_line(&line);
-
-       
-     
-
       if let Err(e) = write!(handle, "{}", processed_line) {
         eprintln!("Error writing to stdout: {}", e);
         break;

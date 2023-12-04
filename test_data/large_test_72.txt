@@ -1,0 +1,182 @@
+borrow checker Cself 05Ms	HIf5
+
+
+Ze4Clone mut 	7=async 	X6	U
+	8
+B	9async-std 	wc	
+
+Box _	6l
+4Rustfmt 	^Clone 		4O
+	wasm 	extern mut w	oIy
+attribute 8
+Rc 
+1
+
+	6			
+<Future 	|2)SF	
+'BzTmacro_rules! RDasync QjResult 
+I3C
+&mut 
+RAII b8
+Tztoml 
+fn aI
+Rwhile S
+9	ZdZfderive hpub 0z+
+	o
+8
+
+0concurrency RAII r9@
+uFuture d	
+opip	4	
+closure X	;5fgenerics 4attribute macro 6
+M	F?x73	trait object 
+tQ
+Rustup V
+
+5	
+23panic! C&]82	[	9GYg		rHUJ	{Y	match 96	
+c
+	* 	Deref trait (
+	Rustdoc 	
+ownership 	0	
+
+trait bounds 
+	36	async #[derive] Zy086
+	9while for H-struct a0
+5
+
+7Y	use Sireturn 	4~t
+2for * xmatch guard 1	Box 	wasm 
+Ntrait object 
+H
+str s
+6L	ifor 	Copy 19
+'ownership 6as borrow checker M	4cargo 
+Jpanic! 
+		
+	8w9await 
+Vec 
+4	X	
+	sasync *
+C	mut 94
+0i6struct mod 1
+
+y8P? 	B5
+h6FFI 	
+
+
+	else if T5
+
+8lifetime 
+
+iResult Xshadowing u6cRustdoc serde &
+	3qI	j!Rustfmt 
+7=enum RAII 6
+return 2T	
+uLGwer
++	P	y		tuple uQ6XRstatic ?
+8q=`jcoawait V
+	break +Z		xt		H			Crate.io j
+
+1	
+
+x18P		
+else )5Rustup m80x
+18expect 21				p
+		-	
+Fz})
+	Q	
+n
+
+ka
+I
+KB
+96
+'	cu		no_std Qstruct =	
+
+R
+Mutex ?XwU	W$	o	
+l78
+return const 	
+
+[	2Xtuple d9
+Iterator 	
+else borrow checker 
+borrow checker dyn Clone Rustacean N
+	
+z	
+
+U
+pfn R	
+82
+type alias fn 
+4	2#[derive] 
+8	Option W2MlQcrate 2Debug trait Arc 
+
+m
+		Box 
+J0
+Default 
+teRustdoc qserde 	
+b	33U
+nlifetime Option 	enum trait bounds 3
+
+
+	
+m9	FFI ME2	pattern matching m	5async 63Oe
+1um	Mz9async-std 02
+L}	
+666Q^
+	w
+V0
+	Gcargo `Vrvisibility FW
+	6	Z
+Rct	? ? pmut 	
+
+ZIxy			14	F
+=	0M/Q
+
+Rustacean 		54Send 	static 
+Box .td1Option 	
+static tokio 	
+88loop T3tokio 	
+	8.	
+k8P0
+9
+uString 	96parallelism 
+2*g9	nbreak 	0		macro_rules! 
+use Debug trait @	associated types 
+parallelism 7Vec 	Crate.io 	ok	enum 4)yfasync t	4Km	3	;kAf
+Clone 1B	IK	94	TE	
+55	continue 	t0V762
+mut 
+ownership 	r
+	6Et2H	HfRArc A
+f]hR16	
+32cRc 6in	
+for 6Kj
+match 
+return 798	I^a	e1	Dslice module system 	
+
+O
+9		;	yE	06&mut Rustacean 		extern i
+^1
+
+76
+yPSelf 
+&mut &From and Into traits 
+	Crate.io 	~
+	
+
+
+str v>a	h2	
+	7bV
+6return vtype parameters 89Wtrait bounds Rc 6
+(	vJ6Zy	4k
+G
+Box 9\	h
+
+9"
+eDefault 3		0type alias lifetime g*`Debug trait 9concurrency E5R6
+		for e	xA	H
+

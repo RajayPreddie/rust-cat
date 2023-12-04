@@ -1,0 +1,195 @@
+z
+btrait bounds 	1zvisibility !no_std 
+	8fZk
+H		GOption 	
+o
+0B:tokio 	t	7	
+z9N	
+toml panic! BBox Rstring 
+.6kloop EQ#
+4Mutex 42R
+
+9	
+7>*
+	0extern 
+1str str 	7
+	
+	
+O6T\pub 
+Fp& 8
+M0
+	
+
+	1
+k
+cargo 8
+1associated types 
+const 7
+d
+Dc
+eZ
+let 0Pstruct 
+R
+i		
+		b$9m
+,1crate 
+5G7		7U
+5	match guard unwrap async-std 5	
+	trait bounds 
+	lifetime elision associated types 
+^
+m	borrow checker 		4o6Rc lifetime elision SC7	Qh1	Sync 18	g
+		q:match guard dborrow checker 
+38S	(2shadowing lifetime struct 4MF7w
+
+i
+	unwrap 	gb	6
+return 
+		21
+&mut C	7	Clone '7parallelism 	
+shadowing 
+	* o
+0From and Into traits 	X	6	.
+z4	726Deref trait U$`W	3	From and Into traits 
+8y		
+		0<I83const 73
+		? a:!0SD62	0gpanic! 
+	
+H
+Rustdoc 
+
+lifetime elision 
+	Future x	2type alias 	slice 
+	h5	8i	
+0FFI 	From and Into traits P0borrow checker 
+
+Rustdoc `h& struct FFI 		tokio >	
+
+	7Kreturn tuple 
+yB	I`		
+	as 7shadowing 5	9	R
+	%+.async 7JU)"	.
+4n	PSync !concurrency serde Crate.io extern 8
+
+		Nbutrait B
+welse 
+hO
+
+@x	eSelf 
+
+&6	G	mod 
+2gE
+7N	Ir
+
+>6	m	5
+	derive .trait object Ah	
+	|5	
+Gn			o			lifetime elision 2
+	
+@
+	macro 	W	n
+r
+#[derive] 
+	
+E
+		
+0
+m
+er
+	fn 
+						static 	if 0ref 	
+U		Self 4w	lifetime elision Default y
+h	for lifetime elision 95
+2htype alias 7#[derive] type alias 
+4Send Dn	return Ocrate 	static 	m		3pub 	B2&mut 	
+3A	-8Send HyWH6
+6wH	68
+
+xtas 	C	323Rustacean 81	
+	nself DT
+}l_	#[derive] t	Rustup 5
+1
+	Iterator c
+
+hd* 
+p3B"'p8	OzZw	7Q	
+	3Crate.io BQ5Sync a2
+visibility 
+
+S2wrconcurrency 	
+
+5	61Hi0
+1	"=	p	Debug trait 	6	0
+
+8j? 
+J6	>	static 
+		:3shadowing 5Rh
+Fshadowing I
+	F		
+EO
+for ? 59while 76m0cy?			-Rustup 
+6
+ownership 
+PH6	
+	6
+;S
+	7
+t4
+
+0c0		_fn & E6T	tokio 
+8nHloop Cr	enum 7
+
+ref 	c
+From and Into traits p8&mut 4
+4\2fshadowing 	R3
+
+1#[derive] L
+w	0
+.
+pRc qDebug trait macro_rules! Rc 0J
+1Rustfmt 		
+90UqRAII 4
+Rustacean 	
+	1n65	$
+crate 
+1	Fs
+{K
+PyRf	6$	
+String 
+Ry	
+RQm
+PY
+Rc f	eclosure 	0associated types str W
+v
+82e
+	match guard 
++UK	mparallelism i9o+N	rj0d	
+W48module system match 7unwrap <Clone 	
+static dyn uuextern 
+2	attribute I0
+EOption 96M	9&Rustacean 	L		
+t
+1	T
+
+
+
+E	bqA9	
+return 0i2
+while OL9HUtH
+4
+_
+	:
+BZD^
+
+a	return #Sync I	9
+YSync 				nString 
+!
+	
+closure 	"
+i
+z06S	N
+match guard 			FFI 
+4serde a		Vself 
+IdGslice 	
+wl
+Gattribute 	9return 

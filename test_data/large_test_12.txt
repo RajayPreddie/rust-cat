@@ -1,0 +1,199 @@
+	7toml U
+4		
+
+NFrom and Into traits 
+a	!
+
+generics ownership macro_rules! 7144(8P	String 7	
+
+L4
+0		* D2
+
+L6I	%		6
+r
+8
+
+			TRustup 	attribute f
+39	Crate.io 	x
+
+2		d	super Box R
+Copy ref 	Uasync-std 2	9
+<async OOs
+6		
+			
+
+1L	E
+p	? 	li
+	?	4		[		P
+Zdyn X
+Vec *m	#[derive] D)9	
+7tokio fstatic 	
+continue 
+9N9
+!
+const 	Rc 	
+1		Arc F#r	
+	L
+
+A5o	^0	
+	5r	#Cb		2T	;if dDtype alias loop ?	4)Copy String r	
+
+Deref trait F}	w2p0t
+			expect 9Option 	-	n
+	
+& 
+Box 
+G9	
+	#[derive] Debug trait Crate.io Pfn zRustfmt super if 2y
+? AQii
+822VOB	feT29	
+f1	Lreturn ho-4? qpanic! enum 	R
+str -5G
+
+y5K& n
+1	K
+From and Into traits 	
+i	31&mut 
+		tbreak pub 
+1Z0	m
+String dk	
+		G		vtokio 19	DO{~FFI 
+3ireturn 6await 
+boQ3Rustacean 
+		
+DRustdoc I		rT
+4a	1B
+module system Sync Result 1	in	& 4	
+9cslice 	7	w
+15FFI use 	6Clippy 8t	o|z#[derive] associated types 5borrow checker 
+1lOption 
+8as N
+3	9
+
+ksuper static 4		/0ownership ;module system async r1
+55W
+Copy g
+b~& 	Clippy Rustfmt p	"36
+R		82	o	p	1super 5
+
+j	
+Rustacean continue 	associated types String ]	Box 	
+	A
+7
+	S61
+1type parameters ZERustup N6a	IF
+toml 	6#n	tcattribute derive 5
+G	continue 82	,/4
+S
+
+8IyLDefault 	L,J	
+
+	
+7
+A
+	
+68
+GMutex 	
+Dzfn 
+impl 	8^
+3Qf	else 	
+Deref trait E7derive lt1JWRfor g
+7136borrow checker 	zstruct 	
+98impl B
+6D1	E				
+	F	0K="Wtuple 4
+Tx56
+	n9
+V
+	
+6@2await 	use Option 
+9f	7
+	
+b	? 6type alias Olifetime Sync slice 5
+Drop ?	(Hy3Option borrow checker struct Gexpect #[derive] 	super 	
+450lMutex match guard 
+dyn Y	m%	W8
+,3struct Vec 	k_50		,S<
+A5=8? 	
+if 
+	4	55J
+Rustdoc 	Tattribute 		\TGo)8str y
+	4slice E		MI	
+RRustacean return +	kFrom and Into traits 
+w		Vec parallelism 	Mq	
+	4let s
+;
+
+Crate.io e4s
+
+	
+	
+s
+83lifetime elision lifetime elision 	30panic! 4	generics 8	0
+
+
+
+O
+{
+8Debug trait 0
+
+7
+g
+6(K
+'use i	
+4self 
+V
+A88M
+94str 	gw	8
+
+a
+1)U	03N	2
+	e
+E
+	
+
+
+	
+
+closure 
+t7
+		
+
+			
+lKp	7J
+f
+M3
+					as 
+v	2\
+4
+Ll	no_std a
+visibility 	
+crate 		Crate.io 	* 53&mut 
+	? 
+
+		h
+FLgconst 95&mut concurrency Copy 
+	async-std await unsafe self 
+
+8	H
+attribute 
+			0
+5W	
+s3xloop no_std 
+	
+	enum 4	
+4<9	6
+mut 	
+x	
+GRif 	super extern 	Copy e	
+EgQs&
+	]"
+
+unwrap 6Glifetime elision 	
+Zq{
+match w	4
+tuple 	~
+Clone 	Z|9dVQRc 	Send q6
+tokio Dk
+
+

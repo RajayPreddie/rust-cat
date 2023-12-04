@@ -1,0 +1,10 @@
+8B1
+8	tuple oslice 
+5impl z
+
+	u7f	cDrop 
+attribute 06		
+
+Q	AC.	
+
+	Drop *			;trait object S04*gn

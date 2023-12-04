@@ -1,0 +1,199 @@
+8				E	Ypub 69616M	%0
+ZOwasm 	else 	n#	Default 85	super o
+
+			
+[dtrait bounds k	
+async v
+36mqk5j		%4	Rustacean 	+
+9mut >const zmRc 
+
+fs
+	derive u7h%
+4closure fDeref trait 	pd
+macro 4qenum 
+return c5return 	k
+*	match P
+concurrency zP3		Eexpect continue 
+	
+c		B					
+kW|
+
+	tuple 	
+e
+dyn $
+`0lifetime elision 	hnrxq
+2
+	?!await 
+	5
+		Rustup R
+
+Z	6continue 
+
+J4lifetime elision 32		Deref trait 	s8
+y	
+59static Iterator 3		.RAII 
+	b{	4o		g0nA1	mut 
+=r	W	(z
+u	T+;		5From and Into traits y
+type alias 	
+5
+visibility 	C5w	9C
+
+str 	
+impl 	L	serde 			slice 2as 	y
+	
+	for 
+=
+f		
+pub else GX	
+concurrency 
+LQmod 		Rc * toml 'R
+Self k*73break 
+3
+Mutex 
+macro 
+	3
+t1
+6? 3
+6f]
+Bv
+xh295	9	
+Vec 7hr6
+w	
+
+WF9Iterator 	Br	enum v0{&mut z
+Mutex 
+CM
+Iterator &	panic! Iterator Crate.io Cconcurrency !	
+
+:8	lb7		derive L5zh
+Q
+u3P
+m98		y		+6	|
+	j
+
+0	
+	KArc P2		pub 
+#[derive] 	b
+!Sync I
+
+Or0	549
+0	
+nDasync 8
+!
+Send 	2`	t	"Self 4yvc7
+1)
+I
+5i
+1
+concurrency 		
+6H<
+ig
+		4	Rustdoc 		rb	4k3str z	hE4t		f
+M
+else 	6|Rmod 	J
+R
+ownership b80
+Z6parallelism #[derive] 	
+[
+=	Default 	{
+DR
+8
+	Tvisibility RD
+0use attribute 	k
+type parameters xVec 	Clone 
+From and Into traits 	
+Otype alias Box 	4
+	
+68D
+0wasm 
+
+async I
+	
+D3YjRnVec L
+fparallelism u4	
+
+UzT>cf-RAII return 
+
+associated types 
+9fslice 
+Aconst 	slice 		GI1vOption 	
+pub 
+super 
+ref * 
+			
+t3u0tokio 	W9sM
+	eOption 2	0		
+
+	
+	8D0
+1
+	L	22? 
+`	{PHEVtokio 	*
+	
+break V	From and Into traits 27	no_std Drop 
+L
+D<		h
+Self break 
+g
+
+83
+3
+_>hn04v* 
+/6/
+pub 
+static 	Sunsafe Result 27
+E	Vec Mutex 	/
+0	
+&9&mut LO
+		{Ytoml 6ownership 0
+	4U
+1
+694s
+9else 14			
+&mut 
+	
+Rustacean 3.u	
+Rustacean 
+Copy 
+
+\
+
+*8J7>e	3Rwasm break 	6	panic! 				for 1* 	q	continue 
+module system 3	extern lifetime elision 6		6
+6	7645module system 
+s24LIterator 5? 
+J
+Hborrow checker Future i5fn w	8?
+			
+
+l
+	z4oRg
+n	
+4S2t
+Box M2l
+9`	slice loop 
+3	L'
+Ploop 
+
+
+I	z61shadowing Y	1
+
+trait object ref x600&RAII 
+
+p9
+			W7	Send D	
+b	unsafe 	L	6
+42Deref trait FFI mut 1H
+at
+	b9aFrom and Into traits y
+module system Drop 1d
+break 6slice Copy 		toml 
+XQ&	
+	5^cargo 9	Iterator 
+3q2unwrap Default BvE
+
+Self 
+extern y5	J6
+	4
+M	1cx2	GXb	Vec generics '6	-iI6

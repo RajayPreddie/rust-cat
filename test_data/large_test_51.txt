@@ -1,0 +1,191 @@
+=
+&
+
+
+	Default 
+y
+0	
+	
+		4N
+m	-k
+
+
+7]e
+qv
+F	X
+
+	shadowing &		0
+Q	
+M
+	Arc 
+	6		4
+l0%S8else 	Vec j5mrVec R
+Rustup ul"	
+jownership type parameters 
+9return V8kt+
+w	3f
+tuple Y0tBjG
+A0Jk	String 
+'FG
+qImod 		1
+	
+10String 
+
+& ARustacean V3
+
+Ksuper C		rgenerics e3Arc 
+3lRustup 
+LuOstr 
+3	Drop i8@W	89RAII &1const 0unwrap X^	
+
+_
+	QM0[	
+Self 
+trait object O		
+serde ? 
+
+2const 
+associated types 
+M$t1
+
+borrow checker O:v=if const HU
+
+u	RAII 7	$
+kDefault 			Dconst ^6
+U	continue 75qN*,Rc lifetime lifetime elision 	0
+k6
+D	9I	module system 	y		u	e	module system S`Vec Dnwhile 
+crate fRustup 
+		>
+Q
+			RAII V
+Default l4E
+	7	C
+8nOption 		@match y42
+
+	
+
+Future )	umatch guard 0p	j9k5v	Mutex zX	
+5
+9	B9panic! 	_	
+yClippy 4
+f7bg	
+&	
+9Ntype alias #Crate.io d
+&c@	
+type alias 	;
+7
+	continue 69FFI 3serde 	P
+
+	
+F
+zOderive macro_rules! 
+8Rustacean 
+it4
+9
+m9	Wno_std Crate.io 	
+n^borrow checker trait 		
+		p
+t1Copy sclosure h5Clone 3$
+no_std 
+Rustup o	lifetime elision 7C	type alias Box 
+
+$3
+i
+
+		619	v6Eu6u=wAY
+0b
+	32Ud
+		^I2	
+13^	
+
+k	9Clone 
+*	9
+
+	Arc 1	trait tuple 4nM		7t1		k8		hexpect ?
+79+Clippy 
+uT	Y23u	unwrap Uunwrap 1
+
+		Dextern h	borrow checker B
+3,	i>dI
+u
+	mV3?2
+
+rDefault 
+M
+cargo 
+	
+eFFI YK	BQ6
+& x0A	0P4A2	j	3
+dp16b	!eClippy continue derive dyn E
+V
+i
+panic! 5macro EKRustdoc 2closure 	lifetime 	
+0	Rc 	await o	super UZSFrom and Into traits po
+&mut 7	no_std c
+
+W	Rustup serde Y	H4	Oz1
+!l
+Eu381ref lifetime dyn 
+macro V	
+P
+b	{enum J1M
+F6str Wi	Copy 8async 97x8-		unsafe 
+1else attribute loop jmM
+
+break 6	
+
+
+?0nA;G
+5
+
+G~56	+	d		toml {Y8Zw5t
+	sGstruct r	B8
+/
+	5		-oFk				
+q37|91Hp	l
+	+
+macro 6lYwu
+String fvE
+	4
+5		!toml s51
+\Qcrate 9TO1match guard 14
+shadowing Ntokio const l5		Nfn 
+40R;F? u6
+visibility 	v3J
+	
+parallelism 	T			Z
+1
+492*
+Self Y		5type parameters 	qno_std 		i		mut 
+6H	L5/lFq$%Jasync 9t
+Y4		w3575
+
+toml 	t
+
+
+	qstr 
+CZSuse 	1type parameters z	1
+q	g8$eh
+EGSD
+zwasm 
+
+}c
+3
+for KRustup o	n
+	J
+	66K
+	
+Option Future 
+rSD41cargo 1toml 
+2bH		match guard 	5CNV78Wno_std 
+M%Self 4'2	2
+	Utuple 
+loop as 2MHP	
+Send C70		_G
+3Pxa	@
+sparallelism lXQ	@	Lug
+ref ref 
+	
+super wasm 
+2

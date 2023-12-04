@@ -1,0 +1,225 @@
+ZcW3A
+5
+
+	1	impl 
+v3
+8
+
+
+slice Copy Debug trait else Clone \0
+		%	
+gDfor 	qResult 
+Box Wj	1while BTClippy 		dA30as K	z5type parameters xuse <tuple wasm (type parameters )
+
+
+:5
+
+static as 1rv
+
+8
+Gmacro u9
+	return M10I
+
+concurrency 		@
+xkmod 
+16
+k
+break 	Mutex S	Qif 8	
+	enum 	wasm 3
+0as 	
+E		
+		4mut 
+while 9v	l5Llifetime elision 			[z4match guard v4p
+
+]Rustup 
+y			generics 
+29Y6RAII 
+	74ref J	U	trait S7
+P
+4for 
+mconcurrency 4trait object return 
+44Gelse *	
+PRustdoc as expect 
+	
+
+
+type parameters 6wh			c
+1
+	while trait bounds W9Y
+FM=
+Y0Rc BUg
+1HResult r	F
+3S	
+
+
+
+		g	mj
+Vtrait 8trait bounds 
+20
+v4unsafe 5
+if 319async 0Rustfmt O	66	1k
+	
+n
+e(		
+4ptrait bounds 	impl 2Iu0
+1C	wasm 3
+lifetime Rustup D4	dR
+	
+44
+d6		
+					
+1
+8A
+(0
+	
+
+	0Y
+	match guard 
+
+
+macro_rules! 	visibility 
+ef&	_	Gd@x
+Nmatch guard 	1HS
+
+
+
+5	Rustfmt 	96
+40	1parallelism closure 
+extern 	'			f6while 
+UFFI %	
+4o^m36A&1	struct 8
+Wmut type parameters Send 1
+
+z	
+Option 	
+
+Rustdoc >F	
+
+		6y1else h$N\	
+2
+	T
+8	Mutex 
+5BTmRustup 
+	serde 	#[derive] DZparallelism W5|
+static 
+match guard 
+Jhmd'1ep
+loop 
+
+
+Rustfmt concurrency qDrop m
+35loop 5string 4iQsPu
+3
+^derive 4	pmod B/9717	4
+str Dr
+
+	
+4E
+
+HSY
+k1
+	7no_std 
+g	From and Into traits 
+r39	7
+
+7	eJ
+jn
+
+
+
+		
+RE
+	4	_1pattern matching trait bounds 		J
+-
+	&3	as t	Deref trait Mmut l
+String 
+O	l1~0
+		
+5	
+v
+@cw^match guard i
+	
+2d	JIo1	jI
+let 
+Rustdoc 
+;kC;Default serde 2
+
+99		
+JJ	OE
+Result 
+C
+j4	pattern matching 	V
+l	4		W	5T	9Y			2Zasync-std return 		[
+
+self r
+		|R	8J
+h	$5
+P6u8type alias 
+
+V~rw
+
+6	f		
+borrow checker panic! 
+
+
+3	module system 
+[IyYn;8
+	fn o5759jy
+	self m8D
+
+r4
+	Copy 
+b
+j620Iterator return async 9	
+Tcrate 	
+Future shadowing D	
+type parameters 
+2$4
+CRustup macro 1263Jk8	qs
+Uuse cw
+9	6static 9closure 
+trait 	Option R
+O
+	C4	#[derive] 4504
+o+38		u}	kuPBox 
+d	1
+
+
+struct serde Option O54e905
+}	String 
+	ystatic 
+mX	b
+		79module system 	P	else wW38&mut 
+
+attribute 	h
+tIterator 	Astruct 0	OO}^
+Xassociated types ^tokio Drop 	2
+GQ8
+
+else 
+	
+async-std 	fn 
+gK5	F	2u	
+
+	4await 1
+wasm 9Xguse 	
+Dl	5macro 
+X
+2bfor 
+trait E	Send 
+Luse &mut &mut 7impl lK
+		!	2	`		j	
+
+AY148Send 
+match guard 42	
+	
+
+FFI 
+	3g	Sync 		mclosure 
+Crate.io stokio 	0	Send 	
+ref 7trait object O
+	
+v36
+3z
+I	
+3

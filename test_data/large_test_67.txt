@@ -1,0 +1,217 @@
+		y
+22	2k)Sync impl K6Option h44Genum struct 
+k1{
+8Biassociated types _9	Mutex 	w'		8Drop d	0Mutex Lself 4else ?@* %j
+03	unwrap 6Self match 	2		5K
+
+
+
+
+trait 54
+closure 	2
+
+	
+B		
+		
+
+FFI Rustacean 0C	
+	
+	Y
+
+
+
+
+	
+5k
+	
+
+	Vec 
+;7i	g3Q
+y0
+964
+]
+Q28h	
+super 		while 'i0&
+
+2Jv7
+self 	g		RqowFrom and Into traits 	expect e
+	D
+B8Drop mut p17mut 		He	
+crate 	a
+5l
+W
+static 
+Khassociated types I7
+
+
+	Y
+o<a5b4lifetime elision "	O
+9
+90	slice G5w4g7Rc 
+x[
+mod =1
+a	
+&mut FFI 	ref g			^async-std 2	O{Mmod &mut mod 		9	trait enum FFI 	
+N
+	38	Qownership 1		ltrait bounds 5Xlifetime 
+Deref trait 4K&extern 	Q
+	u	8trait object visibility 	h	str impl z
+Q.while 	P8
+
+h	#	=	Pparallelism 9
+sdyn m49
+`
+
+visibility 
+e5	8
+	5V6	1
+W
+parallelism attribute #[derive] (7
+
+
+2W
+Send 1M2	c
+	4	axV49
+
+C05
+am	
+JS	d+
+
+
+9
+trait p
+6
+Qtuple OR	h		ref N
+I
+Hasync serde '	
+N#
+KD	FFI 
+		Z
+
+	
+Clone 	
+6
+8trait object 	Sync 
+J
+6n1
+	Venum str Drop 	xslice Qparallelism 	4Vec 
+
+2
+8>
+u
+7	5i	3super sm		,associated types 
+K
+let 7nif '	eBstruct 
+#[derive] 
+6lg	7I	d/0FR
+:* Y29
+impl 	Rc D	if 	
+q6T	0
+	loop 45	no_std :	struct 	N
+Y	
+	Ounsafe Arc ?K54use 2	
+
+pattern matching 
+closure 05
+@N	
+lifetime z
+string F		jSKCrate.io v
+module system struct macro 	i
+let y[	as 
+match ustr 
+	
+n
+	serde pC3;8
+dtrait bounds self 65Rc 	g
+8	parallelism bU	)	D0c	
+
+Rustdoc 
+
+5I
+
+-	K	async-std S0Psuper 1ytrait bounds 4	Oshadowing 9c\	5continue 
+
+a
+38Rc t	q	p
+
+w9	D
+7Clone 5
+eRustup 	
+\eP	y	mut E
+Rustfmt 	
+
+iderive 3Rustacean 		Rc 	o
+
+245Q	FFI 
+vmod 
+
+	
+8q2H
+
+associated types 
+
+`5
+			Gmacro_rules! 	pattern matching 
+	
+0		4
+mDlifetime 
+str shadowing 
+String 5Rustdoc SZpub Send self 3	
+
+type alias 
+Ch[0	
+
+
+2sconst 	J
+
+v
+	kmatch guard R
+A
+3t
+
+
+Debug trait v	9qP6f4	$9
+x
+6	
+lifetime Crate.io if s& 
+struct 
+1mod 4	[2p	trait object G
+Jmatch guard 
+	`
+
+	TD
+	
+mut 		V
+w4t
+
+2IQ1	S	ogenerics 	o
+
+k8kl	unsafe 83		Rustup ?
+str 	@i1Pjelse Ci		Rustup 
+5
+W	
+parallelism Y		7	18	
+4	HyResult L)	associated types 4
+Y2
+X
+module system 
+A22	
+
+Rustfmt expect 
+h		1	4generics 4
+Uh1Rc 
+t	9u2		as 	Rustdoc 	wsuper 	P9Rustfmt 	ma	async-std O
+	OFrom and Into traits W
+7
+08
+\shadowing borrow checker N5O897l	8a	2			(j			utokio self 
+
+	n		m
+L0
+break 
+-33* 		Deref trait 
+
+	String u1v		N~	
+8m
+
+	5Deref trait 

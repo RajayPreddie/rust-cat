@@ -1,0 +1,203 @@
+Tz
+if 	x		2B
+str 
+56p
+=ZA
+
+LCrate.io 
+4	
+
+B	6extern 8C	trait Send !1q
+H6concurrency 	
+7Rustdoc 6
+5Pw`2	expect 		nmacro 
+			m9	-Rustup 	c	9
+
+	$8
+	
+
+	x8Rustacean ;while fn 	v	Self 
+	41		U
+
+ref 6
+<ialifetime elision A
+
+@3z	G
+v
+7vo		h
+
+	zsuper 0P
+3
+	5generics 
+	x	s
+	
+1match guard unwrap Rustdoc c	Y62From and Into traits U$	Option 
+const Rustacean 3Rustacean 0HClone 37
+po>X	8Result 
+0	
+		1Fk
+	Rc 31S5J		}1)	
+971
+continue 
+4nZOption lifetime 
+L0From and Into traits y
+
+
+BERc Strait object 
+Box 
+F	Clippy 	else macro 4
+3
+4r
+2async Q	
+borrow checker u		enum 	Rustfmt 63for 62	Vec if 4
+
+	loop O	2
+Deref trait 	Bo
+	46WMRustfmt {H
+4
+	~	D1	7
+cr
+Crate.io 9
+H	
+
+	mSend s
+so
+
+enum 
+8
+3
+expect 	-e		8	
+
+
+str 6nNparallelism 
+ZM
+IW5
+P	v0
+x79	q92	O
+46match guard impl borrow checker 
+
+
+2
+	M1RSend 
+Rustacean lifetime elision 	Future 	Kfor Zo4Iawait H3
+A* X
+
+	Wr`	<[
+5	6	2concurrency ~
+
+	M	as 
+{O
+
+4
+k
+
+7
+
+-c
+
+D
+	trait lifetime elision trait ;	
+6
+ownership * impl 	t4'77macro 	1
+Clone 
+9yT7
+3p\	attribute 7a	%R42S		
+M
+	C0
+0
+H	3Rustup trait #[derive] 2lifetime 1?h1super N{4
+trait bounds }	
+U	hunsafe bL
+L/492
+0Rg
+visibility tokio z	3e5	
+x8	muse 
+1
+94
+3	FFI 
+
+0
+3R
+Jq/730
+@9visibility )K	ftuple & 4	tokio 	
+3I
+	
+Send 
+attribute 8vi{
+m
+5		e6ISync Send 4X
+
+	4T
+4	
+		%7
+dyn Ho
+1
+6	3
+63
+5
+			
+(mod 		
+
+
+		1/w
+90123no_std 9
+
+d	
+
+	.vJ	Sync 	i
+c
+Clone 5ve7Crate.io 	Deref trait h2	wVF		
+7uenum tuse KTX
+=Rc 94p6
+macro KOption Default Mg	
+}			fpanic! self Vm3:b
+4Nw	Debug trait 	_toml 	1YDefault s2	gVec 	1			k
+01[	
+wasm n9
+0y	7
+
+static 				* Option 1	
+	26		const 	V	IRAII gW0v&mut T	-	
+
+007	Rc pattern matching V%		
+
+z	m
+loop Z8
+
+g	A
+		S2]D	
+			5trait object X
+9x:1trait Vec aR=lifetime elision 
+Ua4	module system Q
+J0	Dexpect b	static super cargo 	&mut 	expect cPL
+
+&mut extern 4ownership 	z!QS57shadowing 	
+Mutex 1C
+
+5nArc const 
+z91,	6F
+closure else Uy	
+B	8	B
+Crate.io V3)	macro_rules! 9dD	R
+%f6xj	,<		
+
+
+#[derive] str 	48	
+I	cQDattribute 
+2
+Tas RfKlifetime g1	+7I5
+U1		tokio 3.	'p
+qF
+string Fpattern matching Clone Kreturn trait object 
+
+b%^
+rJu	macro *&~
+66	a5
+	57	0			sClippy slice 	
+a	5t
+E
+k
+	zFuture 2l
+	
+m
+&M3as 	

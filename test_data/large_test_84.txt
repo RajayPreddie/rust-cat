@@ -1,0 +1,197 @@
+yd		
+Qytrait 	JsY
+G	break 4gA5
+:C		9
+
+MBox break 	
+3cargo 
+
+tWGenum 				n	5Ss	1
+q	vv6Q&|L\
+S	Rkasync 8AO
+m7type alias e
+y
+	i	i	5Z		2	G5	CW	N4i-S9fn M
+
+b	O		
+d
+57		
+#[derive] L
+		30
+	J
+Ag
+Z		
+		
+
+6	e
+	
+wi	eScargo JDebug trait 
+	r
+
+	Rc )	v
+	l
+
+unsafe 6
+serde 	
+rasync-std [extern 
+	trait 9"=d4		Clone Wmodule system Gk	
+5+
+	Sync Future unwrap 
+	
+a
+
+B	
+trait object ;M
+73	
+Option 6			80p		Rustacean K5cpF
+
+		FFI 2q
+
+4	trait object e	
+	470nOption imatch m	1Y
+z8Arc 
+|
+
+rFunsafe 8>Hp1
+on
+trait object async-std 		0	0&	2Self G
+
+
+tuple 3
+W	8?	k>A
+
+		struct 	
+
+3hcv
+I]	await 9lifetime u	From and Into traits 12	VRAII Rustacean panic! 0
+8;	pE	0F
+
+FJ
+Send Box 	Smut +Future 	p	Nyz
+71
+
+J6r5borrow checker Zgt/U
+v
+
+
+		associated types 5
+static 2C7
+QDtype alias 
+& 	
+!9	const 	AB
+F	Z	6wY85	-J
+
+_trait bounds pattern matching YuN
+
+parallelism await 5
+Copy fhu<	4
+concurrency 74~l3		qawait 	
+macro A
+6h4	0Wmut 477fn expect 	atokio 8|H
+Option lifetime 6i
+>concurrency 	
+	O6!E
+
+k
+
+Bb7
+
+static mut 	
+Future 	7;2borrow checker 
+a15mod \l9
+
+Self 
+s
+generics 1const 
+3R	no_std 0
+
+9S0
+let 	G& 	Uv6znB	"QRustfmt attribute Rustdoc 	
+@
+7
+	
+9	Box G	g0Option 			b75X
+r
+
+.
+	>-* 
+		
+g
+O9string 09	1Arc 
+]Arc 		
+Deref trait 
+<936	Rustfmt lstring 
+	Rustdoc 5	g
+		f	if 	H	unwrap 
+L&mut d3	
+toml j	
+pub Jelse 	
+0	QSassociated types 	
+2Ib
+	From and Into traits 4
+N
+
+
+
+
+5	82u		1Y
+3
+7
+M	v	while & h8		3
+	hs9	F%
+>450=	D	1
+
+	await parallelism no_std 		static c	JUFvisibility Vec Tf	
+	B1	9	
+else 	0N&	9
+
+4F	impl !slice 
+95zQSx4	
+t	H3extern J
+let Send !		
+6serde 			match guard 2	
+Copy 1Vec 	match guard 3R
+zN
+		
+		slice let C3static 1Q0(y
+		unsafe nV
+
+	w|OJ
+		Rs8	YBawait 1MEUstr i1	eP1ref 	
+L
+	a
+9IRAII =
+			FZ2	From and Into traits 4
+
+	&impl Qwasm PEenum 
+jBb,U2	Iself 	
+
+	X
+		b!UA
+	module system 
+	p
+
+/	closure 
+
+
+1\QpfLMcZ	Ja6ldyderive 9p	
+	9use 78if serde 
+b3e	vDeref trait 0
+0shadowing type alias 	
+	mod mut 1<string generics 
+		1UD3
+Copy F
+6A
+	async 	x		3Rustfmt 0Bassociated types closure 0pattern matching Default rWd	async-std Ymacro 	
+ymDeref trait 	FiI
+	if 2		2	1Rustfmt 
+	7
+c
+v	cpj7
+Qq2
+	(1		1	D
+,~
+1EDebug trait 
+	3u#[derive] Q	?associated types K5
+	
+

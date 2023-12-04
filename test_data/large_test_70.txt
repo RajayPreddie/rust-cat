@@ -1,0 +1,197 @@
+M	ownership as 
+	
+shadowing 
+
+7	ownership 	jeJ
+y		SU&mut .			
+Send c7
+async 
+
+	
+J55
+3ownership 		str 8	shadowing 
+t5
+
+6
+
+0#6BN	
+
+n
+
+visibility shadowing mut 5ILIterator 
+
+fn 
+? 0
+	w	derive lifetime 		
+80i7
+_
+	concurrency 1	crate F	let M>F
+2	Clone Copy 1Ftoml Rustup 9h		90Debug trait 
+paOption async-std 	tuple PD0h
+MFString f
+Kloop 
+W79J
+fKl			string shadowing X#[derive] 
+	loop 
+	k
+4
+xx		
+
+A
+	3#[derive] 
+4continue RAII ~3	3t	Drop 
+H
+6	macro_rules! Ja	&mut 
+i11		C6shadowing 	lmk
+F5	RAII 		\H
+2rq1q7	j	6M
+Wl.
+else E		j		
+0
+8	fn 43s	generics V/7
+8eA
+8	Option enum 
+gkC0while Vpattern matching 	shadowing Sm
+struct Y
+8e	r2cargo Rustdoc 	5Kfn 4
+P
+
+6Nb
+
+0	13use 	tuple Drop X	shadowing 		$Clone 		AZ	macro c8Rw
+8,8V4Send 
+6`t	12		
+Cdmatch V62
+bvisibility 	
+
+R
+
+s
+
+		super g5
+		JAmod tokio Mexpect toml <str 
+y5			5178serde 9Result Ih3Senum etype parameters 
+
+
+G	\lifetime elision 13
+&mut 3
+u4PcmString 	RDebug trait 	concurrency 		struct 
+
+K(4e	Clone hMutex 	
+	t
+EBHf3let M	32Clone 
+	
+
+vi4	
+J
+h
+
+	Vy9Xj;8	
+Rtuple 
+m4icrate 93
+PK		continue 
+
+tN5
+	shadowing 		wmg4
+z
+g
+
+	9	qU
+	
+5	N
+		
+R
+	!=U	
+D	3	
+9		8W5string 
+
+Gassociated types 
+N8L27
+Rustfmt Fe5LSend * 	h/1Spattern matching FFI iq7
+dyn 
+
+
+7t55MRAII |W	N
+Tiw
+
+1	9$6;R8
+
+Kgenerics 	Y	mod 1
+unsafe 8	E]M%e
+tassociated types 
+	trait object 	u	4
+	x
+V3Rustfmt Z
+
+
+ASlet 	
+QWVec 20attribute 	0
+		)BAem
+
+Y	
+dyn 92	1	
+s
+1ustruct 
+Wserde 3
+QRustup 	4
+
+X9uextern Aelse \TFString 
+p1	Sync 9Option 
+9	I0Rustdoc Rustfmt 	7
+type parameters Hclosure visibility ~
+Clippy &}c08
+serde M1	A3	9U	k9visibility X		
+
+2impl !	
+toml associated types Copy Iterator haZo	W2
+Result %	Iterator 9I	
+VaH
+ref 2
+Future 2$fc5	
+8n
+8z3'1impl Kmatch guard 
+trait object 	let 
+
+hpshadowing 6d!	fn 1
+
+1
+
+?
+	O543y
+FFI ref B
+4extern 2		
+8
+Arc 8		RAII 	Clippy Nwhile 		2Dc&From and Into traits 	
+concurrency 9derive S91/macro Hcontinue 
+Rustacean match z!S		RAhH78toml 
+4pDebug trait 	
+
+
+R1Arc E7Crate.io 5NOkm
+
+break 2T			Self string 		
+
+a
+2@z
+8trait object 
+N5String Mstatic J
+4borrow checker B
+p8f
+lc9		4
+F	
+l]ownership enum xz	0	Debug trait 
+
+K	MxB	cargo 
+extern 	7Xr
+7o.	7pattern matching d	K\}t		Rustacean ^	7		FFI trait object 
+8s97
+v	
+	htokio string )911y"9lifetime 
+
+		7
+o;H
+5Wclosure XX
+else E
+
+2	trait object 
+ref 	

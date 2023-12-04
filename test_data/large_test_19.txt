@@ -1,0 +1,190 @@
+cargo 
+Crate.io 	
+
+6lifetime 
+88I1macro_rules! 			toml J7qstatic 	8D	f7serde v
+as 1	K8lifetime 
+k				8	
+2E7
+cargo for [	
+I71VFG
+t8s90`
+88Future i29	
+0
+Y
+const 
+4
+
+impl 9^@129
+
+
+Rustdoc 1	f?break B
+Q
+
+rOJborrow checker 46Rustup 	qaa
+b	10Q	Ostatic trait object 	#[derive] 8
+j1Do4uwhile 
+Default 	u	1
+u
+0	
+	return 	associated types |35j1A		3tSend v	n	3
+i9async 5
+:	p
+		3BA5
+tVec 		& Rustacean 7.Estring 	6K	crate T:B	
+break super 
+9Iterator Qtype parameters +0#[derive] 
+
+-^2
+7?DrU? 4
+Default H8	Mutex i0R2Rc 
+
+7await w3
+	m
+5	E	
+
+kcb5	|2x	
+		
+4shadowing 
+
+xi75i		associated types 
+Y		8dyn 	Deref trait 
+0kCrate.io 	toml RR	4	1Gh	9
+
+
+	unsafe 9	8as 	a
+2C	Rc 		in	trait 	
+1A83
+
+7unsafe 
+	3	
+5	+& 
+2	
+\6M
+
+
+|D
+pattern matching 5
+0Rustacean 	U$W
+	
+8	34		crate n7macro_rules! wasm 	d5J36
+|
+q9F7tuple 9ZL
+
+
+		unsafe @
+
+	k	p	0
+	09
+
+
+
+	Future wt72v4	3tokio 4ref 
+u
+~p
+
+& 		6	yd47	"v	zIaparallelism Ej6	=
+@5542
+unwrap Mutex wtoml 	N7	Bslice 4Qi
+R
+
+
+F-1	Jj4trait 3?extern rYYSend Future 8	]X8	Iterator ;
+9From and Into traits 
+pCopy 		self 				
+tokio *	1G7	6
+	w23
+w	6
+9	
+H
+3
+	
+
+5nDrop 0Clone j
+Rc 	%	Ltype parameters \
+	4
+	6
+	q1toml 
+N
+module system 	?
+
+lloop 		0		async-std 1h	
+slice 	4
+t0
+
+Crate.io 	@6vFrom and Into traits U	
+<4Iterator 2	p2	
+699n	
+	static Gpattern matching U	
+fM=1	0`cargo 	String Llvisibility 	Gas k3	str umodule system 
+
+
+
+
+
+s
+
+mrtC			P		V	Arc 		
+	a		{parallelism dRVt
+;N
+
+zV	8no_std j6attribute 11bawait String |vasync 	kq
+
+9~7!-Z	2	2extern 	
+		
+
+	
+	R	1	X8unwrap Z
+self W
+qvisibility 	4UR\9	
+	x1dyn {6Nparallelism 46str Rustdoc 
+let 	String uFFI parallelism 5B=B
+
+
+7Drop v80
+else 6zderive KRc 2h	
+rc		as 
+B908H	
+	8
+tokio am
+Jpanic! `FT4
+Gclosure 66
+Jbreak 0
+
+	String qResult 
+0	2tString 5
+
+8Sync #q	
+1b2	
+1		.	_			
+e		9
+W
+t9	Rimpl 
+e	Clone panic! JRustacean 4	
+Future tokio h|			Y	G	7A
+2656}
+1
+W9	9
+Box 7	Zz[
+parallelism tpwasm L
+8
+	lifetime elision 	[	S
+RAII 	Piunwrap 
+$S3cargo Mtoml 2module system 
+match guard unwrap 4Y	21	9	ji			,	5crate 
+	wBJ	9	
+3
+5	Nbreak H5	
+
+2GE
+-	
+
+0
+z70
+1		<b05
+
+6B\t	
+
+
+3B}IGK	8B.	a2j	FFI vk		impl slice serde 			H
+	

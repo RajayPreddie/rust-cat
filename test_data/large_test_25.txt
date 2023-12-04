@@ -1,0 +1,208 @@
+[	
+generics Htype alias $Rustacean 
+e
+9
+N<	yM45R		Debug trait 	0N			8	
+From and Into traits C266X
+	static 9async match 8	
+		X	async-std 0
+o? @L	0
+28Gg	
+SQbDqI8	}u	>g		String 
+)	H58if 	
+4pA		trait Rc .mut 
+
+	
+J
+	
+1		f8	wV	8
+
+expect \7E
+'
+9$
+	+	
+B	macro 	=;&mut w0	4p4
+		N	$	b	n	3trait bounds 0
+M	1h(6
+
+
+0H	$x
+
+	attribute l
+8E
+
+
+16x1unwrap FFI 	5x	4async-std unwrap 
+	t	match guard for 	Eu0i	
+6Vec FFI LW	8}
+l
+MQx
+		382enum 80
+F#z1generics 
+	
+9B	
+5s48type alias w
+Zstatic 		z
+ShbA	
+5l		tokio 	
+
+
+	
+
+str 	W8e
+26R)7	'2f		
+
+l		
+
+
+	y6		
+8	
+		
+associated types 15Crate.io Y	shadowing 
+p	
+	q
+self 		S1	dyn 	
+h]	64self 1
+trait bounds 	From and Into traits j0		X	
+mut R9
+llifetime elision 
+3|				Vserde J	d}	toml slice 4d		FFI pattern matching u
+B
+	hF
+	use ]04
+
+toml 8use 1	%O0Vec 
+H*	
+
+k	
+Copy !26
+let g:0n.
+'
+u9
+
+B
+0322%W		h
+		
+3	H	
+
+
+gb
+4qpub trait wa		L5
+c&mut 	
+
+mod 682		0		8e
+0
+	Rc [	5static lifetime elision 
+	V3		3Lno_std Debug trait 	c
+7svno_std 
+	3	f	3rT6Copy trait object 	a* 	vv6n	5KE
+
+4d1
+z'
+Kae	5.Result Copy 	V
+
+		
+ex		return kZuse 	
+i
+lifetime elision 	
+)#1pkHiArc 	await vK
+6slice x
+mbNj
+DString 
+1
+const qV4
+Y3O
+
+!8while 	
+9
+
+	
+tokio 	S9expect 9gq
+k* hgApdSstring T
+	9	
+	
+
+Drop 	
+parallelism 
+6"	
+	6xFuture k&mut 
+	&mut 	607F	
+
+
+K2
+UDebug trait Ln
+uP
+
+	lZSelf 7
+
+
+continue 3
+Option 9	3$1O	0
+		5
+
+y04o
+yuDefault 	UW			1Wun	*	5
+3Kw
+module system 
+}expect E	z?
+
+fserde 	18B{		
+	-
+	Deref trait 9	Z
+H
+jb
+
+	
+3		concurrency 	RAII 
+
+	d	
+F2	S	Rustfmt `
+1async-std 	7	E2C
+KR
+8
+self Future 	no_std m
+$y		dAtrait 0u
+7	String 7Bv
+let 
+	l
+5Y
+L	1tokio H-3f
+U	
+Future 	&#[derive] type alias K	{generics Rustfmt e	Z7	
+
+rlifetime elision ref 	3
+
+TDH3	ref 			J	if x
+	e0N
+	continue 	I
+	
+	z+K
+9async 0
+	* string 
+8	3slice 	z* as	slice borrow checker Option U
+rcrate 5
+
+toml u
+
+3
+9
+K
+	k
+	RI	23huse 9async-std 	N6	UM2f2fn 	1	
+	
+
+
+I,7#[derive] 	
+L
+Self continue Rustacean 631]8str P	1		
+	C6qufor 
+
+	Vec c
+	
+!
+associated types K9async-std 
+	
+	Rustup 3g7for 
+84
+
+L.IVsUy	}ZOhmwhile 	dyn 4R	Mutex 66	

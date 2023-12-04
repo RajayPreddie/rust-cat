@@ -1,0 +1,211 @@
+	)Lz	tuse 4
+
+	F
+1
+match 
+
+n
+9serde 	Vexpect associated types 
+f	80	
+		~Iterator 	'* 
+	2
+	extern 6dp'atokio RiM
+	
+expect 
+Yawait 	
+
+	Drop 	
+6gSend OA8	W
+macro Clippy GIv	
+Debug trait |	
+
+
+^macro_rules! 96	
+
+	
+j	w8
+
+60Box 7
+
+
+58R186crate 		7	s-K6	Arc b	
+}8Greturn ? 
+	@%
+25		o
+z
+Ltrait bounds for C0		
+A
+
+
+?macro_rules! *Wc	t		Z?
+	super 8^mtoml LC86
+M[8		
+M
+5
+else df	
+lifetime elision #[derive] KZ6
+B4CcGreturn 6
+mut Sync N	n4	l	jconcurrency 
+
+
+while 
+$
+u	lifetime 	i
+panic! Gux
+	0
+				
+parallelism 
+wvisibility 	as 		
+
+
+z5
+Y9j
+823T	8D	type alias 9if 
+	t	Mutex 6let 	q	9Mutex '}Debug trait 	0
+
+	hx3Self unwrap 
+	
+return use 7
+
+Crate.io 	? 		Ztype parameters 2kfn 1wasm 
+4
+Rv	
+	WwDexpect 	XV
+-match guard QBO	t
+	
+	
+V		W	derive 		0	pattern matching 8	
+parallelism 	
+let 	%
+6
+d
+
+Crate.io 	visibility 
+C	t	A
+
+4bOption Default 	Rustacean J0
+c	iextern Jc	
+	*
+RoE	ref 
+	r	pjcargo C	
+0'fn :
+		
+E
+P
+<5R
+5	b	
+
+	
+Z	+D
+KB7a7Vec 
+			trait bounds nDrop qwasm 	Y		
+mut visibility 
+	3	Arc unsafe aAcrate 5unsafe _B	p
+	:
+
+	
+	
+* 	*Crate.io p0OAshadowing 	
+trait f
+WP	ownership dmacro_rules! 	Lf	{3mhU5Z
+	76no_std Jt757dyn Rustacean 	0
+	hexpect Debug trait 7trait object ref 
+!	TBp17K
+if OgFFI 	
+
+Ln%D	Sync 
+		const g
+	1Mutex r1static 	i
+6struct 	mf
+	
+		xn5D	
+const 
+String X	1R
+tokio 6Sownership 	U6B
+6S[	C
+Ev59bUBox 4
+
+
+7$
+9M
+	
+_	6
+wclosure {26	F1
+jD
+trait macro_rules! 	fArc 3derive & G3y	
+macro 8
+
+4
+	9Option 		I	2
+Z
+continue G-	
+
+
+9h2Qparallelism ?super 
+trait object kbDeref trait g9A9O`I	unsafe expect 
+	R&mut Default 
+panic! A
+3\GoDmatch 1ref 	,f	9
+YmhS	5String 	3
+
+a4	
+7panic! 
+9l	|P
+str Ux85
+	0
+expect 
+
+V
+	O	str riCstatic 	Rwhile expect G
+	SKawait 
+7	
+5macro_rules! {trait object 1
+9P9match guard 
+	8	trait bounds 
+generics 9
+	m
+5
+zA	
+lifetime i
+8
+7B
+
+uelse 		5	Bg1break fn 77o2B	1
+
+as qsref 	
+{32as l
+JY
+	u	yCItype parameters -9
+
+	ownership 	Atuple @	Z
+	5[
+w"
+3
+Default a7
+y
+module system 	1Q38crate const 	trait k	96
+n\1	GA	3	K2x9Q	b
+
+macro 0
+xA
+expect 	
+
+O[macro 
+	g61460
+& HJ7P7	9
+cDebug trait 4H
+C
+8	
+lifetime elision 	F	
+14V		
+?Vstring as 7
+Jtrait 	Iterator 8parallelism EX
+x
+r		7		shadowing if W	? p
+
+	4	
+Drop 
+
+0cdfor 	5ownership 
+	Drop 	wQBox Rustacean 5zOption s6
+fn 	a

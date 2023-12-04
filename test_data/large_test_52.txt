@@ -1,0 +1,181 @@
+String %Vec ?J	c
+T
+WLif 	masync-std 	enum 
+6tslice 	5	L
+1n? M
+1
+u	u7MS	return Rustdoc F4Drop e
+& B0Zwpattern matching 		trait const 	2	ctokio 	
+@
+
+Box self 7expect 
+
+3i
+|Crate.io 2G	
+Box Eo0x	if D
+2& yM1T4	serde 1type alias 9
+T`O	fn self 46
+u	visibility GbSelf 
+'borrow checker unsafe Send 
+Kasync Y	
+Iuy5
+kclosure 
+
+o0enum F71Future 
+		let 	5
+Sync crate 	%8
+tn6
+fxOption A6	type parameters parallelism 
+
+5
+}	Wcrate 	gL	const 	
+	tAH	LPh
+
+
+		3~1
+
+G	Gfk5	8	%1
+Istr String 
+42g
+	UQstatic 	o
+
+XuK
+[return Zpimpl hA
+'s
+F		as 
+
+t	;4		
+	unsafe 9Clippy SnTP	y&31macro_rules! Default 9
+o
+C	
+"0h	N9.e
+lifetime elision <
+ref \Y29f4tokio lX	P8jtoml 
+N	6n
+
+			
+
+B
+dyn 	r1Q9E8	5t
+I4?
+5pattern matching 	B6associated types 		S	
+const 			
+1while 	'
+		8o
+
+1Self _if v
+so/
+wCJ
+10wzG
+
+	
+\macro 80		M
+	M3E	H
+i)
+
+a2
+
+{53	68C	8	break continue 
+o:	mo	x4pub +Rustdoc 14match guard L5	expect renum Cw
+
+1j
+
+		godcargo .
+
+$
+kD
+	7vx0
+8q}7ek	i
+
+Deref trait 	0%
+6pattern matching 
+62
+b
+Option 7
+\loop ewr	9	i	
+	
+G8	
+Nreturn h
+type parameters Qm	
+69y;\unsafe 
+	Q85iCrate.io 
+oVec 
+Vec 	async N0Y	2wRustfmt z	8toml 	0Result $Dc
+parallelism 
+		macro q	S
+			
+"6]		
+
+Q
+l	type alias 		!	trait 
+lifetime elision Future 
+borrow checker 9	extern q/N
+6P2i	1pub 0NJ	3g#		~impl 
+2&mut Y
+2
++
+	y	8		i&mut L5C0
+Box 
+34Copy 
+0			9	jh93E	
+	Box R
+U6>
+	
+		pub 9	9Ax0
+iZ4	Future trait object 
+		01	3bArc MZ
+90visibility k7Sq3
+	String a8NDeref trait 
+
+		n_				
+3trait 	&mut ^
+	
+
+	match crate 
+
+pattern matching 	1`	
+			iv9R@136Vec 	36	
+:yMU		%-		
+;1? Clippy String 	Z4	
+match guard %\C
+macro type alias 		
+!Clippy 		P2if 6
+const 
+	Y	NHf	4D
+2	53		7Wderive i
+aF4016Vawait nF1Clone 
+v
+Self 7		UTtrait object visibility Y@X
+m
+gFuture 
+3Vec 	tasync 	struct 0crate t	Y
+return 7ub3
+8	JJ327e	x$	Vcrate 4Ez_
+7		
+4EFxBox jD
+V
+				let 97v15^
+	zSync 630i
+7
+BVec * type alias 33k		
+	Rustdoc 	ownership A3e	closure 	
+2?
+
+u
+8await RAII I	>0	6
+Copy closure 
+generics Imut & 
+		struct 		6
+zz<0? U	8
+xDefault )	
+Self 
+	Ag		517Option 
+a	m	
+S0
+closure 3	string serde 9kpub 1		
+
+Rustacean ,
+V2trait qMs	F					3const 	
+
+9loop 	(;9	9rW
+3	s

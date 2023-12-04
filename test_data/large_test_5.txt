@@ -1,0 +1,191 @@
+'	/
+	35De&for 354module system j
+9
+=* #[derive] 
+0i1D
+
+		mod 
+	?
+9z06T
+qWJef0ml		
+V
+trait 
+K	
+Un
+	1G	
+		
+
+mut T66	y	Arc #4Ut
+
+m80V		f2S	7e4K	
+G3fn slice *	9
+closure fn ownership N	
+	0	Z	use Result 2l
+	T
+continue ltrait object x
+	4
+H0
+6		|
+	b	static 7associated types 
+8	3	0massociated types 
+m
+
+(	
+
+Vec rI2po0T
+
+let 0F`	Vwself Kunwrap P59
+l
+yb* 	for 	type parameters 			xA#565aqf	9Crate.io Rustfmt O	
+e	Crate.io 	
+Ek	!K	else i
+
+6W6
+
+X
+		<da	FFI 
+390unwrap 4	* W>	vK3Iu7h
+qtokio 	
+J
+breturn 
+	1a	break 
+u@Cj		
+2D	string cargo 3-Gn	5		
+uCF
+	]428nySend lifetime elision type parameters 
+	7A
+	3	7	serde 
+	hB>
+toml e0A	
+dyn 	P*18Default 
+xCU
+		xG
+
+
+7iconst 
+0>
+1H
+
+	
+-unsafe N
+-h2	
+yRustfmt f0
+e4
+concurrency mut 
+attribute static R	g	unwrap mcontinue unwrap l	Q
+trait bounds panic! 
+	extern 
+z(Ct* 3u& }0Clone 	crate m	^
+& 5
+	
+
+3
+0panic! 7		Drop 3	A1ve	static 				Q	
+
+	B	
+	6generics 
+	gtype parameters 	m
+'f
+	3UIAimpl 
+1}
+X	
+	
+YClippy SOtrait object I852Icrate u17TX7T	
+shadowing 83	
+pub :D4visibility ~		w
+	ustruct lifetime P^	
+#
+0
+P	6serde 
+0	61lifetime elision 	Ltype parameters 
+9Rustup cargo 		
+8		IClippy 1Kextern 
+8&mut 	String 4	while 		2mgenerics 3Drop H	
+		lRustup 
+AN
+async 4type alias Vec F	-Y-
+j	string Rustfmt I	Y	nQ
+	
+	H2Rustfmt 	lifetime elision concurrency while 	5a5
+
+&mut 	
+iY	w4J	D
+
+	str 
+Mb			closure 
+lS03]match guard b	& 
+T	.0	U	
+7
+match 2hT8r
+9	panic! 7
+	3
+
+
+D9
+r
+Gtrait 
+for 	serde 
+Rustdoc 	Q
+K		t.1RAII v6struct T7
+0
+9& 
+	BO	Lsuper J
+if Emut 3
+FP
+
+	concurrency w
+0
+
+l
+dDrop 	g7fn N
+tokio rserde 	TFmacro_rules! 	I
+	47c	o1
+Result 		fn 	0I1458	9#ONNtrait object 	j2BFrom and Into traits 	8
+			1	iE4
+Ljtrait object 
+	v
+
+
+C	2z8else 8
+Drop 	g6?	9break B	5Mutex unwrap G{j
+
+borrow checker 	
+Tp1P
+
+!A	9V	b		&mut x8)
+h
+8Crate.io fvOption 
+	Dbreak 6
+6P	Ki
+75YA^o	QS
+/9C		^7async-std m	wG	3<
+7Q508P4	I4
+
+9
+	ZPp7	
+L
+
+8struct 
+	a
+45
+pqF5'Clone 2borrow checker 	sownership ggborrow checker 	Gderive 
+Clippy 	YRjW
+K	Y
+
+75Pself 
+	6	stype alias h	mut s~
+		Crate.io 
+
+
+derive 
+Rustfmt 
+F		dyn 7q
+#7XwVRunwrap 
+loop O		O
+
+3~1>
+b	>loop mXbreak 3Rustfmt 
+08Self 
+		R
+c3	a
+B	n		shadowing j		mV	

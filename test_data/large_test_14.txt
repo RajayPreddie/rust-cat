@@ -1,0 +1,212 @@
+2	G
+
+OfPFz
+u
+Copy IN
+	w
+"
+
+14match guard 77
+KT		
+W0pattern matching 6		
+k		
+* 2
+	Crate.io 3M
+
+D	cGz	p	
+U	
+0		H0Hc
+? 				2Ne
+
+Gr		<* wU4:9	
+UsvW
+
+
+6async-std 5	BO9ytokio 6i4
+
+
+9
+
+5return TFrom and Into traits 	C* 
+
+
+
+	O
+
+
+B	<
+From and Into traits 	? y3
+9
+Z?ppanic! &mut 
+2u
+macro_rules! Wwf291<1c	
+3	u5[
+3Rustfmt 		P5
+	F2
+
+	pwasm fn Strait @
+Debug trait 	w221Self 
+7tokio R
+
+D	2	mut Mderive 		
+
+i
+ti
+O{	3Option 	emut 2	p5s
+	b
+		$|super 8
+IRAII 	
+@6mod Crate.io 	
+
+31Qsyn
+
+
+closure 	panic! Result Dvy2	(3Y$
+DString 
+43	
+\
+A	
+eJGVec 
+t
+G
+_98
+
+?L
+7Result concurrency G
+ref yRustup N3f	9	
+	Z
+L
+Kcargo loop Y75	4	p>A17876	HEYtrait object 
+	dyn type parameters v5Js	
+	%9	
+		
+(
+m
+H6String 		
+gwconst Zi
+L	
+
+SvK
+unwrap jbTT		EWparallelism return mod 
+65FFI 	
+3Result 	\macro_rules! 	Rustacean 	static 
+e	Zw
+
+RL	l
+	\aas Copy 	nf	
+Rustdoc J41async 	enum (
+	Clone d^
+			fn 
+async-std 
+k	v
+panic! 
+	i\	4enum ctSSelf 0A
+Clippy 
+
+type alias x3
+3#[derive] Self 
+
+	5		9estruct 
+5
+		
+0
+else 1Yi72tokio 	!0	3i	]expect '
+CK<
+hmacro q"<	Hparallelism 
+q
+X
+&	0	5KAN
+1	String 	0generics k3	rtrait object 
+mDefault for 
+Rq~		
+Clippy 
+			17
+PH
+m
+	91g
+lifetime elision 	
+
+Copy 0	Y0
+
+ref Result From and Into traits 	1Rmatch 80	
+	e	
+W64self else 1	break 
+		ucontinue B|0
+4pub g
+
+Rustdoc 	1
+
+)trait bounds &mut 
+X5W9R	
+trait object panic! Mg
+7
+
+K	tf0Vec 
+
+	Q4\1	D
+async ~	
+
+sz
+	tokio 
+async-std 	3	V85	
+2T8
+0
+Z3pattern matching fL	From and Into traits string 7	
+y	L06
+	+for 		CLM9
+4
+79
+	
+
+const 
+F%Mc				gFm82t@	9	iz|
+FFI 7emodule system VKResult 9
+	
+
+5	wunwrap E
+
+X
+
+		16continue 
+7A	pxU	p
+|v\self e		struct db
+W
+7tokio 
+Mp
+#[derive] borrow checker 7
+p	QQ	T>	9shadowing 0	YCconcurrency else Copy 3
+
+30pK
+Vec ^'
+W
+	
+m8	Crate.io Future 	panic! 	Copy (]Xx	4xlifetime 
+macro iR5F			5B
+slet A	4SU3Send 
+
+slice iClippy 	match Itype alias 
+
+		
+h	692	I		$pattern matching 	@	0y	
+kserde 	Vtoml 	slice loop Mutex !Vec 2	0
+v4
+g
+6	
+Zfor 4static use 		w1	p		while YH9
+				Gunsafe wasm 
+	
+s
+shadowing Iterator Drop 17
+	mod 	z\]r	9
+Rustdoc 3string VDbbreak 
+H	
+	8
+Z	Vec 1s	
+G
+	L	5W	k		5h	>Z0
+
+Rustdoc Sawait * Js
+-		
+		toml g
+TGenum fconcurrency Q
+dx

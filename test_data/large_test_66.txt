@@ -1,0 +1,189 @@
+	
+23.type parameters 
+(G
+7RAII 	B	ymacro_rules! s4macro 
+	94let expect String -4(TM
+	4
+impl 3	31Wb
+Result D	u<8
+	c7	6	
+Result 	]g"Mutex t2		ownership E		
+W	
+8
+Z9	U1	8
+
+hKLas 4t{	3
+
+	2Iterator 
+6
+
+
+9
+odH9	7
+	
+5string unwrap 
+WG{*	* 51	_kV
+
+	XUcrate 
+	generics 
+	Sync visibility macro_rules! 
+
+
+~5str 
+1		const d
+Nasync-std 
+z4K|tuple 	5ed	Tmut 6Qstring 
+	1rreturn 
+5macro_rules! self 
+Ta					
+ydwhile ^ertp8Drop Debug trait 5\9
+FFI 6	;Xwasm Iterator 
+5extern 
+nDrop 
+	o	Crate.io match guard 16
+
+
+2
+>4
+	!
+7	
+visibility 	derive 87for From and Into traits C8F	
+5	U6	5zownership 	i	o	3	Vec 3	l
+5return 	i0
+\
+
+6	k1s
+panic! 4	e1	
+		4~	wasm B	Vec xn	Crate.io 8Deref trait 
+-s	x|i	4	xJY
+Clippy return 	M
+67
+	`4	2	fX	
+	M
+toml 	Mutex JRB
+6Clippy 
+		string closure E
+wasm Arc Rustdoc dT
+return pub =sA9await use 	? JY		type alias pRli	S	
+super Rustacean 
+@	41IpvResult 		
+	
+IR.B
+3S2
+
+b	
+visibility 	
+		type alias Q
+)L98	T
+
+5t>5
+7async-std 
+E)	G	u
+Option n
+R\	M	6e	
+super 7M
+`A	F$ewasm Rq	
+FFI 4borrow checker 	4		Y
+
+G
+super 		6
+Sync 7if N
+Mutex Copy h	6
+continue 			-Clippy y	
+
+
+0lparallelism 
+
+
+0
+	3h
+	0V975
+2
+	
+4j	g	attribute -
+	f	0Y7Q31@	use Wconcurrency 	
+A		g	K
+T		Y		8f	cargo 0self tokio Vtrait object K7Default Oexpect i
+Qconst 2Mborrow checker 3z2	j20p	9r3
+cargo generics ownership 
+		9
+1Ttokio o
+
+
+
+			c
+4Clone 
+enum P	eur57attribute 6\$X
+	L	
+YC)	fextern generics 
+Vec pub _A66Mu
+5[
+o	
+K
+
+&mut 1Clippy 	V
+		
+
+Uas 7i	
+j.
+l4SY
+
+String type parameters 		B$
+Mvsp		trait object 5p	6	
+Ck
+25	Wl	vawait PQif return RAII Q				e	h#P	jHparallelism 	
+>Sync sof8	0
+lifetime 	S	n1r
+	s	
+	
+Rustdoc 	4		3await 
+for 
+
+async Y
+ownership 
+X	
+0
+	
+7await 7	4RAII 		cborrow checker match no_std borrow checker 
+
+	2
+Rc Copy Bm7wZ
+
+
+
+
+t
+8		+t
+OE	C
+c00|o13
+9	9
+;
+		
+8	Arc 1trait p5N	cargo 3vconcurrency 	panic! 03	si
+	<	str 
+mut 2a	x	x				Iterator Q5
+5	I
+vBc	
+R3	match 4S	3	
+	a	18@	0:
+95658	}	1crate 	& 0	
+	unsafe ac5
+	From and Into traits 2	7vE3	R1Result R5			
+enum 0
+x*UrKJUk
+
+if 364		
+
+	tunsafe 
+P
+if 
+It;q	0qy
+7
+	&	0,BLHW6	
+
+Hbreak type alias b	use 01RAII 0
+f	
+9GMutex 1	5	
+	
+		+T"99		P:		0uparallelism l	
+		unwrap W

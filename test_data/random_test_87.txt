@@ -1,0 +1,10 @@
+
+else 
+str 	r
+K8
+t
+pub QSelf 
+{d	83U
+wasm Deref trait Box struct 6r0	a
+6t	S	U&CSend 	2F	58
+	greturn 

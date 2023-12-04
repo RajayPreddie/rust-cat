@@ -1,0 +1,204 @@
+	
+Arc lifetime elision Rustacean RAII 0	
+v%		
+.eownership 
+bstatic 98* c		
+f
+
+async 6
+Ak5	Option 
+2	2
+concurrency 	zit6	K& 	string 	
+5_5
+
+82
+match i	
+Drop g	Z
+
+
+	derive eAeIterator 2
+2	VV	*8type alias _
+	Deref trait n81i
+4	
+	
+rzborrow checker pattern matching y5	1K3
+	tSync 2g*	@await 
+"A0tResult 
+Rc 4	bself match 
+8	n	^70			R1
+wQsxexpect r0A	,V0K6From and Into traits eOassociated types lifetime Vj
+	
+RC#[derive] 	t
+smatch AG	7Ddyn 		0Copy ay^xZcontinue 	J,ca6
+u!Vec h7
+	R_v	
+L		toml 	
+		3
+FFI 
+macro_rules! Qeuse 	
+G]35Q	9	borrow checker 
+6fuh8	tk7return Future gIk		tuple 	generics 		W	<K
+h	19;	lshadowing 
+CU
+
+impl 1
+7
+Np	L4			d3x0I	K
+			/4break 
+
+jn	& 
+zz	o08@MMCopy for Default 	fn 4gdyn Q	1ASend expect 	u		Box 
+	shadowing 
+	P3
+b	
+	concurrency 9dyn 
+pattern matching 3p
+	
+Default 3	
+ref tuple =
+"
+
+
+&shadowing T9derive 96	2j2
+A	S1
+z9
+
+:
+slice 
+l	
+6	o1
+0
+
+
+w6A	
+	fString yF5#[derive] ? 	}
+Vshadowing 
+
+
+extern 
+	3Q
+
+else yux28!
+
+zh	
+7o	9#[derive] match guard panic! 
+		1
+28	D	
+1pattern matching Bx	W
+td	2d	ic5	A
+0
+3ZRc 
+3e
+
+6QCopy 	2h	
+& 
+Qtype alias 6h	parallelism 
+eh
+8
+	9shadowing 	Dwhile #[derive] 	8o
+	m}loop unwrap v3while 
+
+		continue 	0		
+	Sync 2	Sync derive m
+Mutex 7
+f			7		5
+		#[derive] A
+macro_rules! 0	Yw<5continue f8
+
+
+	
+	Ld
+
+C		
+mod 1		RAII eArc Default zj8Box Rustup 	
+n
+Deref trait expect C	0
+serde 2au
+Hw			0O8
+5	s
+2
+
+J		Z
+q49@derive =
+	6	LDefault Rconst 	dI7;	Iterator m6	vX4i5	X	
+
+n
+jreturn 7	4async-std 	impl 51generics 2parallelism Junwrap 
+& 	
+	Qparallelism 	await 	
+s{	7
+ClL
+Y9
+
+
+
+
+string 
+GG
+:Ezcrate 
+4		Y	LsDref zyxas 	Arc 
+rl
+
+y85		l
+tM			str W
+H	b2
+v3T
+Yl
+continue N4	2concurrency 
+	
+91	6X	=HRustup 47Option SV7	
+	match 	P
+Future a909@C	
+SZ6macro 	0Q? '9		
+	5jsB1Debug trait & string S0
+	
+	
+
+			:z
+match 	P
+0Sas 
+	2
+	
+	^expect 9	#3trait object 	
+gy:	L6Q	Arc 
+4	impl 
+
+
+
+3	47		73self 6	5Future 	2	
+8	2tRi	
+on@		
+7			
+3Vec 	
+5
+sfor 
+47GN
+BuYJ	parallelism unwrap S	5String 
+W^tokio Debug trait 	serde kR
+
+6	Rc 	
+Iterator wasm trait 
+	
+Rustacean 3Option Future H	
+
+	
+Rs;	
+
+3
+Y
+	2j	pattern matching unsafe 
+bif 8L,impl 	l^@19
+
+macro_rules! 	Future 
+
+module system 
+1m3uz
+D6D
+unwrap 	pattern matching KV	break extern 
+Debug trait 7XCrate.io 15	b1
+
+1
+4J
+
+2	
+

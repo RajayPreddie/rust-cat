@@ -1,0 +1,185 @@
+^	Mw9	`
+CUJm	0}
+nQ		92
+
+
+ycrate 	53match guard 0toml y
+
+Id25
+U		concurrency 
+>for 3		
+	type alias 0	y	
+	A>	slice 
+#
+	rFrom and Into traits =serde m9	
+return 		else 3
+Vec use W9macro 	
+2unwrap 		
+
+	DLFuture & S1
+|gR	BWK	P=	w4
+3mod %hRustup 40
+	trait *1P
+&		
+[T		PXj
+
+5module system super 	7G? 	
+w
+Copy v	(
+tserde 
+
+		7
+BTself 
+5continue S
+
+T~k2	Copy 
+Dd	Xwasm lifetime elision WuQmacro 	50G6	
+	await kJ1
+H
+66
+j
+
+xzFrom and Into traits N
+	B	4y3
+Umut 04		>
+e
+	8	f	
+q	
+ig
+g9qy
+!lifetime <return 	N
+x
+	type alias unwrap dyn 6o	
+
+serde trait 
+break 	:
+
+async ]	7
+T	
+	YM	aRustacean 
+		M	* 	3	/ZPD
+
+
+N	28en
+jqFuture 
+3#[derive] @	Aj5	2x4
+	Sync 	
+
+Crate.io 	
+? 
+q&	6match Br	
+fconst S
+l		X
+Mr	86static 6	1O	)
+Deref trait struct u
+dyn 
+7
+m	8d0i7
+	ownership 0
+struct 
+6
+4	lpanic! closure 0
+7kassociated types 29loop 6u7	Copy I{~visibility 	expect o	G2Xcargo 
+
+match Q
+
+HIx#yMutex no_std C2concurrency 6Itrait object =U3
+T0^#[derive] 
+H
+92lmY1]3		cargo return unsafe 
+a		8
+5b
+nVec 
+FTq6Drop g71serde borrow checker 	F? 	7NA	brbreak 
+vQ
+n
+C
+	ktrait dyn B'
+
+Rustup UUO	
+TLmacro_rules! Debug trait fn G3str 6Box Deref trait Wtrait object 
+7trait object expect 
+	0pub * 
+?Ifor 	enum =1#[derive] trait "|		s4match 	hstr brmacro 8@7+
+85	Ht-q	3q95
+
+6H
+
+	
+a6macro +3
+sDrop 	WX<8
+7	unwrap 
+8trait 	GP
+58
+XResult Gy	trait object 				mod 
+qmut 23
+	\1O		
+
+9z2S9>29	9o	M
+string odyn 
+
+l8qRustacean 5dyn !Send 0	
+	Rc Deref trait 
+@H-[	trait bounds 
+Future VQ
+S59attribute parallelism 
+wasm 	n
+:4match guard 7h	w
+qB&		od		1associated types 8serde (
+QDefault hstruct vXw>6a4pattern matching hBox use Deref trait 	4zS	2
+	7	e1lestring match X
+u
+SClone +
+	X
+unwrap 
+98Drop * const ?E	else 0
+Rustfmt 
+`9Eg65
+67C|
+
+tuple 7swARustfmt * match 
+	Sync Ilifetime elision n	7
+w
+
+
+
+	Pm	v
+e6		026	/Nd	xtrait bounds q
+Q5	generics h	i
+l
+extern F	
+string V	O
+:Y
+2
+U}	L	8f	
+=l
+1		cargo 1
+
+	5
+Rustfmt Future 	rn*	R54	impl 		DCrate.io 	06
+82
+	43Deref trait lT	no_std 19PSfor 	let Q	async 	E
+TV	expect ownership 	5Crate.io Rustup 
+d_L8	while closure &;z1	L
+
+9S
+5	3
+	parallelism Sync 93Kf5864~yi7
+2
+
+for 
+
+Send Jtrait match guard use 1IIFS	7Drop 	2Debug trait 
+unsafe 
+26	tuple Self 	Ab		
+5vVTsOncself Vclosure ,&mut 	5
+S5
+
+
+	
+const 1Default 2
+
+299	
+w		
+type alias Mcargo Y?	
+u7Crate.io ;

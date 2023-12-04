@@ -1,0 +1,6 @@
+lifetime elision u2
+
+`5Mutex 	Y		Future QsGI83
+	S4.151	2	e6S1	Yclosure 		a	
+=t4/ownership 	8Jo
+

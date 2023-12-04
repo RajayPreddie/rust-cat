@@ -1,0 +1,191 @@
+0=attribute 		extern 	/
+8|macro 
+	pub V]?
+as attribute *?ref J
+6E0Clippy 5	ERustacean y	expect 4aJR5o	M
+DaW
+	async 	
+9f	K
+R90
+xe
+91,7R
+
+				6	v|PrS
+
+n	Result N5#[derive] 
+99
+i/
+6Clone 0
+'RAII hdyn 	xspub 
+V
+
+	
+
+	macro q
+,4m	
+WlDrop h	>pub 	6
+trait else pub 			88Nm
+c6	cargo 0
+	
+q9Rc R	
+unsafe 
+macro_rules! 5generics 
+9
+		I	SC	8hreturn 
+	7~.z
+H	S
+8
+
+shadowing 
+U7break d	
+77		Y		
+3	2trait bounds tAreturn B6Rustdoc 
+8	42panic! 	
+Default 
+u	NU
+enum ref async D	
+0
+extern 	d
+if 80p4no_std String & 	6	Dc3	UClippy continue vs3g#[derive] 7#[derive] m	LV	6expect 63
+kOunwrap 
+Z		3<USf		n
+#[derive] 9toml 	N	0Result 2lm
+R
+Debug trait 
+5c4trait bounds associated types lifetime 
+
+		
+L9b	
+Vstr Rustacean b
+	3	
+1x#[derive] 	F1tuple ]`5P\panic! 	R		
+strait object =type alias O~
+
+4slice G2j
+X
+i	6}E		n	9xb	ref A9	;		Self 	Arc +
+W
+8
+8borrow checker 	const ? 	n	g0
+async * rmatch guard 				7U	toml Q
+return type parameters expect 	
+1	9	OLm/MlBWA
+
+
+FFI Mutex 2
+
+
+zg&mut 17+rJ
+trait 
+8
+4
+KQ45U9match guard 1if macro Arc 	
+r
+
+	T0	
+
+	m
+`
+
+z	
+
+j0
+Iterator lifetime elision else C1
+super Q	* 	
+	~1a\fBDrop 3	hl	
+
+Lshadowing toml 06q3zn7			RAII V8	x_
+Debug trait Drop 	
+	9%ii4A	
+wB
+KsClippy type alias 
+N5
+QMJ1Iq8MFFI mut 	p
+	GMutex 2yH40
+%	4Otuple unwrap I	8R
+	26	* 		5	5d	
+2U? 
+while trait object ref super 
+	trait object .		YIwhile 
+506p
+73wasm expect H8U	6f	k
+	7|wK	dtuple 	!%1	3
+67attribute 	%
+	
+}
+
+
+
+no_std Q	Rlet 		0			
+ino_std 
+\69G6P		type parameters 
+str match guard 
+E		as P5		
+fuse 
+
+0N	t.	>c948
+pub concurrency 	
+		
+l			self }	From and Into traits 2yT	916Crate.io 	y4K
+8
+	0	_		0
+closure 
+5async 
+7ce	return i>-h
+	z	v
+	ref [
+
+.
+iIterator bFrom and Into traits 	Ok
+
+Iterator wasm u>Ystatic 	while 	
+trait object o
+vpanic! 1as 
+	!T	Default 3	
+	
+n
+9	Uassociated types 
+k
+	1L64\			jgRAII Debug trait I5		
+6x<?1
+
+4xfn 
+wmo
+
+break Send 
+j
+Q
+
+C		closure 	
+K
+return 	serde 9	3ownership 		1String ref 
+#[derive] 6	:
+45	82
+
+
+
+3
+derive 		0`	Eif 
+if 
+Box u
+K1
+Mmod 	X6bDeref trait #[derive] 
+b
+R?
+Y3/unsafe f
+trait object 90no_std I9ref 
+
+(loop 
+Cgenerics 
+Copy 
+c3	51serde Qattribute T6tZRRustdoc 	V	
+Future ?	4dyn 69OeN0break 3wasm 6
+cconcurrency 	N
+FFI 		
+2dj4self 	y	generics l	jq
+	Send 2
+
+	
+townership 7hKreturn 
+macro_rules! while 
+	Xbreak 807	

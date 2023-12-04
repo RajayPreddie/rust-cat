@@ -1,0 +1,224 @@
+6
+	a	
+A	1	
+X6Debug trait type parameters 	Yunwrap RAII F
+concurrency n
+Q1Q
+j
+3v	F
+2K
+y
+06K	e1
+
+
+	as match guard 
+
+n	
+
+$q4
+
+	pub 
+8F	R1u	&
+if 
+
+g
+r	7
+	pgenerics 0a8R.
+v	6* 	30trait object 
+Deref trait 	l9
+
+Sync 88i
+n
+86!3	cargo crate 6y
+	
+mod 
+396
+2<
+6
+98		dT3^	8FtzFuture 	
+
+	panic! 		|
+
+	wfn 	4HSend fV	
+
+I
+4unsafe f*51<pub 5668	5else 	kq
+1
+G	u5attribute super C4	5tuple 
+ms_
+m	
+
+
+6//j	
+generics 
+7	T
+
+)		12	3e"E
+C1	
+uv0
+Af$	&mut 4trait object z
+	
+8	+
+H	enum 	V8	V0	
+9	lifetime elision ownership 3
+	)h6
+"Z	K	9RAII 		
+
+
+x?	S3J			a			LW	5pattern matching 	97T
+F
+nvs
+		1P
+7HB
+2	
+P		1no_std mod Default 62	
+8
+/
+7Arc qk
+
+7Clone Eslice 	U9P	9		use (
+parallelism 
+closure trait object 		3P
+J0	mod 
+	
+
+M5	|	Clone shadowing 		w	z
+
+3345	1`8	derive 	CF8	serde 	trait object h	
+ownership 	
+q	continue UL
+		4B		
+'parallelism 2
+Clone 	
+78
+4
+gawait lifetime 	a	while 
+RAII 5			Or7
+	5UZ
+Wparallelism 
+	
+
+8	Result 5m	3f
+
+
+	o	T	
+derive Rustup 	
+Arc 	
+		26
+ZZ
+
+	_	9
+`Result 	Drop 	else lDBassociated types 
+T
+expect =		lSelf cargo 	* 8mut 	
+	
+	98	let bo	0Nbgenerics 6Rustup 
+x
+
+3n
+2attribute :9
+	J
+Sfor 
+8k	
+
+		12A9macro_rules! 9
+pattern matching 
+9P	u	break M
+Rv	
+94PZconst F4async-std Rustdoc 7F	x	%2L
+
+k
+H	vasync hWJCrate.io 5WSelf loop impl fclosure e6g
+mut f	9	
+1~	#[derive] struct 
+49H	`T5	u
+	
+
+	borrow checker Drop Self Q		i
+	r6|;string f8muse 	static 	
+	8C	
+33break 1G	module system 
+	fn 	2p8<LVtrait object Option 	kP1TK
+2no_std 7E	d	ef	r5
+
+match 
+X
+x
+W
+S
+
+bClippy 	
+concurrency 
+	
+		
+}4\2vC3
+R
+
+
+Eonimpl 
+for 
+pattern matching 1
+
+
+
+Option 8
+bq
+Debug trait 
+
+q	cU	BDrop |	
+	2P
+,5%8	.	UK	q
+8D47	
+use 9Crate.io 
+Kassociated types associated types ref M
+676
+6		7	6nc
+
+Mutex ep		
+	as 
+
+84	trait object 78
+
+2{
+		
+0I
+4.	
+W		4for 4await cH	13
+	
+
+7	
+	741t4		.
+
+0N	34
+		[		0concurrency 4AM
+u
+&mut 	aAFuture G
+20
+1
+
+I			slice n8
+
+i
+	Z2jtrait bounds 	Vec 4	unwrap 
+	extern 
+AMutex C6parallelism static 
+Debug trait 8
+borrow checker 
+$L
+* no_std mattribute 		V57
++F	[T7Rustdoc m
+derive 
+0	
+S	
+1crate 6
+	9	(]9j
+2	ownership 8Rustup 00*
+	str 9	
+iString 
+
+struct trait object 	
+
+
+trait bounds 	
+rlet crate no_std 
+8	niaassociated types 4

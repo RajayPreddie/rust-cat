@@ -1,0 +1,195 @@
+Bj
+
+0parallelism 
+	5
+	
+wzN	1	cfRustup async-std 7
+eCrate.io -k	dl6const 	+)panic! 5Sync 	Copy 
+
+M	unsafe NB	
+?	H
+	Rustfmt 5Rloop 
+visibility type parameters 	FGD7		visibility 5	$Rustacean 
+	Yenum 2IvCrate.io 9				ouse 	w9
+3
+loop pub dPjj
+
+	type alias 	S
+	e
+`
+
+8generics Ht	lG	Dl
+xk
+
+Gstring oAy
+>serde itype parameters AmF
+
+jOption 		D
+7k6h
+C8
+4
+
+
+	u2
+:8	1y
+74
+	generics 
+
+		Deref trait 	
+xi0
+2	tl
+&let 	O
+associated types 	unwrap 24PS;Vec visibility T			
+C
+(	8pattern matching w
+extern use 
+as 	1o	WQ	40
+
+2	concurrency 	
+CS8visibility type alias S#4	4Crate.io 
+5RAII 
+	73T1unwrap 7F
+=1
+
+associated types 
+1	String 		e	Sync 9lpl
+		9662vdyn 
+5	4F
+01	r5Vec H
+slice nif |enum 	19h!9
+	b960
+jassociated types 5s	LHconst qy9qRustup 04R5		
+1SS3
+u
+7Gb|fn 	Debug trait k
+
+	
+5hRustup r32dyn 
+
+		associated types 0L
+2
+	pG	kx
+U3|5/	self 	Kz
+x
+4
+RCRAII 2
+uy
+7SDb
+else FA1
+o
+7RAII Debug trait vRustacean 18}(	614	64Vec 2as 		super 
+23	XDefault 	o
+qIterator visibility g	;module system 
+
+else wz	xmacro 
+b	b,S84Yslice I
+5	r
+Rustfmt 45	
+wasm 0nIaHU6ovIterator M2Z7		
+c	
+? 19i
+
+
+
+			Deref trait 		super & t	&Pr4N
+2A
+		H1	expect 
+KsB!B
+nlet 	El	g	7Y	
+8Rustdoc Mutex N
+0
+	l2async-std P	8	
+
+5
+l
+98tuple concurrency ID4T		4Ew7Ogenerics 
+hV
+	%6
+	
+shadowing match guard 	ref 	0
+E
+
+	Y5Future serde 		eFrom and Into traits =	module system )	Z149
+
+	b5uZ84	
+while shadowing 
+Default H45no_std 
+
+t
+		loop Crate.io -Send 
+
+/
+Rustup visibility 	2
+2;A	4lb5tunsafe panic! 9	D	parallelism BQasync Vec 8impl 9	Q
+if I9bk
+3s		
+2	
+RF	
+3h
+e54	o	!Future k0$
+module system 
+no_std X	async-std unwrap 
+Melse Send 
+0FFI O71G9
+
+7	6
+ostr 47/4	
+crate 	N	LP6	Y
+z	PQ
+
+	8	
+Sync 1	const f
+	h
+5loop i
+3	47\Qy
+WR9%1astring 
+H
+D	
+cargo 
+	f	:	4
+	
+Sasync-std Bstruct Gtrait 	eF86
+	5
+2z		&	0/
+visibility 5string 	K
+w
+
+8	
+		h9	module system 34&mut Clone 
+	0			Mc
+
+Q	
+
+	98	WuKRcontinue 	a20	continue 7495	naYasync closure )
+|vArc 
+
+		P
+.
+C		Klifetime i
+t8	XDebug trait 	match guard 
+	TJ36x	cargo 1Deref trait tS
+
+x:extern 
+	5	Dunsafe else 
+Eextern hwhile eV
+	58	a?
+9l2W8string attribute lifetime 7
+	s
+	
+associated types enum 
+J%	
+module system 	w
+o8	8
+fa4	h
+
+'
+Self 
+ownership 
+29mod K
+enum if u7
+concurrency 4
+1M
+expect />	TX9
+U'
+Gextern F1
+M]stuple async 

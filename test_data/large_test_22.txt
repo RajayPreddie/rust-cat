@@ -1,0 +1,183 @@
+
+Py_Pstatic String no_std 87* 
+	K		$
+<	37(	1#
+P	H6
+!	4
+4Xm
+e7h
+;j	cargo ER3
+k
+
+u
+Send 
+"
+b		n
+W	Copy Rustfmt NArc 	Vec =	self trait 
+4G
+-G3
+
+		
+	i	%$closure 
+92	X	derive 6	V	2wDu#[derive] Y	G
+JCrate.io type parameters let serde Box i1(9
+pub 	Pwhile 30
+bp	9(Userde 
+1Deref trait enum 	
+
+
+g3fn trait object 	N	generics 1	JClippy 	& Y7
+5
+	Ik	Iterator 	kg4j	k
+	
+		jMutex U
+
+
+uu	f
+string 
+A	xcontinue 1X	string 	wasm 
+*Arc 	closure 	Yloop 
+type parameters kref dr
+Debug trait n3W2
+	bsuper G2		h	wg
+	0	br
+R3P
+
+
+
+
+parallelism 	extern 	? P2cd3Self Send 	2
+wasm BSs
+q
+Z/c~Ii*^		Debug trait 
+
+1E}7i14str jRAII 	4
+B
+
+V	t	1	T	Rustacean 	
+	;1*w>
+9oc
+pattern matching 	S
+9\N1unsafe 	6E
+async-std PQ	z			%	derive 
+& M	5async-std 
+	4		
+omzDCd8	1F
+z@
+w89Iterator J
+
+1m	
+	self continue 		Vec ^Send Future 	v	Ovisibility 	1type parameters M
+closure Iterator .
+
+$			C	trait w
+
+else Self 	
+E9,1o)I
+4match guard H	VK
+string 	e	Di%SOption >
+]trait 6Wpanic! 	-D8
+6T	Y
+ref 	N
+
+u
+FL	4l5
+E
+2j
+42	
+super unsafe 
+
+S6$use <	4	super 	9
+	3macro_rules! H
+super 
+R
+H	macro T	G`	Result +impl 	
+	
+self T7
+5GHB	l9V	UP	lifetime elision d
+trait bounds LN
+	%Zconst 			FFI 	Deref trait else 	U7u466	5
+
+	xARG
+$2	,2s	
+Rustfmt 0const 
+
+
+7? 0Ob68iXno_std 7U0	"		Pvisibility Emodule system 	oxp
+1Copy 		string 5x34
+Mutex 	
+f8
+* cm9
+
+	
+0Result T0Rustup associated types ]
+Arc Jpanic! 	Drop Fc2t1self D	3
+
+	55
+	cargo 
+3985Debug trait 0
+1
+7	
+
+t
+continue [	6lifetime 		
+N
+B
+macro_rules! async-std CFFI 
+I	3}
+3tFrom and Into traits R	&mut e
+:await 	Ojextern 	4
+P
+d	9A.pmut 
+Rustdoc 	shadowing w8	
+X1k
+umacro_rules! 
+82g3
+Rustup 0
+Fconcurrency 	as 07l1unwrap 	4K	0m&
+const 8	1Z
+2	7dyn 8
+Clippy 	k
+8p
+0	
+>E
+
+	for 
+q4g
+Sync R	
+		9
+[ref 
+FL					@.
+Utoml 1	
+		u2u
+dS9
+1e
+K5	X
+	3cargo str 4MSync k
+C6lTZloop V7	macro_rules! _2n	Fcargo #[derive] z
+2	Amut dyn 
+slice 	
+ownership P	k7
+			xtjv=& parallelism 	C4	wasm 3	7lIterator 	1@Fassociated types S	f
+else 	
+async-std match guard tokio swpanic! 8B
+5o3ownership m
+c	6
+
+tuple 
+shadowing }1e
+Deref trait 	
+QTdL	Q	9Q0p9		s7@	enum 	
+5
+7yif unsafe 4
+
+derive q	fn %2IiRustfmt 7ownership 
+	
+Y
+Dgshadowing U	9
+G6M		Zlifetime elision 
+shadowing 
+4z		1dZawait 		* B
+y	Deref trait 
+81
+Vec parallelism 	Pu	LFuture y	984		Rc 

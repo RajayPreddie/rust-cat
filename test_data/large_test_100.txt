@@ -1,0 +1,193 @@
+continue AdSelf 661pattern matching 0Wv8U6		SQ
+		10S3$string Rc >lifetime elision !
+
+YSend 
+H	visibility Arc 	str 	g8O7panic! 1b
+
+j0P,
+Zasync-std Nk	J
+/Crate.io 
+	P
+ag6	2Eimpl 
+
+4		
+9	88
+	Rustup 	5
+X4	crate 8G
+0continue H? lifetime elision 2"q
+Send attribute 2v8		
+	derive 
+82
+Vec `1gderive 	0crate 					6	mod 
+y*
+	
+V01Tlet 	TOwU	0C	jN	sno_std 
+9
+j	29
+
+nborrow checker Q3	054break 	W259str Y	macro 0h	6N
+ffbpanic! 	;G&mut Istatic self }BY
+
+7SRustup 	Self 		5	6U
+while 	
+9n
+\return ]Ndif 	53Xy	
+<		async 	
+v5l4,M
+H	iSN
+	slice 	cargo continue kS		U1h	
+	pattern matching 
+
+aFFI Vunsafe static D
+slice &mut 85rSSync A
+DL	m9
+	yI
+95	module system type parameters Tc	Vea7	n
+generics L
+
+I	3o	\String 
+|s	kmod &mut E2
+M
+
+og
+
+8g`	oZ7
+5	
+c	J	3	$	Deref trait 
+
+closure 
+type alias unsafe 
+o
+2
+	pub 
+concurrency u9
+f	
+	1
+6b
+09	VT
+6	
+NLparallelism 	gimpl $<
+	S09Vhf6		y		4& 7	
+
+	[		
+	string 8
+Rustup D5	
+shadowing 	
+5		
+u19Box 
+	
+
+cargo breturn f46Mutex 98e			struct 77Vec 2
+
+		7
+
+4
+7impl @macro expect 	From and Into traits 
+7
+
+serde Ecargo ex	
+'2					2derive fjeexpect 	
+self 00
+slice Rustup 
+
+x
+
+
+type alias 
+
+	1	s2	1c		g	5serde 	Result 5	7	
+
+Deref trait 		Self 38}
+match ref 
+
+bwlifetime 		serde v	
+macro 
+	K	
+287NVClone crate +'	r6yq	visibility +9	j91YYq&	From and Into traits 5rQ	iCm
+visibility 		
+K		else u	I	string 	W		z
+
+Eh	d9	z
+
+
+wU	fn V10panic! 
+T	9sK	borrow checker :
+
+	WvY0	A4gYbzsuper 
+ok
+	\
+async-std d1Option 	
+5H
+	
+W		gj:dyn serde borrow checker g
+	
+Send Ye4no_std Rustup 7	Option 
+struct N		4"Z2
+type alias 		TqB~
+
+
+
+derive 	Xl		5
+Result enum 	
+expect UfRenum K
+	jpattern matching Send `
+
+M5
+unwrap macro F1$5kx	shadowing 		W
+	6	continue t3
+
+	2h5Bp3a	unwrap 
+
+]	
+pattern matching 
+91r48	46	ZRAII 7Option 
+panic! 
+
+V6a
+S	self 2
+I
+	tY
+concurrency T	ownership Jep
+mut 78
+)v	
+M1ref 
+dyn 6
+e9	HDefault 
+shadowing 
+	use borrow checker 
+
+A0no_std 	pRAII Q
+
+	
+L	4>tuple 	km2Otlet 		[*	* #[derive] 
+mn
+8		7^>	
+|
+KV
+4
+C
+as 
+	super 
+11	Ptype alias 	
+	
+	d
+
+type parameters pattern matching 1z	use 	HArc 
+C9
+3
+macro .9W	
+	,& Vec =3	6k.VK
+
+Otw1~
+extern 	3Tcu	fn +0La
+80	
+y		hFW3	J		cn
+	6
+v	Vec 7KU		8
+
+
+
+u3	AcSync 	77,3
+8.4		jE507g9string 
+else 3nref 
+

@@ -1,0 +1,201 @@
+E
+J	8R	02
+8
+2
+68
+ematch guard 7
+
+		_aIT& 2	Z4j40		7
+
+6Send wrpanic! 
+
+X	$93	* agreturn string 	
+ljwasm 
+204e
+Wassociated types 	9	
+
+	4	
+	no_std panic! c14
+7
+	
+9nZ
+	h9loop fSend 	H1FFI 6
+& 0
+#		
+	Self 		
+45c
+tClone type alias Iterator 	z	match 
+1nconst pattern matching 
+
+d8	
+	From and Into traits 	Y
+
+	
+
+
+unwrap c1
+KClone H	9"
+Iterator SRustdoc 	use 
+lifetime elision lifetime 
+	Gpanic! static )	super j	visibility vownership extern 
+(match guard 
+12
+Sync let M	"
+tuple /9&borrow checker 	1
+	
+<pub 
+
+return 32
+pHmacro_rules! U
+0Rustdoc static 	module system >E
+			n	Mutex B%type parameters Y^D0
+Vsmatch 	
+	iY	~<
+i	pattern matching 	mtrait bounds 81
+	tY3					mut 0l
+Rustup A
+8y9		F	,	
+Onpattern matching t(0	5h		8	d	FFI q51	4attribute 83
+D6bxRustacean Iterator let m	
+W		W
+L5jas 
+
+Apa7r553I	x
+NW7	
+
+t
+
+3O8
+
+qG	H7&6Icargo 	tuple l	mself 
+o48V$7Rustacean 
+56|
+E4
+v9K
+6pattern matching j}C
+slice 49	7for 
+q274()
+3		q
+~p3ostr gstring 
+6	O
+
+3		Rustdoc y1	
+	r	5
+S
+	&FM	72
+	E	fvg	fslice 
+
+	m35iRustfmt U\T
+1iPedRAII associated types |
+jIterator 	u		
+
+	mod 	F		505mc8	#[derive] 	v
+RAII Drop 	
+Rustup 19
+wo
+64Gmacro_rules! break await 	
+%	7	a
+d
+	
+g#[derive] Xpattern matching 
+0
+w3Q
+
+S
+$	Zkw]p7	j<8Km	4W8	async-std generics 4m
+Kstring associated types f9no_std 
+	ywU
+O	G	const Ci2
+	6			U
+
+f~2	16trait object 		zIterator 
+&76
+Self r	i4	4
+167
+N?.
+A
+b3	
+Sync 	RAII 	
+5		
+enum Debug trait 87t
+
+visibility 
+Luse _	6
+
+
+
+
+G	
+8P
+struct !	
+	
+match 
+5
+tuple 
+i
+6	Box 
+type parameters 	y:
+n
+
+m
+	
+F	{
+
+
+	p	
+
+7		
+m	
+continue 057attribute 9
+
+
+	string 
+		R		VCrate.io pa	8
+
+	
+F6
+		5associated types mPf	r;
+H	
+4Xconcurrency D|cJmod R;attribute 9XMutex 5Ufor Option s		|Arc y
+E
+IA	]	
+Deref trait slice 	p	R9+7w45	3& 	z	0
+fn 
+]
+while Box String 	1	
+]Rustdoc wU	Self z68f4unwrap unwrap async-std DxM	JG43	
+Option 
+Mutex K9
+Clone 
+
+
+
+0'0	8	1pmod 
+Z		w<	]KJ	expect Option 5
+unwrap 6uj
+	Eserde await 3jiM	P^	I1
+(
+			BRc LGoY	kWVz
+Wunwrap 	O	6eW	Gasync-std 	7	Fc	mod M60
+	0	Option 050L
+
+79s	D`
+0i	R6macro 	
+
+impl 
+3uDt3
+
+
+
+RAII y	O354j0Q	39Dnsuper 5Clippy 
+kC
+8\
+plRustdoc 	Fpanic! `5		02toml KEcontinue 	6V2
+2
+90parallelism b
+	g
+	3
+
+	x		macro_rules! loop b	DU
+derive lRAII 
+

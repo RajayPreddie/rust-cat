@@ -1,0 +1,205 @@
+1Y	
+String !			
+6	l	unsafe 	:	V	pattern matching s	Lsconcurrency & (Z		
+lifetime elision else 6Send F2RaC95	F2]? F&mut qtrait 
+707.
+cdC	7
+	
+
+	pt	
+		9derive 	Drop Hw
+	Result crate Eb
+
+l
+struct }
+e
+
+	m
+mFaRustdoc $t		expect LWbx
+	
+
+,
+	5	5
+q	
+async-std t	module system D
+p
+Self 
+c
+4		
+	panic! 	JKH
+str 	7W19	
+g	o	
+	pHunwrap 5
+	A	ownership 24xE	
+	L6
+
+
+Fif 	hs3
+		Clippy 	7
+uBox 
+
+
+async 9	struct 	Rustacean 4B
+$		t
+tokio Self J	m	e
+8	5
+	1
+o6	Rustdoc 03			w8A
+M
+associated types 
+vTw	puU\v
+Copy lRustup as 
+g&Gc8
+4Option 
+E9E.
+u		1await 
+
+lifetime 	
+#[derive] tFFI ii		unsafe 7J0sif D0Tuse 6	PG1~	
+		
+dr
+odyn I
+		0O	
+Zserde 
+0		,6(	37x		4Zattribute k
+	92	Iimpl 
+y		91					6
+	
+	Default 
+	7Gv6
+|T
+
+
+4F9j	Q8+o1	6	Drop 
+1	
+h
+match 
+Pj
+	U	i0b3
+
+	Fy4s7mut 	6
+X
+37m
+Q	
+	>Xr	405static 
+81			
+^use Mbz	o	L
+macro_rules! trait bounds 
+!O	struct ;parallelism 1	async 4
+.76
+x473	9
+R
+panic! F3	match 	ow	J
+	associated types 
+N54
+0Wuse 
+V
+
+slice str 	
+h	S
+
+
+3dlifetime elision 
+E
+U
+SiS
+
+no_std 	+0
+-
+
+
+5From and Into traits Zn
+	7	Default 3Ovisibility derive 	
+Pno_std Result 
+		
+ZSend 
+Z4		closure 34trait bounds 
+X
+
+	;	0L		\S
+
+Swhile QHPconst 
+no_std 4Cr5
+	7	k
+A	3c66>	
+
+
+AGHZ2super FSync (
+	
+4
+	EH		uR
+	S	1trait bounds 
+break 	
+6
+3for p	Ceppattern matching 4
+Cborrow checker O0K	erFuture 
+
+
+generics 5
+6		s
+	
+
+7	
+	tuple 1A2
+
+
+r3:2		
+Rustdoc 	
+parallelism 		/%Box q
+shadowing 
+V$
+i
+	0Eymh2	B
+
+	parallelism 
+Mutex 	macro_rules! &2u	
+8use $	t	
+shadowing continue 7`
+	
+3		else S		3		2
+H	b	RV
+5	
+	
+r5
+
+Rustacean 
+W#[derive] 5
+GY	-=
+9string r	Uawait 4
+Send 	OlRustdoc _D9		`1Clippy 9				borrow checker 07Iw396async-std 2
+3W3
+Sync 3W1UEg
+	
+	QHZ		)M
+Rc 83	=wPE	
+T	
+
+	0	E	ZTH
+	U
+	so9y
+~h
+Future d
+		* E%		Q>	o
+hwwasm Clone 4l7	0		Drop 	mut 9Uasync type alias continue n73as 		@0z* generics LF
+2
+	
+x	
+
+	3		wserde 
+H2	94Self }8hreturn pmatch guard 
+8>		fn 931Clippy else 8impl C82ssuper dyn U	
+H	
+44		
+aZb8
+1		
+1borrow checker 	(trait object 		parallelism 
+tx3N7V3SRAII 1T
+98<	3
+4	u2
+0n3
+
+	
+attribute L	8
+N	Rustdoc 
+26
+.	9	8S

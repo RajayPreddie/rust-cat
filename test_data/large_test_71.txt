@@ -1,0 +1,216 @@
+RH9qtype parameters 0
+O7
+		K
+K
+6lifetime elision OOeL5	%=&tD9Debug trait attribute 
+
+HA		7	L,t		module system Crate.io 
+Ffor 0D
+for 8qI{	break 
+
+	
+9A
+			
+x
+let 
+2	mut h	73derive 3
+
+l
+D
+%C	Kawait async-std serde 		tl3	
+enum 	etuple i34	8	VNtuple 
+9pub return 8wasm 	RAII B		@for 
+4
+parallelism G
+			
+8		5uflifetime elision 9
+6
+	J1pub W	PDefault +F0
+
+
+Z
+
+
+h2u		i
+		
+5P	NGif 	WMutex 	mut 0	super trait serde udimpl Z281
+K4
+
+	
+enum 
+
+
+
+1		nD
+	w6k
+6	& #			
+
+		9
+
+	sq
+else 3n	
+Option +T2macro loop 04self 
+	V
+j40r09		@}0		X
+loop 	
+MlQ
+	3	Send 
+(
+
+	4Default 60	pattern matching let 	5
+const 
+shadowing Result 62pr85
+
+0T		
+>mod T7
+K
+47ceW		Ztrait A4qjv
+	c
+Z
+0	3static 4)	qtoml enum NRustfmt 		j
+7extern 	2struct 0G0
+
+e
+Deref trait 		Send 	toml 
+e	generics Y9I7tokio >
+6mod zgenerics 
+3
+d	14tJ
+& K@7	a
+"
+parallelism 3jcj
+
+T<	0
+
+match guard Q9	64F
+7? 2generics 	04super je
+5
+lS	associated types 
+	Result let 		31
+
+async-std 	9	
+visibility 29
+btm
+attribute u
+7
+H>	E92
+trait Send 6x4
+3
+
+
+closure Z
+attribute string 		use #[derive] lifetime 
+mDrop D
+
+jFrom and Into traits 
+1		
+	
+o
+
+	super e
+		T	
+6G
+1
+lKdgl	knk	
+
+
+Default ref 	Clone 
+9	
+j
+
+
+6e
+6L
+if Copy 205		1*
+
+99'
+
+t	u4Rustacean 
+
+			Future k	DaRustup G5
+1					l5	B	l
+	
+type alias 9>ZK7
+<parallelism 1
+f
+Oattribute else H
+5	7GY2c33
+	80	W		4g	Wstruct 
+FRustup 
+Default 	Vec 6while 	
+8YsS
+slice RAII Option Pref enum 
+	q
+	Result Dasync-std 4impl ?Rustup Sync 	D2o4
+42BXR4
+
+aownership I
+concurrency #		t	
+A262	
+
+Z
+$
+
+}3k6qMref 	k7			toml 
+ZBgenerics N3	
+* /|#	dloop tuple trait object 	let U61
+t
+
+U
+mut dyn W&f		
+07	
+
+8
+
+Crate.io 	vClippy x	I? 5	
+I
+?I	pub 
+6string 	4&mut 
+h
+Mz	RAII 
+	i3Drop else F
+		r
+3Default 	
+7?R
+
+	d}		
+pub 	ttuple 
+i4		
+Fsuper string &
+3c
+			
+dpIimpl trait object 9
+fownership ~		gconst LOption 
+a	2mod 
+
+]type alias super Rustdoc 	2RRustdoc 
+
+	Mutex 
+M6
+u9N7	tokio #[derive] 
+	3[
+3Deref trait 
+7dstatic /
+		
+
+
+aJ
+
+	t
+1Rustdoc 	self f7Rc 	9
+match guard string 4	* 
+2
+	Vec 		9&mut yRc I0async 
+F6		& 	
+impl 0serde 
+XCA8j		Pp15qmbreak dyn D898
+V	3associated types 69,CY
+	for ZYLly
+E
+
+pnString 83J
+2z	c	concurrency 
+		unwrap closure cargo zenum 
+
+	const I	10UE	
+s	#[derive] 0T	

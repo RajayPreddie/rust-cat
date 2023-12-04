@@ -1,0 +1,208 @@
+e
+	Rustdoc 0o	mnOref ? 			^4S42unsafe break 
+
+'		dgenerics 6
+2v9
+>sz	unsafe 	4		
+
+1Clippy 
+Vec 	68Xpanic! byexpect 	1wDebug trait 7NIattribute z
+30
+7Crate.io 
+lifetime H6
+expect const 	00	tbexpect 1S
+attribute crate RN
+8	Dzw
+	R		5	5	+1
+9parallelism 0$while 
+match w8bu	TSync 	derive str h	Future 	U	9
+
+		#	
+
+1ref 
+Jfor no_std 
+0	serde Clippy 7trait 	
+dyn 
+	Rustdoc 	4
+
+unsafe z2g1	
+	
+	
+6async-std toml 96
+
+	i	generics ? 	5F
+L
+9Clippy `	
+34Dh2M9I9	
+0Y
+C3
+1
+
+5511		Rustacean 	lifetime 
+3
+generics CG9	
+44module system lifetime Z5
+Copy module system m
+O		PQOption cargo vmod Sync 9	A4J7
+
+xj
+YJmacro 	
+=:	4	
+3y
+
+ref y	
+	
+
+1O"
+5hmacro_rules! 		s
+	Default $dyn pG4continue 1	m1zx
+G		
+4	9attribute 	tuple 	5
+
+Nstring 3	M0Rstr g
+q
+slice Sync 8
+	44e7
+1match 3let 
+FFI 0if 	b	h(j
+	Js3	macro bVWclosure 16	Nstruct 		6	Box 56
+ebDe.4F	
+	crate 	n	
+
+/4
+N			yFuture Mutex 	
+	
+
+* 359lifetime #[derive] 
+1
+-	const KnO0trait bounds module system rJ
+else 
+as c5h
+	9& 
+	
+closure 
+	
+G
+	5
+U	
+	if 
+
+no_std 
+,7	match Lconcurrency 
+(
+unwrap 	56	z#
+0	:	Zpub Future closure cargo KIPikYx82	e97	lifetime FFI 	mtype parameters 1	Mj5
+FDrop 87a
+serde 	let 		
+D
+F
+hI	w
+
+
+2Box C|let 8const W	QIG	
+4
+
+^
+j	1Qtrait object 
+
+continue f87l	
+
+o
+continue 
+String self 
+$3	match guard !
+FOH	Option 
+u7
+
+7pw
+borrow checker 5/borrow checker struct 4	3
+
+	
+
+6
+o3Gt
+lifetime elision 
++	
+?dbs&mut lVqfn 1FFI 
+{
+	V
+1
+T
+trait bounds 1Dn	WKcpub 
+	.
+serde E
+6
+	2	@
+2T9
+struct 	7t3v}
+8	A	4Wb	continue 
+hwasm 4
+S1struct 
+
+1
+4(89rc	
+
+const S	
+module system 14Msr
+Result Munwrap 	2await 
+Lz
+expect 
+18?90Fsuper 
+2|j	5			
+	_
+	8	j4q2ir
+as q5	toml 4e5c	Z'rq8			U	
+
+d3f
+	&n
+borrow checker ostr 
+C764
+
+=	v>29impl 6
+n*E
+f0rlifetime K
+FFI 
+derive 
+&0
+string 5dyn 		U	hconst 	
+
+i0	
+	
+j
+A1	0
+N	9`5	dyn QJ"	2N		32N
+ref 
+
+	
+hZ:j
+		5|		iW	
+12M		
+attribute 2bvisibility }serde .7!3Self 	Rustup 
+	async 
+a	
+
+	c	m		unsafe shadowing 1	M
+YRAII Y-8	ZjD	else 37]8g
+			k
+	static trait object 	for f\V
+	Rustup Future C
+omodule system 
+no_std 	
+
+Uclosure 
+	generics 		parallelism 	H
+76
+
+C
+	6+&mut }if self loop 5G
+expect {P	%5
+
+Kvasync n			Result 
+	
+
+		panic! 2NNi
+slice H	super 		K4Fd
+
+qVft	Rustacean 
+async-std 1w72		Mutex EqI	8Rserde 
+

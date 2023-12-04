@@ -1,0 +1,8 @@
+	9of9z	1@	return 0
+		
+#loop $CDrop 	-From and Into traits 
+	|	2unsafe ,6"9expect 		Send 	ref 
+	await 	2let 	E	
+5
+	4wasm 
+62

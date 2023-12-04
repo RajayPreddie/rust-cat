@@ -1,0 +1,179 @@
+
+match Kextern 	N%
+Rustacean Rustdoc Ematch 
+
+crate jm	3
+	
+FFI 
+for N4
+
+4s\unsafe _6	
+	
+v50visibility 0
+Hr4
+Option 
+S	H8Ie,12mconst 
+Iterator 	
+3
+9
+type parameters 5expect 	o<	R84	Rc 	
+	
+e	oGI*n
+
+i
+@		:
+N
+extern dmodule system wHFFI 	XR	toml 
+
+	Aws
+f	
+		0	trait H[	3	+I3)		H	trait bounds 6c4eSRc 
+V
+
+`)
+
+Ttrait 
+Q3o
+4b&mut <	borrow checker wStrait object 
+
+H{h		
+8
+vcEbK05
+await )B7fn v9loop Iterator #[derive] j1AP	no_std serde 	h
+4	0crate 6W
+	unsafe 
+Rustacean 3~Y	,	3dyn Rustdoc 
+	0Vec 	S		async 
+s
+	I5as for D
+Ttrait object 6
+lifetime elision Arc oi
+
+	8WU6qs
+3
+		),
+	;5efT	
+
+3
+serde 7
+	3J	8B5Send 			K9p#[derive] 2J		* 2	E
+PRv
+	804
+9	n	Future R
+3P
+
+
+d
+	Deref trait 	
+	7		Eunsafe super ,type parameters Qloop UjOption 0U
+
+		H
+G	1await 
+	tokio 
+94		P
+module system 	6
+self VFrom and Into traits 	(z89X#
+async Ch	W
+W
+	R	t2N* 
+Htoml 1
+B			w1DJ}	kawait shadowing IJ3g
+*Fl
+Clippy J4
+2GOption -macro ]op5z6B1l
+else 	if pub let 		
+
+impl 5Copy JL
+g		2JP
+0Glet 	serde 	6Punwrap 	e3
+toml QClone 3dyn 
+2		
+
+M7
+6	for 
+			Default macro_rules! 	5
+
+c4	#[derive] 
+3bu	|W85
+H
+	4E	CA7Crate.io L
+mod SY	no_std 	3Rustfmt 	2parallelism `9
+
+kstring 
+3async 		i
+Qz
+3	Vec sc	YSlvisibility o	^E39cYQ	[self macro tokio 2&c	7
+9RAII 	E+88Mutex 
+58#{r	
+
+(	
+69	String 
+self x	unwrap 	f{generics 7	
+for 
+match super "		5mod else 2l3String wtzLI	93let macro_rules! 
+	67mmacro_rules! From and Into traits extern 	ri			as 	#[derive] Cj	b	0mod %	bW		if 72
+
+	8	FFI i
+7
+qmut Lcrate 
+1	
+2str 
+gno6D	Sync 
+	rc
+	Rustacean 	while Copy ownership :	wcRAII 0
+
+string 			F
+8s	T	17
+(		str 7Copy bD	
+	qderive wM
+impl g9qi-q	7f
+:Result Result 8nawait 	h9LV	5Jx	>g9y
+^	|z	c	Dwasm 	
+	slice return parallelism Kserde I	B	1h		i-0	f
+7
+	Iterator Sync d
+`
+w6
+
+	Option trait object 	3	else 	
+NE6		while 
+3oDefault 6
+T86
+tokio 	super 0if 
+ojGJSend Hd
+if trait object rWd			
+
+cx5	associated types 
+	D
+Z
+	N	Deref trait 
+type alias trait 		Vec unsafe 3N		w4			
+8Drop 8
+gstatic 
+
+
+
+break L9J/
+F	"PMutex ]U
+Q1F9	9Y5
+9o
+d
+		
+/~		
+n	?5F	lifetime 	crate 3
+	8		
++	+	53S		
+I6	o1
+async-std 
+	(8	
+9Hwhile Hcargo 	for 
+	0J
+FFI e	
+borrow checker 2@
+
+return 70Future -2G8	parallelism 	
+7
+R
+y	w	/	0G56
+z	4	pattern matching betrait 
+	

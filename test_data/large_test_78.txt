@@ -1,0 +1,211 @@
+0	associated types 7B
+	Z8	}mpub 	trait 06		y7Pt0	ref 
+2
+w	G
+Tassociated types ;
+Sync =k.
+8M	u	6macro_rules! @Ml5
+
+
+	4
+	
+		
+
+E
+
+
+	lifetime I
+h
+derive 
+48Box \k0
+7
+			
+		continue 9
+
+ya2$Uswl563			p1	a6
+	)Z	XRustdoc 1<
+	M
+
+mXM
+
+	|Arc 
+static 3M	P7Vy
+1
+& 	wSend if cargo e=		5D
+
+
+1	E~
+	6UjQ
+K;RNC	y
+Wcargo y
+HUM	4y
+mod p
+
+Rustdoc 2f
+qimpl u6
+&	OxROption 1
+
+
+
+4
+1	macro w6	+	F4	2s
+Iterator const serde dyn 		13
+f
+f
+Clippy 0
+3Default 5i
+derive & 03m9	KD
+
+	6Send fn 
+	G4	5N
+%Y	2	
+gstruct 	t		IX
+
+	impl Self 1	
+*	w
+macro_rules! I	
+1I"		
+		53		t
+	pw
+	2X
+	async 3extern 		
+Drop 
+	vRustacean 5	
+
+g
+	5{45		+OKcargo 
+0
+W
+	
+T4Clone 	b@		c
+else R	unsafe 0Jasync-std TOmod M89wasm a
+	
+crate 	\3
+N
+
+K^type parameters 
+O	E
+tokio XSync R	Rustdoc 
+		0	
+
+
+g	0	i
+lDeref trait 	14AMutex slice (_3		Gdtuple 
+CH	
+Vec 9J			m0JC
+31u
+	
+14self 	const associated types match 	type alias A	FA
+
+
++0B
+	(j3	T
+q	8Y	ji
+
+3
+V(c		Option 	D4f
+dq	)	str 
+
+1O	A%
+		m}ytunwrap break 
+	
+,iCopy 6	
+	
+9
+j
+Vec 
+serde 6j	5
+
+macro_rules! 	jBwpub 6Aconcurrency ? 	
+match 
+ds
+:5lifetime elision %
+n	XArc 5cargo loop L
+		
+@H107
+	static 
+#[derive] 
+X
+gmsuper 
+1Cstruct unwrap 	loop 	
+
+2Pe3From and Into traits x	
+U9BWv
+
+3
+	iv	lifetime elision Xt& 
+			
+
+6
+G=4	7Y		S	parallelism LFuture 
+Gmatch guard Iterator string 		
+
+		
+Vec 2	
+1\	4.F
+await Y	4		q	
+d4g-
+
+		f	4unsafe 3
+generics D2	String w
+	b4* y
+9		PjdSend 0xXl7return &Arc i
+yP
+f}
+9TP0C
+limpl 5	0	
+	
+70xself 
+else 	Sync 	l
+Gcrate 1
+K		for hIte	!			,				#
+& 	T8T
+oEr2/ownership 	17
+	mvoq	
+U	
+	fn cargo 	
+	T	d0	
+
+Nawait I0
+type alias Vec E	{	
+y
+7	use 		c^
+5k7
+WNh9r
+	8Ximpl 8
+dX3
+	8
+	wasm qd9borrow checker ,ZL		ZG	99
+
+1enum Rc Dqloop 2
+6H		%0	
+
+
+S	i
+7
+if *
+	*		
+5T
+
+
+
+21gO	7
+	
+CY
+r3Self 
+struct 9	R
+0mTr
+ownership %		K? E34Wz4r
+
+mod pattern matching 	Z	ownership Clone 4(0fn 3
+k	fjR			.
+2v5Mt1no_std 		2
+q
+z92	I1
+	r1<mB	E0
+
+				9e2
+m	8
+k	dUF	47
+	v4
+s

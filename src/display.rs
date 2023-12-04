@@ -1,4 +1,4 @@
-use std::io::{self, Write};
+use std::io::{self};
 use std::process;
 use crate::args::Cli;
 use crate::process_lines::LineProcessor;
@@ -9,7 +9,7 @@ pub fn display_output(filenames: &[String], cli: &Cli) {
     let mut handle = stdout.lock();
     let mut line_processor = LineProcessor::new(cli);
 
-    for (index, filename) in filenames.iter().enumerate() {
+    for filename in filenames {
         match super::io::read_lines(filename) {
             Ok(lines) => {
 

@@ -1,0 +1,205 @@
+
+5
+		9
+-88impl _r
+CN
+Oitype alias Rustacean 4Ey
+		73	w5	197
+	mut 	/
+Bslice & 
+7	
+slice super 
+	g
+await 		
+* extern 8	u	
+S6	
+
+H	S
+KJ2
+	`	
+UL
+toml Option 
+9serde Crate.io 
+e	f		
+5E	Y	8E<=Deref trait 
+tokio 
+	
+
+closure 16
+hcunwrap 	T3match guard r1
+b	wDrop 
+	Option 	3	closure #[derive] 9Clone 
+W	3D68macro 
+
+	
+		super Option 
+#static k	3		
+		pattern matching U
+8	2	
+T&.ref 8
+serde Crate.io Iterator x3	g4
+7
+C
+	O6
+	
+62x	async tokio /		*w	
+G	ownership 
+	
+g	sRownership p
+3	h	w6pub 	module system mb	r,Future 
+YRustup feq
+
+nCcrate q
+
+2y					GM9pA
+			
+
+L	
+tborrow checker 56
+7zH3H
+		
+tmatch S4n	
+`fn 3<
+	macro 78extern TOtrait object 	14
+	w53
+(
+Default 1QZ1
+W2bO3~	M	Kfor yu0p	Z	parallelism 
+g			6	WC8
+
+return 		
+lifetime 57Dn	ttype alias tuple 	XfORustfmt 	778	e27
+else 
+b|4F	
+3*s
+d4
+nownership %
+
+o4		ad2y	tuple TMutex 9* x-YFrom and Into traits 
+
+
+4#7&mut 66expect Wownership mf
+w	
+* V
+|6
+Q20			T	6U7J	Rustdoc R	9
+
+
+
+9w59
+	macro Option 
+rs7Self (continue String 
+	3	&mut 	macro V	P
+
+k:	Edimpl else Mpi^^			8Clone NShjmacro 	borrow checker P
+XClippy 	dyn 	3
+L#[derive] TBox 1
+
+IsW
+	QVec 
+.	
+od.w	17	
+	
+2;2			B* wasm {Arc &		4V& 
+match guard 	9lifetime elision 
+? 	super closure N
+for 
+\6	K
+		F
+	masync 3guse =HCextern iF@while e]Clippy const "	toml 
+	4Q;		
+Nmatch ?tuple 2
+r
+		toml 	F6Xvisibility Uc&	impl VnPyDefault k
+
+	vE7	J
+* B^	6
+6>4	3u
+I
+let Ku5691
+3
+	Rustfmt await h
+
+
+YICCk,9
+4	i4O
+	
+serde 	P
+	
+pub 
+loop 4w		2Q	j	derive e
+
+	^
+y	
+D%cuL	9Send Future & 3		Future 	6P	DB04S4B	generics ;as 
+55unwrap Rustfmt 8h
+da	J		5
+const 
+Wownership expect match G
+Box ;4	Pmacro Crate.io visibility 	x26	extern 
+n%@q:	2y	
+
+	dyn 3/unsafe 8fn self "V	Ttype alias 
+v"	
+
+f	2	Q
+continue 
+3
+type alias 	
+
+
+
+
+
+
+V
+*B2	@3	GSync 
+	D
+7atoml 
+impl RAII 	D	Mutex T5		
+self PNS
+		parallelism Umatch guard O
+	Copy 
+)	gcOption string A
+pub 		
+
+
+	5g
+
+
+4
+	Default s
+)	7
+hh7
+
+
+
+)50E
+
+8
+
+return 
+Mutex 				r
+lw
+	
+d	
+g	
+5	2Dhtuple generics `T9unsafe Wg
+
+4H	6else S2Oo
+	e
+
+extern 
+
+	49trait object 
+	b		
+CK
+01	
+P
+lJ
+	3String 	2pattern matching 019
+	Rustdoc leE4derive 
+4closure 	3`s
+
+ref 0
+wref 9w	X01
