@@ -32,7 +32,7 @@ impl<'a> LineProcessor<'a> {
     }
 
     fn handle_blank_lines(&mut self, line: &str) {
-        if !self.contains_nonprinting_chars(line) && !line.contains("\t") && line.trim().is_empty()
+        if !self.contains_nonprinting_chars(line) && !line.contains('\t') && line.trim().is_empty()
         {
             self.number_of_consecutive_blank_lines += 1;
         } else {
@@ -61,7 +61,7 @@ impl<'a> LineProcessor<'a> {
         if self.cli.show_non_blank_line_numbers
             && (!line.trim().is_empty()
                 || self.contains_nonprinting_chars(line)
-                || line.contains("\t"))
+                || line.contains('\t'))
         {
             processed_line = self.add_line_numbers(line);
         }
@@ -70,8 +70,8 @@ impl<'a> LineProcessor<'a> {
 
     fn show_ends(&self, line: &str) -> String {
         let mut processed_line = line.to_string();
-        if self.cli.show_ends && line.ends_with("\n") {
-            processed_line = line.replace("\n", "$\n");
+        if self.cli.show_ends && line.ends_with('\n') {
+            processed_line = line.replace('\n', "$\n");
         }
 
         processed_line
@@ -111,7 +111,7 @@ impl<'a> LineProcessor<'a> {
     fn show_tabs(&self, line: &str) -> String {
         let mut processed_line = line.to_string();
         if self.cli.show_tabs {
-            processed_line = line.replace("\t", "^I");
+            processed_line = line.replace('\t', "^I");
         }
         processed_line
     }
@@ -132,7 +132,7 @@ impl<'a> LineProcessor<'a> {
             processed_line = self.highlight_line(
                 &self.syntax_set,
                 &self.theme_set.themes["base16-ocean.dark"],
-                &line,
+                line,
             );
         }
         processed_line
@@ -197,7 +197,7 @@ impl<'a> LineProcessor<'a> {
             }
 
             if line.contains(term) {
-                let mut processed_line = self.process_line(&line);
+                let mut processed_line = self.process_line(line);
                 processed_line = Self::highlight_search_term(&processed_line, term);
                 if let Err(e) = writeln!(handle, "{}", processed_line) {
                     eprintln!("Error writing to stdout: {}", e);
@@ -221,7 +221,7 @@ impl<'a> LineProcessor<'a> {
                 continue;
             }
 
-            let processed_line = self.process_line(&line);
+            let processed_line = self.process_line(line);
             if let Err(e) = write!(handle, "{}", processed_line) {
                 eprintln!("Error writing to stdout: {}", e);
                 break;
