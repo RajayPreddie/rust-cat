@@ -6,7 +6,7 @@ use std::process::Command;
 
 fn compare_rustcat_and_cat(test_args: &Vec<&str>) {
     let test_files = fs::read_dir("test_data").unwrap();
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+  
     for file in test_files {
         let file = file.unwrap();
         let file_name = file.file_name();
@@ -32,7 +32,7 @@ fn compare_rustcat_and_cat(test_args: &Vec<&str>) {
 
 fn compare_rustcat_and_cat_for_linux(rustcat_args: &Vec<&str>, cat_args: &Vec<&str>) {
     let test_files = fs::read_dir("test_data").unwrap();
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+  
     for file in test_files {
         let file = file.unwrap();
         let file_name = file.file_name();
@@ -118,7 +118,7 @@ fn test_file_exists() {
 fn test_show_nonprinting() {
     let test_args = vec!["-v"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+   
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -126,7 +126,7 @@ fn test_show_nonprinting() {
 fn test_show_nonprinting_and_tabs() {
     let test_args = vec!["-t"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -134,14 +134,14 @@ fn test_show_nonprinting_and_tabs() {
 fn test_show_line_numbers() {
     let test_args = vec!["-n"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+
     compare_rustcat_and_cat(&test_args);
 }
 #[test]
 fn test_show_non_blank_line() {
     let test_args = vec!["-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -149,7 +149,7 @@ fn test_show_non_blank_line() {
 fn test_show_squeeze_blank() {
     let test_args = vec!["-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+  
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -157,7 +157,7 @@ fn test_show_squeeze_blank() {
 fn test_show_nonprinting_and_ends() {
     let test_args = vec!["-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+ 
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -165,7 +165,7 @@ fn test_show_nonprinting_and_ends() {
 fn test_show_nonprinting_and_tabs_for_linux() {
     let rustcat_args = vec!["-v", "-T"];
     let cat_args = vec!["-t"];
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+  
     compare_rustcat_and_cat_for_linux(&rustcat_args, &cat_args);
 }
 
@@ -173,7 +173,7 @@ fn test_show_nonprinting_and_tabs_for_linux() {
 fn test_show_nonprinting_and_ends_for_linux() {
     let rustcat_args = vec!["-v", "-E"];
     let cat_args = vec!["-e"];
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat_for_linux(&rustcat_args, &cat_args);
 }
 
@@ -186,8 +186,8 @@ fn test_show_all_for_linux() {
 
 #[test]
 fn test_show_all_for_linux_multiple_files() {
-    let rustcat_args = vec!["-A", "test_data/test1.txt"];
-    let cat_args = vec!["-e", "-t", "-v", "test_data/test1.txt"];
+    let rustcat_args = vec!["-A", "test_data/large_test_1.txt"];
+    let cat_args = vec!["-e", "-t", "-v", "test_data/large_test_1.txt"];
     compare_rustcat_and_cat_for_linux(&rustcat_args, &cat_args);
 }
 
@@ -195,7 +195,7 @@ fn test_show_all_for_linux_multiple_files() {
 fn test_v_t() {
     let test_args = vec!["-v", "-t"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -203,7 +203,7 @@ fn test_v_t() {
 fn test_v_n() {
     let test_args = vec!["-v", "-n"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -211,7 +211,7 @@ fn test_v_n() {
 fn test_v_b() {
     let test_args = vec!["-v", "-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -219,7 +219,7 @@ fn test_v_b() {
 fn test_v_e() {
     let test_args = vec!["-v", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -227,7 +227,7 @@ fn test_v_e() {
 fn test_v_s() {
     let test_args = vec!["-v", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -235,7 +235,7 @@ fn test_v_s() {
 fn test_v_t_n() {
     let test_args = vec!["-v", "-t", "-n"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -243,7 +243,7 @@ fn test_v_t_n() {
 fn test_v_n_b() {
     let test_args = vec!["-v", "-n", "-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -251,7 +251,7 @@ fn test_v_n_b() {
 fn test_v_b_e() {
     let test_args = vec!["-v", "-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -259,7 +259,7 @@ fn test_v_b_e() {
 fn test_v_e_s() {
     let test_args = vec!["-v", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -267,7 +267,7 @@ fn test_v_e_s() {
 fn test_v_t_n_b() {
     let test_args = vec!["-v", "-t", "-n", "-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -275,7 +275,7 @@ fn test_v_t_n_b() {
 fn test_v_n_b_e() {
     let test_args = vec!["-v", "-n", "-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -283,7 +283,7 @@ fn test_v_n_b_e() {
 fn test_v_b_e_s() {
     let test_args = vec!["-v", "-b", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -291,7 +291,7 @@ fn test_v_b_e_s() {
 fn test_v_t_n_b_e() {
     let test_args = vec!["-v", "-t", "-n", "-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -299,7 +299,7 @@ fn test_v_t_n_b_e() {
 fn test_v_n_b_e_s() {
     let test_args = vec!["-v", "-n", "-b", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -307,7 +307,7 @@ fn test_v_n_b_e_s() {
 fn test_t_n() {
     let test_args = vec!["-t", "-n"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -315,7 +315,7 @@ fn test_t_n() {
 fn test_t_b() {
     let test_args = vec!["-t", "-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -323,7 +323,7 @@ fn test_t_b() {
 fn test_t_e() {
     let test_args = vec!["-t", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -331,7 +331,7 @@ fn test_t_e() {
 fn test_t_s() {
     let test_args = vec!["-t", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -339,7 +339,7 @@ fn test_t_s() {
 fn test_t_n_b() {
     let test_args = vec!["-t", "-n", "-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -347,7 +347,7 @@ fn test_t_n_b() {
 fn test_t_b_e() {
     let test_args = vec!["-t", "-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -355,7 +355,7 @@ fn test_t_b_e() {
 fn test_t_e_s() {
     let test_args = vec!["-t", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -363,7 +363,7 @@ fn test_t_e_s() {
 fn test_t_n_b_e() {
     let test_args = vec!["-t", "-n", "-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -371,7 +371,7 @@ fn test_t_n_b_e() {
 fn test_t_b_e_s() {
     let test_args = vec!["-t", "-b", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -379,7 +379,7 @@ fn test_t_b_e_s() {
 fn test_t_n_b_e_s() {
     let test_args = vec!["-t", "-n", "-b", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -387,14 +387,14 @@ fn test_t_n_b_e_s() {
 fn test_n_b() {
     let test_args = vec!["-n", "-b"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 #[test]
 fn test_n_e() {
     let test_args = vec!["-n", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -402,7 +402,7 @@ fn test_n_e() {
 fn test_n_s() {
     let test_args = vec!["-n", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -410,7 +410,7 @@ fn test_n_s() {
 fn test_n_b_e() {
     let test_args = vec!["-n", "-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -418,7 +418,7 @@ fn test_n_b_e() {
 fn test_n_e_s() {
     let test_args = vec!["-n", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -426,7 +426,7 @@ fn test_n_e_s() {
 fn test_b_e() {
     let test_args = vec!["-b", "-e"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -434,7 +434,7 @@ fn test_b_e() {
 fn test_b_s() {
     let test_args = vec!["-b", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -442,7 +442,7 @@ fn test_b_s() {
 fn test_b_e_s() {
     let test_args = vec!["-b", "-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
@@ -450,9 +450,7 @@ fn test_b_e_s() {
 fn test_e_s() {
     let test_args = vec!["-e", "-s"];
 
-    // vec![ "-v","-t","-n", "-b",  "-e", "-s" ];
+    
     compare_rustcat_and_cat(&test_args);
 }
 
-// TODO: Test search and test multiple files, change number but use all flags
-// search copy paste from above and add search term

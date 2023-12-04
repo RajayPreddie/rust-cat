@@ -1,5 +1,0 @@
-M	type parameters vSelf From and Into traits 	
-r7		:496X	4+K-const +no_std 
-module system !		2B
-const ;	8Cz39Debug trait 
-Copy !3	8	CF1	

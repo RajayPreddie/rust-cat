@@ -1,11 +1,0 @@
-1
-	5
-		O	pattern matching +		;f
-	e1
-trait object 2associated types 	ew	Oattribute 8s&mut 
-1wasm 
-U
-type parameters 
-	
-impl 6macro shadowing pattern matching String 7#Option 
-

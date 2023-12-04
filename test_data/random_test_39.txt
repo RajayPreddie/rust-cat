@@ -1,9 +1,0 @@
-t!
-tloop 0	Jn	o	generics %Box 
-h
-
-	7self T:z9/Result Clone 	PFderive 9ZMutex shadowing 
-
-	pattern matching 
-	9.	N
-5v66

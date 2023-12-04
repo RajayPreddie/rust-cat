@@ -1,10 +1,0 @@
-3
-
-5
-break U
-	8	2str 	t2	Clone cKsT
-
-&mut 2e
-	
-self 2U
-%		A2		48S	4dsKe=.

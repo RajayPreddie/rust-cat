@@ -1,11 +1,0 @@
-Sync 
-impl Copy 8
-m	m	7	S2r	q	dRc E	
-Ttstatic s:1Epattern matching no_std 
-J	t
-sQw(trait 
-b
-2:pb
-
-
-j5	

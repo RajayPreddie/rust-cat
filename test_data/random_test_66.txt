@@ -1,10 +1,0 @@
-
-@016	sY2	
-
-serde 0	Send qC,
-	q6
-0Vec 
-9k
-shadowing expect 	Zclosure 	v
-	4b/F	attribute 	L	D8Send impl 
-	2	

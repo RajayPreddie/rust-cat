@@ -1,2 +1,0 @@
-Line with tab	character.
-Another line	with tab	character.

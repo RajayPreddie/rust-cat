@@ -1,9 +1,0 @@
-Umacro_rules! 
-	6pderive 
-96
-c3(c	{	M4	Deref trait 1W6
-1.08Rustfmt 	
-6async 
-6N		%
-nimpl 4extern 	r	1
-	4:

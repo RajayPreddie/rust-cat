@@ -1,14 +1,0 @@
-7	macro_rules! A
-	.		static 
-,	S	Ncrate =
-20	type alias 
-5
-
-await 
-Ldyn 
-
-F19jcargo 52ZFu
-Qcontinue mod 
-
-08
-Yh5

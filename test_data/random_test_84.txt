@@ -1,12 +1,0 @@
-
-NFuture bo
-	mdyn 
-parallelism RMbreak 	
-d	4		ftokio 
-panic! *	d,async-std w0
-|R	
-
-yx
-
-if `mut 	[z
-qj7	

@@ -1,8 +1,0 @@
-U0o			
-	L	7
-i	0598\	!hf=? .	47
-4i	807
-String E	string 				4Default Clone 
-
-6	
-

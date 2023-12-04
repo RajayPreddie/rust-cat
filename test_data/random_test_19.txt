@@ -1,11 +1,0 @@
-1r		9w?	
-
-loop Self &8parallelism 
-
-	Rustup ;etype parameters 
-R*		i8
-
-	6pub jX3attribute 	ownership c
-e		q99Y	9Wpub 2	
-
-Fmq
