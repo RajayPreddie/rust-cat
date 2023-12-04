@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::io::{self, BufRead, BufReader};
-// TODO: Test by running results against cat
+
 pub fn read_lines(filename: &str) -> io::Result<Vec<String>> {
     let file = File::open(filename)?;
     let mut reader = BufReader::new(file);

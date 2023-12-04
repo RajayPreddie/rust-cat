@@ -8,15 +8,14 @@ pub struct Cli {
     #[arg(required = true)]
     pub files: Vec<String>,
     /// Search term
-    #[arg(short ='f', long ="search")]
+    #[arg(short = 'f', long = "search")]
     pub search: Option<String>,
 
-    #[arg(short='n', long="number")]
+    #[arg(short = 'n', long = "number")]
     pub show_line_numbers: bool,
 
-    #[arg(short='b', long="number-nonblank")]
+    #[arg(short = 'b', long = "number-nonblank")]
     pub show_non_blank_line_numbers: bool,
-
 
     #[arg(short = 'E', long = "show-ends")]
     pub show_ends: bool,
@@ -29,21 +28,17 @@ pub struct Cli {
     #[arg(short = 'T', long = "show-tabs")]
     pub show_tabs: bool,
 
-
-    #[arg(short='e', long="show-nonprinting-and-ends")]
+    #[arg(short = 'e', long = "show-nonprinting-and-ends")]
     pub show_nonprinting_and_ends: bool,
 
-
-    #[arg(short='t', long="show-nonprinting-and-tabs")]
+    #[arg(short = 't', long = "show-nonprinting-and-tabs")]
     pub show_nonprinting_and_tabs: bool,
 
-
-    #[arg(short='A', long="show-all")]
+    #[arg(short = 'A', long = "show-all")]
     pub show_all: bool,
 
-    #[arg(short='x', long="highlight-syntax")]
+    #[arg(short = 'x', long = "highlight-syntax")]
     pub highlight_syntax: bool,
-
 }
 
 impl Cli {
@@ -51,10 +46,10 @@ impl Cli {
         let mut cli = Cli::parse();
         cli.adjust_combined_flags();
         cli.override_show_line_numbers();
-        
+
         cli
     }
-     fn adjust_combined_flags(&mut self) {
+    fn adjust_combined_flags(&mut self) {
         if self.show_nonprinting_and_ends {
             self.show_nonprinting = true;
             self.show_ends = true;
@@ -70,37 +65,9 @@ impl Cli {
         }
     }
 
-     fn override_show_line_numbers(&mut self) {
+    fn override_show_line_numbers(&mut self) {
         if self.show_non_blank_line_numbers {
             self.show_line_numbers = false;
         }
     }
 }
-
-/* 
-#[cfg(test)]
-mod tests {
-
-    use super::*;
-
-    #[test]
-    fn test_cli() {
-
-        let cli = Cli::new();
-    
-        assert_eq!(cli.search, None);
-        assert_eq!(cli.show_line_numbers, false);
-        assert_eq!(cli.show_non_blank_line_numbers, false);
-        assert_eq!(cli.show_ends, false);
-        assert_eq!(cli.show_nonprinting, false);
-        assert_eq!(cli.squeeze_blank, false);
-        assert_eq!(cli.show_tabs, false);
-        assert_eq!(cli.show_nonprinting_and_ends, false);
-        assert_eq!(cli.show_nonprinting_and_tabs, false);
-        assert_eq!(cli.show_all, false);
-        assert_eq!(cli.highlight_syntax, false);
-
-    }
-
-}
-*/
