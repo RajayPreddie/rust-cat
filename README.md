@@ -32,7 +32,6 @@ RustCat includes numerous command-line options for flexible file processing:
 - **Number All Lines:** `rustcat -n file`or `rustcat --number file` - Number all output lines.
 - **Squeeze Blank Lines:** `rustcat -s file` or `rustcat --squeeze-blank file` - Suppress multiple consecutive empty lines.
 - **Show All:**  `ruscat -A file` or `rustcat --show-all file` is the same as -vET.
-- **Exclusive Lock on Output:** `rustcat -l file` - Apply an exclusive lock on the output file descriptor.
 - **Syntax Highlighting:** `ruscat -x file` or `rustcat --highlight filename.rs` - Syntax highlighting for supported languages.
 - **Search in File:** `rustcat -f "search term" file` or `rustcat --search "search term" file` - Highlight a specified search term within a file.
 - **Help and Version Info:** 
