@@ -32,7 +32,7 @@ RustCat includes numerous command-line options for flexible file processing:
 - **Number All Lines:** `rustcat -n file`or `rustcat --number file` - Number all output lines.
 - **Squeeze Blank Lines:** `rustcat -s file` or `rustcat --squeeze-blank file` - Suppress multiple consecutive empty lines.
 - **Show All:**  `ruscat -A file` or `rustcat --show-all file` is the same as -vET.
-- **Syntax Highlighting:** `ruscat -x file` or `rustcat --highlight filename.rs` - Syntax highlighting for supported languages.
+- **Syntax Highlighting:** `ruscat -x file` or `rustcat --highlight filename.rs` - Syntax highlighting (the syntax highlight is for .rs extensions but the highlighting also works for .py)
 - **Search in File:** `rustcat -f "search term" file` or `rustcat --search "search term" file` - Highlight a specified search term within a file.
 - **Help and Version Info:** 
   - `rustcat --help` - Display detailed usage instructions.
@@ -49,9 +49,9 @@ The next steps for this project would be the following:
 
 # Acknowledgements
 This project was developed with the aid of ChatGPT. Here are some of the ChatGPT links:
-1) 
-2) 
-3) 
+1) https://chat.openai.com/share/d35634d7-16e1-433d-9875-6510562d052b
+2) https://chat.openai.com/share/d35634d7-16e1-433d-9875-6510562d052b
+3) https://chat.openai.com/share/06abcfb0-4af8-4ecb-b156-6a542f5792b1
 I also utilized the manual for Unix and Linux:
 1) https://www.man7.org/linux/man-pages/man1/cat.1.html
 2) https://ss64.com/bash/cat.html

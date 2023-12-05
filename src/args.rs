@@ -32,7 +32,7 @@ use clap::Parser;
 #[clap(version = env!("CARGO_PKG_VERSION"))]
 pub struct Cli {
     /// Field Definitions
-    ///
+    /// ------------------
     /// Files to display
     #[arg(required = true)]
     pub files: Vec<String>,

@@ -14,17 +14,17 @@ use syntect::highlighting::{Theme, ThemeSet};
 use syntect::parsing::SyntaxSet;
 
 pub struct LineProcessor<'a> {
-    // Field definitions
-
-    // A reference to the `Cli` struct containing the command-line options.
+    /// Field definitions
+    /// -----------------
+    /// A reference to the `Cli` struct containing the command-line options.
     pub cli: &'a Cli,
-    // The current line number of the file being processed.
+    /// The current line number of the file being processed.
     pub file_line_number: usize,
-    // The number of consecutive blank lines encountered.
+    /// The number of consecutive blank lines encountered.
     pub number_of_consecutive_blank_lines: usize,
-    // The syntax set for syntax highlighting.
+    /// The syntax set for syntax highlighting.
     pub syntax_set: SyntaxSet,
-    // The theme set for syntax highlighting.
+    /// The theme set for syntax highlighting.
     pub theme_set: ThemeSet,
 }
 
@@ -55,6 +55,8 @@ impl<'a> LineProcessor<'a> {
     }
     /// Handles blank lines based on the specified command-line options.
     fn handle_blank_lines(&mut self, line: &str) {
+        // Blank line does not contain any non-printing characters or tabs
+        // Blank line needs to be empty or contain only whitespace
         if !self.contains_nonprinting_chars(line) && !line.contains('\t') && line.trim().is_empty()
         {
             self.number_of_consecutive_blank_lines += 1;
@@ -69,8 +71,9 @@ impl<'a> LineProcessor<'a> {
     }
     /// Adds line numbers to the given line.
     fn add_line_numbers(&mut self, line: &str) -> String {
+        // Format the line number and line
         let processed_line = format!("{:>6}\t{}", self.file_line_number, line).to_string();
-        self.file_line_number += 1;
+        self.increment_line_number();
         processed_line
     }
     /// Shows the line numbers for the given line if the corresponding CLI option is enabled.
@@ -84,8 +87,12 @@ impl<'a> LineProcessor<'a> {
     /// Shows the line numbers for non-blank lines only if the corresponding CLI option is enabled.
     fn show_non_blank_line_numbers(&mut self, line: &str) -> String {
         let mut processed_line = line.to_string();
+
+        // Check if the show_non_blank_line_numbers option is enabled
         if self.cli.show_non_blank_line_numbers
+        // Check if the line is not empty
             && (!line.trim().is_empty()
+            // Check if the line contains non-printing characters or tabs
                 || self.contains_nonprinting_chars(line)
                 || line.contains('\t'))
         {
@@ -96,6 +103,8 @@ impl<'a> LineProcessor<'a> {
     /// Shows the line end symbol `$` for the given line if the corresponding CLI option is enabled.
     fn show_ends(&self, line: &str) -> String {
         let mut processed_line = line.to_string();
+        // Check if the show_ends option is enabled
+        // Check if the line ends with a newline before adding the symbol.
         if self.cli.show_ends && line.ends_with('\n') {
             processed_line = line.replace('\n', "$\n");
         }
@@ -107,6 +116,7 @@ impl<'a> LineProcessor<'a> {
         let mut displayed = String::new();
 
         for c in s.chars() {
+            // Check if the character is a non-printing character
             if c.is_control() && c != '\n' && c != '\t' {
                 // Handle non-printing characters
                 if c as u32 <= 31 {
@@ -143,7 +153,16 @@ impl<'a> LineProcessor<'a> {
     }
     /// Highlights the syntax of the given line if the corresponding CLI option is enabled.
     fn highlight_line(&self, syntax_set: &SyntaxSet, theme: &Theme, line: &str) -> String {
-        let mut h = HighlightLines::new(syntax_set.find_syntax_by_extension("rs").unwrap(), theme);
+        // Initialize the highlighter
+        let mut h = match syntax_set.find_syntax_by_extension("rs") {
+            Some(syntax) => HighlightLines::new(syntax, theme),
+            None => {
+                // Handle the error, e.g., use a default syntax
+                let default_syntax = syntax_set.find_syntax_plain_text();
+                HighlightLines::new(default_syntax, theme)
+            }
+        };
+        // Highlight the line
         match h.highlight_line(line, syntax_set) {
             Ok(ranges) => syntect::util::as_24_bit_terminal_escaped(&ranges[..], false),
             Err(e) => {
@@ -201,14 +220,11 @@ impl<'a> LineProcessor<'a> {
         let mut processed_line = line.to_string();
 
         processed_line = self.show_non_blank_line_numbers(&processed_line);
-
         processed_line = self.show_nonprinting(&processed_line);
         processed_line = self.show_line_numbers(&processed_line);
         processed_line = self.show_ends(&processed_line);
         processed_line = self.show_tabs(&processed_line);
-
         processed_line = self.highlight_syntax(&processed_line);
-
         processed_line
     }
 
@@ -220,11 +236,14 @@ impl<'a> LineProcessor<'a> {
         term: &str,
     ) {
         for line in lines {
+            // Handle blank lines
             self.handle_blank_lines(line);
+
+            // Skip the line if necessary
             if self.is_skipping_blank_line() {
                 continue;
             }
-
+            // Check if the line contains the search term
             if line.contains(term) {
                 let mut processed_line = self.process_line(line);
                 processed_line = Self::highlight_search_term(&processed_line, term);
@@ -245,11 +264,13 @@ impl<'a> LineProcessor<'a> {
         handle: &mut io::StdoutLock<'_>,
     ) {
         for line in lines {
+            // Handle blank lines
             self.handle_blank_lines(line);
+            // Skip the line if necessary
             if self.is_skipping_blank_line() {
                 continue;
             }
-
+            // Process and display the line
             let processed_line = self.process_line(line);
             if let Err(e) = write!(handle, "{}", processed_line) {
                 eprintln!("Error writing to stdout: {}", e);
@@ -259,6 +280,7 @@ impl<'a> LineProcessor<'a> {
     }
     /// Processes and displays the given lines based on the specified command-line options. Decides whether to search or not.
     pub fn process_and_display_lines(&mut self, lines: &[String], handle: &mut io::StdoutLock<'_>) {
+        // Check if the search option is enabled
         if let Some(term) = &self.cli.search {
             self.process_and_display_lines_search(lines, handle, term);
         } else {
