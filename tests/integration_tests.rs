@@ -1,9 +1,26 @@
+//! # Integration Tests for RustCat
+//!
+//! This module contains integration tests for the RustCat application. RustCat is an enhanced
+//! reimplementation of the Unix `cat` command with extended functionalities like line numbering,
+//! syntax highlighting, and more.
+//!
+//! The tests in this module are designed to ensure that RustCat correctly implements all its
+//! intended features and behaves as expected in various scenarios. This includes testing for:
+//!
+//! - Basic file display and concatenation functionalities.
+//! - Command-line options like displaying non-printing characters, line numbering, squeezing blank lines, and more.
+//! - Error handling for non-existent files or directories.
+//! - Comparing RustCat's output with the traditional Unix `cat` command to ensure feature parity.
+//!
+//! These tests use a combination of simulated command-line invocations and file operations to
+//! validate the correctness and reliability of RustCat under different conditions and inputs.
 use assert_cmd::prelude::*;
 use predicates::prelude::*;
 use std::env;
 use std::fs::{self};
 use std::process::Command;
 
+/// Compares the output of RustCat and the traditional Unix `cat` command.
 fn compare_rustcat_and_cat(test_args: &Vec<&str>) {
     let test_files = fs::read_dir("test_data").unwrap();
 
@@ -29,7 +46,7 @@ fn compare_rustcat_and_cat(test_args: &Vec<&str>) {
         }
     }
 }
-
+/// Compares the output of RustCat and the traditional Unix `cat` command for Linux.
 fn compare_rustcat_and_cat_for_linux(rustcat_args: &Vec<&str>, cat_args: &Vec<&str>) {
     let test_files = fs::read_dir("test_data").unwrap();
 
@@ -62,7 +79,7 @@ fn compare_rustcat_and_cat_for_linux(rustcat_args: &Vec<&str>, cat_args: &Vec<&s
         );
     }
 }
-
+/// The rest of the tests are testing the basic fuctionality of the program.
 #[test]
 fn test_help() {
     let mut cmd = assert_cmd::Command::cargo_bin("rustcat").unwrap();
