@@ -4,7 +4,7 @@
 //! It handles the formatting and presentation of file contents based on the command-line
 //! options specified by the user.
 //!
-//! The module leverages the `LineProcessor` for processing lines of the files and 
+//! The module leverages the `LineProcessor` for processing lines of the files and
 //! utilizes Rust's standard I/O capabilities for outputting the processed text.
 use crate::args::Cli;
 use crate::process_lines::LineProcessor;
@@ -28,7 +28,7 @@ pub fn display_output(filenames: &[String], cli: &Cli) {
     let stdout = io::stdout(); // Get handle to stdout
     let mut handle = stdout.lock(); // Lock the handle to stdout
     let mut line_processor = LineProcessor::new(cli); // Initialize the line processor
-    // Iterate over each filename
+                                                      // Iterate over each filename
     for filename in filenames {
         // Read the lines of the file
         match super::io::read_lines(filename) {
@@ -41,7 +41,10 @@ pub fn display_output(filenames: &[String], cli: &Cli) {
                 eprintln!(
                     "rustcat: {}: {}",
                     filename,
-                    e.to_string().split(" (os error").next().unwrap_or(&e.to_string())
+                    e.to_string()
+                        .split(" (os error")
+                        .next()
+                        .unwrap_or(&e.to_string())
                 );
                 process::exit(1);
             }

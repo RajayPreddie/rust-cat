@@ -27,11 +27,9 @@ use std::io::{self, BufRead, BufReader};
 /// let lines = read_lines("example.txt").expect("Failed to read the file");
 /// ```
 pub fn read_lines(filename: &str) -> io::Result<Vec<String>> {
-
-
     let file = File::open(filename)?; // Open the file
     let mut reader = BufReader::new(file); // Create a buffered reader
-    let mut lines = Vec::new();// Create a vector to hold the lines
+    let mut lines = Vec::new(); // Create a vector to hold the lines
     let mut line = String::new(); // Create a string to hold each line
 
     // Read each line and push it to the vector

@@ -32,7 +32,7 @@ use clap::Parser;
 #[clap(version = env!("CARGO_PKG_VERSION"))]
 pub struct Cli {
     /// Field Definitions
-    /// 
+    ///
     /// Files to display
     #[arg(required = true)]
     pub files: Vec<String>,
@@ -86,7 +86,7 @@ impl Cli {
 
         cli
     }
-     /// Adjusts flags for combined command-line options.
+    /// Adjusts flags for combined command-line options.
     ///
     /// This method sets the necessary individual flags when combined flags are used.
     /// For example, enabling `show_nonprinting_and_ends` will set both `show_nonprinting`
@@ -108,12 +108,11 @@ impl Cli {
             self.show_tabs = true;
         }
     }
-     /// Overrides the `show_line_numbers` flag if `show_non_blank_line_numbers` is set.
+    /// Overrides the `show_line_numbers` flag if `show_non_blank_line_numbers` is set.
     ///
     /// This ensures that non-blank line numbers are shown correctly without conflicting
     /// with the general line number display.
     fn override_show_line_numbers(&mut self) {
-        
         if self.show_non_blank_line_numbers {
             self.show_line_numbers = false;
         }

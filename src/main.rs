@@ -25,6 +25,6 @@ mod process_lines;
 /// ```
 /// This will display the content of `myfile.txt` using RustCat's enhanced display features.
 fn main() {
-    let cli = Cli::new();  // Initializes command-line arguments
+    let cli = Cli::new(); // Initializes command-line arguments
     display::display_output(&cli.files, &cli); // Calls the display module to process and output the file contents
 }

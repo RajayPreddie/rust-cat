@@ -14,8 +14,8 @@ use syntect::highlighting::{Theme, ThemeSet};
 use syntect::parsing::SyntaxSet;
 
 pub struct LineProcessor<'a> {
-    // Field definitions 
-    
+    // Field definitions
+
     // A reference to the `Cli` struct containing the command-line options.
     pub cli: &'a Cli,
     // The current line number of the file being processed.
@@ -29,12 +29,10 @@ pub struct LineProcessor<'a> {
 }
 
 impl<'a> LineProcessor<'a> {
-
     /// Constructs a new `LineProcessor`.
     ///
     /// Initializes syntax and theme sets for syntax highlighting and sets the initial state for line processing.
     pub fn new(cli: &'a Cli) -> Self {
-        
         let syntax_set = SyntaxSet::load_defaults_newlines(); // Initialize syntax set
         let theme_set = ThemeSet::load_defaults(); // Initialize theme set
         LineProcessor {
@@ -45,7 +43,6 @@ impl<'a> LineProcessor<'a> {
             theme_set,
         }
     }
-
 
     /// Checks if the given character is a non-printing character.
     fn is_nonprinting_char(&self, c: char) -> bool {
@@ -58,7 +55,6 @@ impl<'a> LineProcessor<'a> {
     }
     /// Handles blank lines based on the specified command-line options.
     fn handle_blank_lines(&mut self, line: &str) {
-        
         if !self.contains_nonprinting_chars(line) && !line.contains('\t') && line.trim().is_empty()
         {
             self.number_of_consecutive_blank_lines += 1;
